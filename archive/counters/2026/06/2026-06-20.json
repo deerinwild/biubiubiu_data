@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "updatedAt": "2026-06-20T15:09:03.438Z",
+  "updatedAt": "2026-06-20T15:31:33.885Z",
   "users": {
     "7757042792": {
       "weiboUid": "7757042792",
@@ -69,12 +69,19 @@
           "discussionSent": 0,
           "lastSeenAt": "2026-06-20T23:08:33.941683",
           "appVersion": "biubiubiu1.0"
+        },
+        "75f8268f6f350f8b907d72dabb28e2a33cd066924b6c23fd4ec2d5e794d9914b": {
+          "deviceHash": "75f8268f6f35",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "lastSeenAt": "2026-06-20T23:31:16.959505",
+          "appVersion": "biubiubiu1.0"
         }
       },
-      "activeDevices": 7,
+      "activeDevices": 8,
       "danmuSent": 11,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-20T23:08:33.941683"
+      "lastSeenAt": "2026-06-20T23:31:16.959505"
     }
   }
 }
