@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "updatedAt": "2026-06-21T13:33:51.864Z",
+  "updatedAt": "2026-06-21T13:33:55.070Z",
   "users": {
     "2281381197": {
       "weiboUid": "2281381197",
@@ -240,13 +240,6 @@
           "lastSeenAt": "2026-06-21T21:30:56.565232",
           "appVersion": "biubiubiu1.1"
         },
-        "1eade7898da7142c3e6a734b00418a848d03349547bc037464200d59e4dc8df9": {
-          "deviceHash": "1eade7898da7",
-          "danmuSent": 0,
-          "discussionSent": 0,
-          "lastSeenAt": "2026-06-21T21:30:59.596535",
-          "appVersion": "biubiubiu1.1"
-        },
         "cc8e3f8b357d611e0c02c274ddd42109a1b2fdfa5faf118d3e1ad1507b981d9d": {
           "deviceHash": "cc8e3f8b357d",
           "danmuSent": 0,
@@ -255,7 +248,7 @@
           "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 31,
+      "activeDevices": 30,
       "danmuSent": 20981,
       "discussionSent": 40,
       "lastSeenAt": "2026-06-21T21:33:38.489049"
@@ -979,12 +972,19 @@
           "discussionSent": 0,
           "lastSeenAt": "2026-06-21T21:07:45.668308",
           "appVersion": "biubiubiu1.1"
+        },
+        "1eade7898da7142c3e6a734b00418a848d03349547bc037464200d59e4dc8df9": {
+          "deviceHash": "1eade7898da7",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "lastSeenAt": "2026-06-21T21:33:09.137359",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
+      "activeDevices": 2,
       "danmuSent": 0,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-21T21:07:45.668308"
+      "lastSeenAt": "2026-06-21T21:33:09.137359"
     },
     "重生之檀檀未来JC-T__同舟渡版": {
       "weiboUid": "重生之檀檀未来JC-T__同舟渡版",
