@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "updatedAt": "2026-06-21T11:54:08.131Z",
+  "updatedAt": "2026-06-21T11:54:11.481Z",
   "users": {
     "2281381197": {
       "weiboUid": "2281381197",
@@ -196,13 +196,6 @@
           "lastSeenAt": "2026-06-21T19:44:13.355536",
           "appVersion": "biubiubiu1.1"
         },
-        "4f3beb86767f2106a98d4cf4712866e5e8dcc08609e5ee82d4357e8f0c169f29": {
-          "deviceHash": "4f3beb86767f",
-          "danmuSent": 0,
-          "discussionSent": 0,
-          "lastSeenAt": "2026-06-21T19:53:25.481950",
-          "appVersion": "biubiubiu1.1"
-        },
         "ddd237bb8f4e61c1f7f56692c798e6bb11180a8e18bb2ef0a1c874a8b43db909": {
           "deviceHash": "ddd237bb8f4e",
           "danmuSent": 0,
@@ -218,10 +211,10 @@
           "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 28,
+      "activeDevices": 27,
       "danmuSent": 15793,
       "discussionSent": 4,
-      "lastSeenAt": "2026-06-21T19:53:25.481950"
+      "lastSeenAt": "2026-06-21T19:52:54.166254"
     },
     "苦苦": {
       "weiboUid": "苦苦",
@@ -618,6 +611,22 @@
       "danmuSent": 2,
       "discussionSent": 0,
       "lastSeenAt": "2026-06-21T19:52:12.036828"
+    },
+    "檀多多给我做饭": {
+      "weiboUid": "檀多多给我做饭",
+      "devices": {
+        "4f3beb86767f2106a98d4cf4712866e5e8dcc08609e5ee82d4357e8f0c169f29": {
+          "deviceHash": "4f3beb86767f",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "lastSeenAt": "2026-06-21T19:53:25.481950",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "lastSeenAt": "2026-06-21T19:53:25.481950"
     }
   }
 }
