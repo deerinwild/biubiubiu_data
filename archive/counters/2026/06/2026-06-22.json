@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": "2026-06-22T17:28:02.161Z",
+  "updatedAt": "2026-06-22T17:33:13.966Z",
   "users": {
     "2433200651": {
       "weiboUid": "2433200651",
@@ -39,9 +39,12 @@
       "devices": {
         "ec78f2a66bd1895b2cb4503a43ad9d529f97e98dc4b0c2a7974366dd17e9cf08": {
           "deviceHash": "ec78f2a66bd1",
-          "danmuSent": 3208,
+          "danmuSent": 3758,
           "discussionSent": 0,
-          "lastSeenAt": "2026-06-22T18:43:28.044855",
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T23:56:47.236668",
           "appVersion": "biubiubiu1.1"
         },
         "6b575c8e6dd1b24af41df0bbd5d56f3a4b6d999b0c9abaab16060568ef05abe7": {
@@ -93,7 +96,10 @@
           "deviceHash": "c1f504e894c4",
           "danmuSent": 1253,
           "discussionSent": 0,
-          "lastSeenAt": "2026-06-22T23:01:41.158141",
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T23:01:45.144684",
           "appVersion": "biubiubiu1.1"
         },
         "90b059827f381b357c50feccfb2893cfeb94c07b511c7d809671f39a14a52d15": {
@@ -115,7 +121,7 @@
         }
       },
       "activeDevices": 10,
-      "danmuSent": 16335,
+      "danmuSent": 16885,
       "discussionSent": 10,
       "lastSeenAt": "2026-06-22T23:59:54.615257",
       "weiboNickname": "苦b不额外加糖",
@@ -608,16 +614,23 @@
       "devices": {
         "f32a61da105e773ede78da484df7bd5434f893aafad549bdc153b411ebdbd9e7": {
           "deviceHash": "f32a61da105e",
-          "danmuSent": 2150,
+          "danmuSent": 2541,
           "discussionSent": 0,
-          "lastSeenAt": "2026-06-22T20:42:21.730429",
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T22:20:49.944812",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 2150,
+      "danmuSent": 2541,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-22T20:42:21.730429"
+      "lastSeenAt": "2026-06-22T22:20:49.944812",
+      "weiboNickname": "次甜柿子_一巡全勤",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "世界如此美好1988": {
       "weiboUid": "世界如此美好1988",
