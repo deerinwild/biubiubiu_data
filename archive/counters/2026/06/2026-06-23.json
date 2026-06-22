@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "updatedAt": "2026-06-22T17:11:41.303Z",
+  "updatedAt": "2026-06-22T17:11:45.054Z",
   "users": {
     "未绑定UID": {
       "weiboUid": "未绑定UID",
@@ -81,6 +81,22 @@
       "danmuSent": 112,
       "discussionSent": 0,
       "lastSeenAt": "2026-06-23T01:11:20.460893"
+    },
+    "檀你脑门上": {
+      "weiboUid": "檀你脑门上",
+      "devices": {
+        "78155cc5f7a317dcd7ee9fd8424311fe40c9a8baf21d442093a309c4455ae6a1": {
+          "deviceHash": "78155cc5f7a3",
+          "danmuSent": 273,
+          "discussionSent": 0,
+          "lastSeenAt": "2026-06-23T01:11:20.573374",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 273,
+      "discussionSent": 0,
+      "lastSeenAt": "2026-06-23T01:11:20.573374"
     }
   }
 }
