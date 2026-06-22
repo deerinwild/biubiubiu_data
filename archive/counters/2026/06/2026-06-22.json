@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": "2026-06-22T23:47:00.779Z",
+  "updatedAt": "2026-06-22T23:52:21.314Z",
   "users": {
     "2433200651": {
       "weiboUid": "2433200651",
@@ -1165,12 +1165,26 @@
           "discussionSent": 0,
           "lastSeenAt": "2026-06-22T20:56:19.416975",
           "appVersion": "biubiubiu1.1"
+        },
+        "31ba1324f49d014d06fc73dcfd5a2a6b16146b72d8da5e1536986042401b82d5": {
+          "deviceHash": "31ba1324f49d",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T11:58:44.956390",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
+      "activeDevices": 2,
       "danmuSent": 3152,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-22T20:56:19.416975"
+      "lastSeenAt": "2026-06-22T20:56:19.416975",
+      "weiboNickname": "开开心心做自己2023",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "疏影横斜Kitty": {
       "weiboUid": "疏影横斜Kitty",
