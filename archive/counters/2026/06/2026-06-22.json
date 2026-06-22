@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": "2026-06-22T04:14:29.364Z",
+  "updatedAt": "2026-06-22T04:14:30.976Z",
   "users": {
     "琛小菓_菓满却山": {
       "weiboUid": "琛小菓_菓满却山",
@@ -260,16 +260,9 @@
           "discussionSent": 0,
           "lastSeenAt": "2026-06-22T11:54:09.214840",
           "appVersion": "biubiubiu1.1"
-        },
-        "92d3fdccde20de6515cf8ab74444d9cbf0add01a0b7cb88d6822f197ecb8a8b9": {
-          "deviceHash": "92d3fdccde20",
-          "danmuSent": 0,
-          "discussionSent": 0,
-          "lastSeenAt": "2026-06-22T11:51:20.022753",
-          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 9,
+      "activeDevices": 8,
       "danmuSent": 24900,
       "discussionSent": 0,
       "lastSeenAt": "2026-06-22T11:54:09.214840"
@@ -882,6 +875,22 @@
       "danmuSent": 52,
       "discussionSent": 19,
       "lastSeenAt": "2026-06-22T11:48:41.905586"
+    },
+    "兮尔的向日葵": {
+      "weiboUid": "兮尔的向日葵",
+      "devices": {
+        "92d3fdccde20de6515cf8ab74444d9cbf0add01a0b7cb88d6822f197ecb8a8b9": {
+          "deviceHash": "92d3fdccde20",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "lastSeenAt": "2026-06-22T11:51:20.022753",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "lastSeenAt": "2026-06-22T11:51:20.022753"
     }
   }
 }
