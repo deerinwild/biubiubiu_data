@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "updatedAt": "2026-06-22T21:41:39.900Z",
+  "updatedAt": "2026-06-22T21:47:06.651Z",
   "users": {
     "2281381197": {
       "weiboUid": "2281381197",
@@ -776,7 +776,10 @@
           "deviceHash": "59e6adde7614",
           "danmuSent": 0,
           "discussionSent": 0,
-          "lastSeenAt": "2026-06-21T22:08:11.598874",
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-21T22:10:25.457759",
           "appVersion": "biubiubiu1.1"
         },
         "5dc8cfe699a0b33ef2638b57b2c8abf6237cc3e6b4bb6a8761b1329c25738c4f": {
