@@ -24,12 +24,15 @@
     },
     "2026-06-22": {
       "date": "2026-06-22",
-      "activeUsers": 136,
+      "activeUsers": 137,
       "activeDevices": 181,
-      "danmuSent": 230220,
-      "discussionSent": 4595,
+      "danmuSent": 231307,
+      "discussionSent": 4604,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
       "lastSeenAt": "2026-06-22T23:59:58.785022",
-      "updatedAt": "2026-06-22T17:17:22.274Z"
+      "updatedAt": "2026-06-22T17:22:31.675Z"
     },
     "2026-06-23": {
       "date": "2026-06-23",
@@ -41,5 +44,5 @@
       "updatedAt": "2026-06-22T17:17:24.541Z"
     }
   },
-  "updatedAt": "2026-06-22T17:22:30.714Z"
+  "updatedAt": "2026-06-22T17:22:32.894Z"
 }
