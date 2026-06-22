@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": "2026-06-22T17:33:13.966Z",
+  "updatedAt": "2026-06-22T17:38:20.146Z",
   "users": {
     "2433200651": {
       "weiboUid": "2433200651",
@@ -1071,9 +1071,12 @@
         },
         "21d2cca7701b6726647427f706103f864875f08d040b3645e43209e5d2b6d7d0": {
           "deviceHash": "21d2cca7701b",
-          "danmuSent": 123,
+          "danmuSent": 171,
           "discussionSent": 0,
-          "lastSeenAt": "2026-06-22T23:15:08.782617",
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T23:27:08.793176",
           "appVersion": "biubiubiu1.1"
         },
         "f835c24c08ffb6d2a3038af6103baba7da38b454e1515f6abfc3bf60f42c4911": {
@@ -1085,9 +1088,13 @@
         }
       },
       "activeDevices": 3,
-      "danmuSent": 941,
+      "danmuSent": 989,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-22T23:15:08.782617"
+      "lastSeenAt": "2026-06-22T23:27:08.793176",
+      "weiboNickname": "兮尔的向日葵",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "小耳朵梦中梦": {
       "weiboUid": "小耳朵梦中梦",
