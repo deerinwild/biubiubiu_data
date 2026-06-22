@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "updatedAt": "2026-06-22T16:44:54.584Z",
+  "updatedAt": "2026-06-22T16:44:58.501Z",
   "users": {
     "2281381197": {
       "weiboUid": "2281381197",
@@ -279,13 +279,6 @@
           "lastSeenAt": "2026-06-21T23:21:37.195286",
           "appVersion": "biubiubiu1.1"
         },
-        "691d0d7ab972bd39068416a6d8a3e8649c22638cd7bd7736f66b29028664cb7c": {
-          "deviceHash": "691d0d7ab972",
-          "danmuSent": 314,
-          "discussionSent": 0,
-          "lastSeenAt": "2026-06-21T23:59:55.255423",
-          "appVersion": "biubiubiu1.1"
-        },
         "2ba2bc813b71f354dc391d34eeb9afdf550c13d05197931752aff744ec40aba4": {
           "deviceHash": "2ba2bc813b71",
           "danmuSent": 2,
@@ -308,10 +301,10 @@
           "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 8,
-      "danmuSent": 2939,
+      "activeDevices": 7,
+      "danmuSent": 2625,
       "discussionSent": 60,
-      "lastSeenAt": "2026-06-21T23:59:55.255423"
+      "lastSeenAt": "2026-06-21T23:59:52.754220"
     },
     "穿越月光之境": {
       "weiboUid": "穿越月光之境",
@@ -1592,6 +1585,22 @@
       "danmuSent": 0,
       "discussionSent": 0,
       "lastSeenAt": "2026-06-21T23:50:30.325890"
+    },
+    "小_阿呆_": {
+      "weiboUid": "小_阿呆_",
+      "devices": {
+        "691d0d7ab972bd39068416a6d8a3e8649c22638cd7bd7736f66b29028664cb7c": {
+          "deviceHash": "691d0d7ab972",
+          "danmuSent": 314,
+          "discussionSent": 0,
+          "lastSeenAt": "2026-06-21T23:59:55.255423",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 314,
+      "discussionSent": 0,
+      "lastSeenAt": "2026-06-21T23:59:55.255423"
     }
   }
 }
