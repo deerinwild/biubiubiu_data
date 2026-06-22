@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": "2026-06-22T22:45:50.430Z",
+  "updatedAt": "2026-06-22T22:47:59.716Z",
   "users": {
     "2433200651": {
       "weiboUid": "2433200651",
@@ -286,13 +286,6 @@
     "未绑定UID": {
       "weiboUid": "未绑定UID",
       "devices": {
-        "a2c452e70db41dc9125ddf91b33fbb27f05d49d870f1484952a667223e5de7e2": {
-          "deviceHash": "a2c452e70db4",
-          "danmuSent": 12968,
-          "discussionSent": 0,
-          "lastSeenAt": "2026-06-22T23:15:00.997747",
-          "appVersion": "biubiubiu1.0"
-        },
         "411627dc2801a3a751906e24d6e3d14b94427e646080e8a20a9c7b1e0d8d638b": {
           "deviceHash": "411627dc2801",
           "danmuSent": 920,
@@ -350,10 +343,10 @@
           "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 9,
-      "danmuSent": 14973,
+      "activeDevices": 8,
+      "danmuSent": 2005,
       "discussionSent": 60,
-      "lastSeenAt": "2026-06-22T23:15:00.997747",
+      "lastSeenAt": "2026-06-22T23:11:14.912183",
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0
@@ -2795,10 +2788,20 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-06-22T23:59:57.729179",
           "appVersion": "biubiubiu1.1"
+        },
+        "a2c452e70db41dc9125ddf91b33fbb27f05d49d870f1484952a667223e5de7e2": {
+          "deviceHash": "a2c452e70db4",
+          "danmuSent": 13439,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T23:59:54.273975",
+          "appVersion": "biubiubiu1.0"
         }
       },
-      "activeDevices": 5,
-      "danmuSent": 54088,
+      "activeDevices": 6,
+      "danmuSent": 67527,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
