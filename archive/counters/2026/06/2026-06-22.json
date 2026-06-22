@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": "2026-06-22T18:04:55.375Z",
+  "updatedAt": "2026-06-22T18:07:06.213Z",
   "users": {
     "2433200651": {
       "weiboUid": "2433200651",
@@ -1826,9 +1826,12 @@
       "devices": {
         "b7337e357f67abfc95cd1da48a8c2224c62f6f66a487066801ee41ecd14267be": {
           "deviceHash": "b7337e357f67",
-          "danmuSent": 571,
+          "danmuSent": 672,
           "discussionSent": 0,
-          "lastSeenAt": "2026-06-22T23:11:14.977508",
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T23:59:57.014332",
           "appVersion": "biubiubiu1.1"
         },
         "4767941ce060423d53938101bf41fdd93e5d63d32abd1503dc8b8fbbf9765590": {
@@ -1843,9 +1846,9 @@
         }
       },
       "activeDevices": 2,
-      "danmuSent": 1056,
+      "danmuSent": 1157,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-22T23:56:27.992566",
+      "lastSeenAt": "2026-06-22T23:59:57.014332",
       "weiboNickname": "呆呆的可爱多_",
       "danmuFailed": 0,
       "discussionFailed": 0,
