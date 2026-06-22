@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "updatedAt": "2026-06-22T21:47:06.651Z",
+  "updatedAt": "2026-06-22T21:53:23.835Z",
   "users": {
     "2281381197": {
       "weiboUid": "2281381197",
@@ -1068,6 +1068,9 @@
           "deviceHash": "ab25ed7bb9ac",
           "danmuSent": 521,
           "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
           "lastSeenAt": "2026-06-21T23:59:58.565580",
           "appVersion": "biubiubiu1.1"
         }
@@ -1075,7 +1078,11 @@
       "activeDevices": 1,
       "danmuSent": 521,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-21T23:59:58.565580"
+      "lastSeenAt": "2026-06-21T23:59:58.565580",
+      "weiboNickname": "T檀缘圆",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "杏仁不杏仁儿": {
       "weiboUid": "杏仁不杏仁儿",
