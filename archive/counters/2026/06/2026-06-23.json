@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "updatedAt": "2026-06-22T21:11:34.555Z",
+  "updatedAt": "2026-06-22T21:17:03.390Z",
   "users": {
     "邱邱T-HooHoo": {
       "weiboUid": "邱邱T-HooHoo",
@@ -30,9 +30,12 @@
       "devices": {
         "f835c24c08ffb6d2a3038af6103baba7da38b454e1515f6abfc3bf60f42c4911": {
           "deviceHash": "f835c24c08ff",
-          "danmuSent": 171,
+          "danmuSent": 185,
           "discussionSent": 0,
-          "lastSeenAt": "2026-06-23T01:11:48.677029",
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-23T05:12:03.839253",
           "appVersion": "biubiubiu1.1"
         },
         "21d2cca7701b6726647427f706103f864875f08d040b3645e43209e5d2b6d7d0": {
@@ -57,9 +60,9 @@
         }
       },
       "activeDevices": 3,
-      "danmuSent": 1875,
+      "danmuSent": 1889,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-23T05:04:45.565458",
+      "lastSeenAt": "2026-06-23T05:12:03.839253",
       "weiboNickname": "兮尔的向日葵",
       "danmuFailed": 0,
       "discussionFailed": 0,
@@ -93,19 +96,19 @@
       "devices": {
         "78155cc5f7a317dcd7ee9fd8424311fe40c9a8baf21d442093a309c4455ae6a1": {
           "deviceHash": "78155cc5f7a3",
-          "danmuSent": 1098,
+          "danmuSent": 1198,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-06-23T04:46:53.088313",
+          "lastSeenAt": "2026-06-23T05:13:50.197087",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 1098,
+      "danmuSent": 1198,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-23T04:46:53.088313",
+      "lastSeenAt": "2026-06-23T05:13:50.197087",
       "weiboNickname": "檀你脑门上",
       "danmuFailed": 0,
       "discussionFailed": 0,
@@ -685,22 +688,22 @@
         },
         "9e07a50e95cc7e45b0bc9706ef2a2e0b007e5b20d9e232b904561f2ed805b955": {
           "deviceHash": "9e07a50e95cc",
-          "danmuSent": 2958,
+          "danmuSent": 3058,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-06-23T05:03:09.491058",
+          "lastSeenAt": "2026-06-23T05:13:24.547163",
           "appVersion": "biubiubiu1.1"
         },
         "685ec5ab848cc65617749d4789e2e009e2db70823d79e366b2b396214666317d": {
           "deviceHash": "685ec5ab848c",
-          "danmuSent": 2999,
+          "danmuSent": 3099,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-06-23T05:06:01.471725",
+          "lastSeenAt": "2026-06-23T05:16:13.652934",
           "appVersion": "biubiubiu1.1"
         },
         "6f1a282d02c18c2d97c4f581a8fd2ff14a69252752ccd2fb9efdb3ac96257384": {
@@ -715,12 +718,12 @@
         }
       },
       "activeDevices": 6,
-      "danmuSent": 15164,
+      "danmuSent": 15364,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-06-23T05:10:45.700825"
+      "lastSeenAt": "2026-06-23T05:16:13.652934"
     },
     "DREAM S_Yy": {
       "weiboNickname": "DREAM S_Yy",
@@ -793,22 +796,22 @@
       "devices": {
         "4c9b99528100d135b51de481d02f384e3f0760fcf81c4831acfd0280c116dcd5": {
           "deviceHash": "4c9b99528100",
-          "danmuSent": 300,
+          "danmuSent": 332,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-06-23T01:52:11.979026",
+          "lastSeenAt": "2026-06-23T05:16:16.587949",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 300,
+      "danmuSent": 332,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-06-23T01:52:11.979026"
+      "lastSeenAt": "2026-06-23T05:16:16.587949"
     },
     "檀wenny-JCT": {
       "weiboNickname": "檀wenny-JCT",
