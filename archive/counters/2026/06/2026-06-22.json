@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": "2026-06-22T04:07:42.167Z",
+  "updatedAt": "2026-06-22T04:07:45.501Z",
   "users": {
     "琛小菓_菓满却山": {
       "weiboUid": "琛小菓_菓满却山",
@@ -395,12 +395,19 @@
           "discussionSent": 0,
           "lastSeenAt": "2026-06-22T11:44:45.463882",
           "appVersion": "biubiubiu1.1"
+        },
+        "3cb9f316ea52b3c0bb5608ce33e321690b01a418748d69270a121fab09615abd": {
+          "deviceHash": "3cb9f316ea52",
+          "danmuSent": 590,
+          "discussionSent": 0,
+          "lastSeenAt": "2026-06-22T11:53:09.070670",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
-      "danmuSent": 2203,
+      "activeDevices": 2,
+      "danmuSent": 2793,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-22T11:44:45.463882"
+      "lastSeenAt": "2026-06-22T11:53:09.070670"
     },
     "三宝子檀HooHoo": {
       "weiboUid": "三宝子檀HooHoo",
@@ -662,22 +669,6 @@
       "danmuSent": 158,
       "discussionSent": 0,
       "lastSeenAt": "2026-06-22T11:52:34.611598"
-    },
-    "桔梗花2": {
-      "weiboUid": "桔梗花2",
-      "devices": {
-        "3cb9f316ea52b3c0bb5608ce33e321690b01a418748d69270a121fab09615abd": {
-          "deviceHash": "3cb9f316ea52",
-          "danmuSent": 325,
-          "discussionSent": 0,
-          "lastSeenAt": "2026-06-22T02:36:45.125075",
-          "appVersion": "biubiubiu1.1"
-        }
-      },
-      "activeDevices": 1,
-      "danmuSent": 325,
-      "discussionSent": 0,
-      "lastSeenAt": "2026-06-22T02:36:45.125075"
     },
     "穿越月光之境": {
       "weiboUid": "穿越月光之境",
