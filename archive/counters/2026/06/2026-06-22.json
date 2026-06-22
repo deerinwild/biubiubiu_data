@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": "2026-06-22T07:38:22.477Z",
+  "updatedAt": "2026-06-22T07:38:26.968Z",
   "users": {
     "琛小菓_菓满却山": {
       "weiboUid": "琛小菓_菓满却山",
@@ -1393,6 +1393,22 @@
       "danmuSent": 0,
       "discussionSent": 0,
       "lastSeenAt": "2026-06-22T15:31:13.753375"
+    },
+    "7280042636": {
+      "weiboUid": "7280042636",
+      "devices": {
+        "5169406a2f4726fa1e2bf7f04e1ee84d35778677364e66f1b0649867d85df3a7": {
+          "deviceHash": "5169406a2f47",
+          "danmuSent": 33,
+          "discussionSent": 55,
+          "lastSeenAt": "2026-06-22T15:31:11.844684",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 33,
+      "discussionSent": 55,
+      "lastSeenAt": "2026-06-22T15:31:11.844684"
     }
   }
 }
