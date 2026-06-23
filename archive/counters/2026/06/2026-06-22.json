@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": "2026-06-23T01:15:04.195Z",
+  "updatedAt": "2026-06-23T01:20:09.449Z",
   "users": {
     "2433200651": {
       "weiboUid": "2433200651",
@@ -444,16 +444,23 @@
       "devices": {
         "6ccee84534bce5caedd8a2d4d32c8b10f1c98e73e3076dba9bb0645faabda15f": {
           "deviceHash": "6ccee84534bc",
-          "danmuSent": 666,
-          "discussionSent": 39,
-          "lastSeenAt": "2026-06-22T12:40:02.663209",
+          "danmuSent": 1224,
+          "discussionSent": 64,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T19:28:58.631425",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 666,
-      "discussionSent": 39,
-      "lastSeenAt": "2026-06-22T12:40:02.663209"
+      "danmuSent": 1224,
+      "discussionSent": 64,
+      "lastSeenAt": "2026-06-22T19:28:58.631425",
+      "weiboNickname": "荼白还是落栗",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "浔月枫": {
       "weiboUid": "浔月枫",
@@ -779,9 +786,12 @@
       "devices": {
         "8066b00d4bbfd302eb3f8f0b66b18f62573d5273aa767e0361ac676dcb1efcb1": {
           "deviceHash": "8066b00d4bbf",
-          "danmuSent": 809,
+          "danmuSent": 844,
           "discussionSent": 0,
-          "lastSeenAt": "2026-06-22T23:15:03.047299",
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T23:31:50.130490",
           "appVersion": "biubiubiu1.1"
         },
         "619b41cd114ff5dacdc38df86b84f9e049faedd34795aea1d4df08805f83abe7": {
@@ -800,9 +810,13 @@
         }
       },
       "activeDevices": 3,
-      "danmuSent": 3327,
+      "danmuSent": 3362,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-22T23:15:03.047299"
+      "lastSeenAt": "2026-06-22T23:31:50.130490",
+      "weiboNickname": "苍离不语",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "OvO双葉": {
       "weiboUid": "OvO双葉",
