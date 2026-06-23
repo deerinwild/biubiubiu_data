@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": "2026-06-23T14:50:30.674Z",
+  "updatedAt": "2026-06-23T14:55:44.315Z",
   "users": {
     "2281381197": {
       "weiboNickname": "2281381197",
@@ -877,14 +877,17 @@
         },
         "7d8f3cd65652f2796850c4d7857bfcac8b51ee5289c5093e05d905e93cda8098": {
           "deviceHash": "7d8f3cd65652",
-          "danmuSent": 421,
+          "danmuSent": 479,
           "discussionSent": 0,
-          "lastSeenAt": "2026-06-22T23:15:00.323807",
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T23:24:17.149188",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 3,
-      "danmuSent": 3414,
+      "danmuSent": 3472,
       "discussionSent": 0,
       "lastSeenAt": "2026-06-22T23:31:50.130490",
       "weiboNickname": "苍离不语",
@@ -3194,16 +3197,23 @@
       "devices": {
         "c1e784c3b724023b0b70863478e05484ee1e915cae87ef83edde20475ce73483": {
           "deviceHash": "c1e784c3b724",
-          "danmuSent": 0,
+          "danmuSent": 9,
           "discussionSent": 0,
-          "lastSeenAt": "2026-06-22T22:53:45.019193",
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T23:03:46.417217",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 0,
+      "danmuSent": 9,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-22T22:53:45.019193"
+      "lastSeenAt": "2026-06-22T23:03:46.417217",
+      "weiboNickname": "千结旋律控_rsw",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "元气媛媛喵": {
       "weiboUid": "元气媛媛喵",
