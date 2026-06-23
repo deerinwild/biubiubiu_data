@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "updatedAt": "2026-06-23T08:32:24.830Z",
+  "updatedAt": "2026-06-23T08:37:53.051Z",
   "users": {
     "2281381197": {
       "weiboUid": "2281381197",
@@ -527,6 +527,9 @@
           "deviceHash": "4875c8dfbd03",
           "danmuSent": 358,
           "discussionSent": 2,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
           "lastSeenAt": "2026-06-21T23:59:50.857580",
           "appVersion": "biubiubiu1.1"
         }
@@ -534,7 +537,11 @@
       "activeDevices": 1,
       "danmuSent": 358,
       "discussionSent": 2,
-      "lastSeenAt": "2026-06-21T23:59:50.857580"
+      "lastSeenAt": "2026-06-21T23:59:50.857580",
+      "weiboNickname": "琛小菓_菓满却山",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "晨光微暖JCT": {
       "weiboUid": "晨光微暖JCT",
