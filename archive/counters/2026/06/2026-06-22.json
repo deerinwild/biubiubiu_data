@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": "2026-06-23T00:18:52.136Z",
+  "updatedAt": "2026-06-23T00:23:58.279Z",
   "users": {
     "2433200651": {
       "weiboUid": "2433200651",
@@ -2063,16 +2063,23 @@
       "devices": {
         "293c7f029a66b64b75be3077a9f7bb4183e47782499a70d9235b26ed723feb0a": {
           "deviceHash": "293c7f029a66",
-          "danmuSent": 398,
+          "danmuSent": 544,
           "discussionSent": 0,
-          "lastSeenAt": "2026-06-22T18:35:19.823924",
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T19:59:45.483907",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 398,
+      "danmuSent": 544,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-22T18:35:19.823924"
+      "lastSeenAt": "2026-06-22T19:59:45.483907",
+      "weiboNickname": "把太阳装进枕头里",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "-TL檀小吉JC-": {
       "weiboUid": "-TL檀小吉JC-",
