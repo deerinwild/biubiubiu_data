@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": "2026-06-23T10:44:10.857Z",
+  "updatedAt": "2026-06-23T10:49:18.609Z",
   "users": {
     "2433200651": {
       "weiboUid": "2433200651",
@@ -1787,16 +1787,23 @@
       "devices": {
         "5dbbd4b252b608857fc55d9bd7b8b9eaf905699ef62934940ee45f0f378299c1": {
           "deviceHash": "5dbbd4b252b6",
-          "danmuSent": 737,
+          "danmuSent": 844,
           "discussionSent": 0,
-          "lastSeenAt": "2026-06-22T18:43:17.921043",
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T19:10:01.739008",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 737,
+      "danmuSent": 844,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-22T18:43:17.921043"
+      "lastSeenAt": "2026-06-22T19:10:01.739008",
+      "weiboNickname": "oi芋圆不想圆",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "檀檀颜颜": {
       "weiboUid": "檀檀颜颜",
@@ -3553,6 +3560,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-06-22T23:56:03.089228"
+    },
+    "眠眠觉得不妥hoo": {
+      "weiboNickname": "眠眠觉得不妥hoo",
+      "devices": {
+        "692eb62c9c922c822fee461901fe7ddd110532d4d88b62bd61cc48b6d907e159": {
+          "deviceHash": "692eb62c9c92",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T22:07:16.445697",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-06-22T22:07:16.445697"
     }
   }
 }
