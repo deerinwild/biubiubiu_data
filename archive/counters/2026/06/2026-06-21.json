@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "updatedAt": "2026-06-23T11:35:10.232Z",
+  "updatedAt": "2026-06-23T11:40:27.081Z",
   "users": {
     "2281381197": {
       "weiboUid": "2281381197",
@@ -250,6 +250,9 @@
           "deviceHash": "92bb88e36274",
           "danmuSent": 155,
           "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
           "lastSeenAt": "2026-06-21T23:29:22.499166",
           "appVersion": "biubiubiu1.1"
         },
@@ -302,22 +305,6 @@
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0
-    },
-    "7280042636": {
-      "weiboUid": "7280042636",
-      "devices": {
-        "5169406a2f4726fa1e2bf7f04e1ee84d35778677364e66f1b0649867d85df3a7": {
-          "deviceHash": "5169406a2f47",
-          "danmuSent": 627,
-          "discussionSent": 9,
-          "lastSeenAt": "2026-06-21T23:06:53.832642",
-          "appVersion": "biubiubiu1.1"
-        }
-      },
-      "activeDevices": 1,
-      "danmuSent": 627,
-      "discussionSent": 9,
-      "lastSeenAt": "2026-06-21T23:06:53.832642"
     },
     "Ocean-JCT": {
       "weiboUid": "Ocean-JCT",
@@ -1772,6 +1759,9 @@
           "deviceHash": "022cddb7519c",
           "danmuSent": 29,
           "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
           "lastSeenAt": "2026-06-21T23:47:16.590024",
           "appVersion": "biubiubiu1.1"
         }
@@ -1779,7 +1769,11 @@
       "activeDevices": 1,
       "danmuSent": 29,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-21T23:47:16.590024"
+      "lastSeenAt": "2026-06-21T23:47:16.590024",
+      "weiboNickname": "似曾相识_zzz",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "荼白还是落栗": {
       "weiboUid": "荼白还是落栗",
@@ -2006,6 +2000,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-06-21T23:59:59.862722"
+    },
+    "素手弦桐待怀风": {
+      "weiboNickname": "素手弦桐待怀风",
+      "devices": {
+        "5169406a2f4726fa1e2bf7f04e1ee84d35778677364e66f1b0649867d85df3a7": {
+          "deviceHash": "5169406a2f47",
+          "danmuSent": 627,
+          "discussionSent": 9,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-21T23:06:53.832642",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 627,
+      "discussionSent": 9,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-06-21T23:06:53.832642"
     }
   }
 }
