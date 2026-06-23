@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "updatedAt": "2026-06-23T13:12:44.030Z",
+  "updatedAt": "2026-06-23T13:17:49.329Z",
   "users": {
     "2281381197": {
       "weiboUid": "2281381197",
@@ -1645,6 +1645,9 @@
           "deviceHash": "5013a1147ac5",
           "danmuSent": 50,
           "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
           "lastSeenAt": "2026-06-21T22:11:53.824920",
           "appVersion": "biubiubiu1.1"
         }
@@ -1652,7 +1655,11 @@
       "activeDevices": 1,
       "danmuSent": 50,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-21T22:11:53.824920"
+      "lastSeenAt": "2026-06-21T22:11:53.824920",
+      "weiboNickname": "桃之夭腰2023",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "千结旋律控_rsw": {
       "weiboUid": "千结旋律控_rsw",
