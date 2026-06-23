@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": "2026-06-23T06:44:48.341Z",
+  "updatedAt": "2026-06-23T06:49:59.075Z",
   "users": {
     "2433200651": {
       "weiboUid": "2433200651",
@@ -2032,12 +2032,26 @@
           "discussionSent": 0,
           "lastSeenAt": "2026-06-22T15:51:38.105533",
           "appVersion": "biubiubiu1.1"
+        },
+        "d445b41c76082c639e58428d91b62c6de4a1316678cdf75157d0f188d2554218": {
+          "deviceHash": "d445b41c7608",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T23:48:30.722277",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
+      "activeDevices": 2,
       "danmuSent": 0,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-22T15:51:38.105533"
+      "lastSeenAt": "2026-06-22T23:48:30.722277",
+      "weiboNickname": "望雪坞的小炭火",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "多多的大鲨鱼具体": {
       "weiboUid": "多多的大鲨鱼具体",
@@ -3405,6 +3419,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-06-22T23:55:41.538702"
+    },
+    "向日葵Nancy-JCT": {
+      "weiboNickname": "向日葵Nancy-JCT",
+      "devices": {
+        "c40accb099d98066ad9d2f8f204fad4b6c2d790e1755aa2accdeadf4cb2629e7": {
+          "deviceHash": "c40accb099d9",
+          "danmuSent": 142,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T15:21:08.447393",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 142,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-06-22T15:21:08.447393"
     }
   }
 }
