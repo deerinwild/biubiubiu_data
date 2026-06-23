@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": "2026-06-23T07:10:23.243Z",
+  "updatedAt": "2026-06-23T07:15:29.723Z",
   "users": {
     "2433200651": {
       "weiboUid": "2433200651",
@@ -2516,16 +2516,23 @@
       "devices": {
         "ec3633fcee38b143b6d4dccdcb0634490e0d25e949376e84c5b126ac59c800b5": {
           "deviceHash": "ec3633fcee38",
-          "danmuSent": 0,
-          "discussionSent": 0,
-          "lastSeenAt": "2026-06-22T18:33:40.160751",
+          "danmuSent": 272,
+          "discussionSent": 1,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T22:44:27.442718",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 0,
-      "lastSeenAt": "2026-06-22T18:33:40.160751"
+      "danmuSent": 272,
+      "discussionSent": 1,
+      "lastSeenAt": "2026-06-22T22:44:27.442718",
+      "weiboNickname": "沁芳520",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "仙女Pink爱种草": {
       "weiboUid": "仙女Pink爱种草",
