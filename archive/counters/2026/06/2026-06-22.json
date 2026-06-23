@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": "2026-06-23T13:28:03.720Z",
+  "updatedAt": "2026-06-23T13:33:58.101Z",
   "users": {
     "2433200651": {
       "weiboUid": "2433200651",
@@ -301,9 +301,12 @@
       "devices": {
         "c8da34544c20424c10ca43261a017049dc208e0bfbed775404c1d9d13d4493b1": {
           "deviceHash": "c8da34544c20",
-          "danmuSent": 507,
+          "danmuSent": 687,
           "discussionSent": 0,
-          "lastSeenAt": "2026-06-22T23:15:05.667850",
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T23:59:57.171224",
           "appVersion": "biubiubiu1.1"
         },
         "52f07335abbdfa407698cc478cdaa51ffeda22df6c70f7aac853984a232d7a71": {
@@ -315,9 +318,13 @@
         }
       },
       "activeDevices": 2,
-      "danmuSent": 555,
+      "danmuSent": 735,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-22T23:15:05.667850"
+      "lastSeenAt": "2026-06-22T23:59:57.171224",
+      "weiboNickname": "Coisini-同舟渡版",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "未绑定UID": {
       "weiboUid": "未绑定UID",
