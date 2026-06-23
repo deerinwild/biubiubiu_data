@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "updatedAt": "2026-06-23T14:50:28.879Z",
+  "updatedAt": "2026-06-23T14:55:42.570Z",
   "users": {
     "2281381197": {
       "weiboUid": "2281381197",
@@ -720,6 +720,9 @@
           "deviceHash": "7d8f3cd65652",
           "danmuSent": 8,
           "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
           "lastSeenAt": "2026-06-21T20:49:12.950973",
           "appVersion": "biubiubiu1.1"
         },
@@ -1682,6 +1685,9 @@
           "deviceHash": "c1e784c3b724",
           "danmuSent": 29,
           "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
           "lastSeenAt": "2026-06-21T22:31:45.240600",
           "appVersion": "biubiubiu1.1"
         }
@@ -1689,7 +1695,11 @@
       "activeDevices": 1,
       "danmuSent": 29,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-21T22:31:45.240600"
+      "lastSeenAt": "2026-06-21T22:31:45.240600",
+      "weiboNickname": "千结旋律控_rsw",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "狸小翎": {
       "weiboUid": "狸小翎",
