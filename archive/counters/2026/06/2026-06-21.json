@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "updatedAt": "2026-06-23T04:21:46.717Z",
+  "updatedAt": "2026-06-23T04:26:51.705Z",
   "users": {
     "2281381197": {
       "weiboUid": "2281381197",
@@ -564,6 +564,9 @@
           "deviceHash": "bb1250cb8ee9",
           "danmuSent": 91,
           "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
           "lastSeenAt": "2026-06-21T23:59:57.838223",
           "appVersion": "biubiubiu1.1"
         }
