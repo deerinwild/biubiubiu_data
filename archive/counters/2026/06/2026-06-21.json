@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "updatedAt": "2026-06-23T11:55:46.574Z",
+  "updatedAt": "2026-06-23T12:00:59.005Z",
   "users": {
     "2281381197": {
       "weiboUid": "2281381197",
@@ -970,6 +970,9 @@
           "deviceHash": "38353b2c947c",
           "danmuSent": 334,
           "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
           "lastSeenAt": "2026-06-21T22:34:30.935802",
           "appVersion": "biubiubiu1.1"
         }
@@ -977,7 +980,11 @@
       "activeDevices": 1,
       "danmuSent": 334,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-21T22:34:30.935802"
+      "lastSeenAt": "2026-06-21T22:34:30.935802",
+      "weiboNickname": "次次不吃糖",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "小宇宙真厉害": {
       "weiboUid": "小宇宙真厉害",
