@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": "2026-06-23T12:01:00.664Z",
+  "updatedAt": "2026-06-23T12:06:05.912Z",
   "users": {
     "2433200651": {
       "weiboUid": "2433200651",
@@ -257,14 +257,21 @@
           "deviceHash": "07003781e48c",
           "danmuSent": 13,
           "discussionSent": 11,
-          "lastSeenAt": "2026-06-22T00:07:10.107267",
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T00:07:28.721277",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
       "danmuSent": 13,
       "discussionSent": 11,
-      "lastSeenAt": "2026-06-22T00:07:10.107267"
+      "lastSeenAt": "2026-06-22T00:07:28.721277",
+      "weiboNickname": "余见你南",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "邱邱T-HooHoo": {
       "weiboUid": "邱邱T-HooHoo",
@@ -2877,16 +2884,23 @@
       "devices": {
         "abcd2295c1eb65535a71657c1f691280db14db745d478dadd2d200ec5160594b": {
           "deviceHash": "abcd2295c1eb",
-          "danmuSent": 23,
-          "discussionSent": 112,
-          "lastSeenAt": "2026-06-22T20:56:25.726306",
+          "danmuSent": 264,
+          "discussionSent": 149,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T22:29:11.255879",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 23,
-      "discussionSent": 112,
-      "lastSeenAt": "2026-06-22T20:56:25.726306"
+      "danmuSent": 264,
+      "discussionSent": 149,
+      "lastSeenAt": "2026-06-22T22:29:11.255879",
+      "weiboNickname": "sixteenrich",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "重生之檀檀未来JC-T__同舟渡版": {
       "weiboUid": "重生之檀檀未来JC-T__同舟渡版",
