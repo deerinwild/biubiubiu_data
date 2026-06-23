@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "updatedAt": "2026-06-23T04:11:18.784Z",
+  "updatedAt": "2026-06-23T04:16:24.138Z",
   "users": {
     "2281381197": {
       "weiboUid": "2281381197",
@@ -434,6 +434,9 @@
           "deviceHash": "d72f6957f7ef",
           "danmuSent": 387,
           "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
           "lastSeenAt": "2026-06-21T22:32:28.550782",
           "appVersion": "biubiubiu1.1"
         }
@@ -441,7 +444,11 @@
       "activeDevices": 1,
       "danmuSent": 387,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-21T22:32:28.550782"
+      "lastSeenAt": "2026-06-21T22:32:28.550782",
+      "weiboNickname": "多多什么都多",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "X星星的奶酪": {
       "weiboUid": "X星星的奶酪",
