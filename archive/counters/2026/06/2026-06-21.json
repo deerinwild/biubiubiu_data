@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "updatedAt": "2026-06-23T11:19:51.709Z",
+  "updatedAt": "2026-06-23T11:24:57.158Z",
   "users": {
     "2281381197": {
       "weiboUid": "2281381197",
@@ -462,6 +462,9 @@
           "deviceHash": "a7046f11b0c9",
           "danmuSent": 536,
           "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
           "lastSeenAt": "2026-06-21T23:15:39.000429",
           "appVersion": "biubiubiu1.1"
         }
@@ -469,7 +472,11 @@
       "activeDevices": 1,
       "danmuSent": 536,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-21T23:15:39.000429"
+      "lastSeenAt": "2026-06-21T23:15:39.000429",
+      "weiboNickname": "幸运小羔羊",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "苦b.不额外加糖": {
       "weiboUid": "苦b.不额外加糖",
@@ -1040,6 +1047,9 @@
           "deviceHash": "d6f631b8abe8",
           "danmuSent": 720,
           "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
           "lastSeenAt": "2026-06-21T23:26:15.677822",
           "appVersion": "biubiubiu1.1"
         }
@@ -1047,7 +1057,11 @@
       "activeDevices": 1,
       "danmuSent": 720,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-21T23:26:15.677822"
+      "lastSeenAt": "2026-06-21T23:26:15.677822",
+      "weiboNickname": "北极星不是麻瓜",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "犯困的柿子饼": {
       "weiboUid": "犯困的柿子饼",
