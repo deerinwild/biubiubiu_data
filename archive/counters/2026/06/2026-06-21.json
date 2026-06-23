@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "updatedAt": "2026-06-23T10:59:30.075Z",
+  "updatedAt": "2026-06-23T11:04:35.978Z",
   "users": {
     "2281381197": {
       "weiboUid": "2281381197",
@@ -1127,6 +1127,9 @@
           "deviceHash": "3e0b5c48d99c",
           "danmuSent": 203,
           "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
           "lastSeenAt": "2026-06-21T22:38:41.064926",
           "appVersion": "biubiubiu1.1"
         }
@@ -1134,7 +1137,11 @@
       "activeDevices": 1,
       "danmuSent": 203,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-21T22:38:41.064926"
+      "lastSeenAt": "2026-06-21T22:38:41.064926",
+      "weiboNickname": "重生之檀檀未来JC-T__同舟渡版",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "T檀缘圆": {
       "weiboUid": "T檀缘圆",
