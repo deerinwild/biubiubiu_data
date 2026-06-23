@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": "2026-06-23T10:59:31.666Z",
+  "updatedAt": "2026-06-23T11:04:37.678Z",
   "users": {
     "2433200651": {
       "weiboUid": "2433200651",
@@ -2855,16 +2855,23 @@
       "devices": {
         "3e0b5c48d99c9403dffd6bf24c4f676aeb9e66e66c234022dbbbc78acd6f7139": {
           "deviceHash": "3e0b5c48d99c",
-          "danmuSent": 0,
+          "danmuSent": 181,
           "discussionSent": 0,
-          "lastSeenAt": "2026-06-22T20:49:19.209081",
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T21:50:47.006967",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 0,
+      "danmuSent": 181,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-22T20:49:19.209081"
+      "lastSeenAt": "2026-06-22T21:50:47.006967",
+      "weiboNickname": "重生之檀檀未来JC-T__同舟渡版",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "Re晨曦-": {
       "weiboUid": "Re晨曦-",
@@ -3599,6 +3606,50 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-06-22T22:07:16.445697"
+    },
+    "矢渝yu": {
+      "weiboNickname": "矢渝yu",
+      "devices": {
+        "245dd460ed2fdf2bfe2488bf6ad32701145f332ca19da8c49d351678a1aec19f": {
+          "deviceHash": "245dd460ed2f",
+          "danmuSent": 169,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T19:54:35.679723",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 169,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-06-22T19:54:35.679723"
+    },
+    "最爱我家妞儿": {
+      "weiboNickname": "最爱我家妞儿",
+      "devices": {
+        "a3671c595b16f5b5236306ff999ac26bd576b1b030075b631a990d8dc2bc71db": {
+          "deviceHash": "a3671c595b16",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T23:29:40.746041",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-06-22T23:29:40.746041"
     }
   }
 }
