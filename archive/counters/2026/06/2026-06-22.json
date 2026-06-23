@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": "2026-06-23T11:19:53.367Z",
+  "updatedAt": "2026-06-23T11:24:59.087Z",
   "users": {
     "2433200651": {
       "weiboUid": "2433200651",
@@ -1313,16 +1313,23 @@
       "devices": {
         "d6f631b8abe8b4e36286b65776d91fbecaf9dda56a400a197e8e978c3f927a5f": {
           "deviceHash": "d6f631b8abe8",
-          "danmuSent": 1411,
+          "danmuSent": 1588,
           "discussionSent": 0,
-          "lastSeenAt": "2026-06-22T23:15:02.175863",
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T23:59:51.720786",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 1411,
+      "danmuSent": 1588,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-22T23:15:02.175863"
+      "lastSeenAt": "2026-06-22T23:59:51.720786",
+      "weiboNickname": "北极星不是麻瓜",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "冲浪暂停和檀柳殉情": {
       "weiboUid": "冲浪暂停和檀柳殉情",
@@ -2901,16 +2908,23 @@
       "devices": {
         "a7046f11b0c97281b6b25f0ab07c9b4a546e74dc948fe78190c369aa9932e718": {
           "deviceHash": "a7046f11b0c9",
-          "danmuSent": 342,
+          "danmuSent": 461,
           "discussionSent": 0,
-          "lastSeenAt": "2026-06-22T23:14:54.008670",
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T23:49:01.049722",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 342,
+      "danmuSent": 461,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-22T23:14:54.008670"
+      "lastSeenAt": "2026-06-22T23:49:01.049722",
+      "weiboNickname": "幸运小羔羊",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "我家小猫最乖啦": {
       "weiboUid": "我家小猫最乖啦",
