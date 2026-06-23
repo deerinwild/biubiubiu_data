@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": "2026-06-23T12:21:29.622Z",
+  "updatedAt": "2026-06-23T12:26:48.507Z",
   "users": {
     "2433200651": {
       "weiboUid": "2433200651",
@@ -1576,12 +1576,22 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-06-22T21:50:14.825356",
           "appVersion": "biubiubiu1.1"
+        },
+        "983451b3f43ed51b5b23ac028984f64e28bddfba093e5011c5cddc59c9ab4610": {
+          "deviceHash": "983451b3f43e",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T21:52:17.772939",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
+      "activeDevices": 2,
       "danmuSent": 496,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-22T21:50:14.825356",
+      "lastSeenAt": "2026-06-22T21:52:17.772939",
       "weiboNickname": "檀猫猫的宝贝",
       "danmuFailed": 0,
       "discussionFailed": 0,
