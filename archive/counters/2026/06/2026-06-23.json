@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "updatedAt": "2026-06-24T02:30:41.925Z",
+  "updatedAt": "2026-06-24T02:35:46.733Z",
   "users": {
     "2281381197": {
       "weiboNickname": "2281381197",
@@ -251,16 +251,6 @@
           "lastSeenAt": "2026-06-23T23:51:17.126307",
           "appVersion": "biubiubiu1.1"
         },
-        "88c066d77051faf99d2b4c6027f94e4ec315f027c5bf33ff586705e1bb76fb87": {
-          "deviceHash": "88c066d77051",
-          "danmuSent": 649,
-          "discussionSent": 0,
-          "danmuFailed": 0,
-          "discussionFailed": 0,
-          "danmuSkipped": 0,
-          "lastSeenAt": "2026-06-23T13:35:58.940858",
-          "appVersion": "biubiubiu1.1"
-        },
         "bec4c679cf55b1a3e2f71abd6153ca7c2ce03095445d85e941d62412e0f967a2": {
           "deviceHash": "bec4c679cf55",
           "danmuSent": 233,
@@ -322,8 +312,8 @@
           "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 16,
-      "danmuSent": 17856,
+      "activeDevices": 15,
+      "danmuSent": 17207,
       "discussionSent": 239,
       "lastSeenAt": "2026-06-23T23:59:48.434946",
       "weiboNickname": "苦b不额外加糖",
@@ -4586,6 +4576,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-06-23T23:54:14.237373"
+    },
+    "漫曼吃-jct": {
+      "weiboNickname": "漫曼吃-jct",
+      "devices": {
+        "88c066d77051faf99d2b4c6027f94e4ec315f027c5bf33ff586705e1bb76fb87": {
+          "deviceHash": "88c066d77051",
+          "danmuSent": 649,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-23T13:36:01.635263",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 649,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-06-23T13:36:01.635263"
     }
   }
 }
