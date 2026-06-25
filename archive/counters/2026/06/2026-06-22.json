@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": "2026-06-25T16:54:55.708Z",
+  "updatedAt": "2026-06-25T17:00:01.436Z",
   "users": {
     "2281381197": {
       "weiboNickname": "2281381197",
@@ -1097,16 +1097,23 @@
       "devices": {
         "c786c87a2c9af96c0e2d527e789c2b37ec6e6a476dda985c077c7f04538292de": {
           "deviceHash": "c786c87a2c9a",
-          "danmuSent": 322,
+          "danmuSent": 810,
           "discussionSent": 0,
-          "lastSeenAt": "2026-06-22T03:45:21.417430",
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T11:27:00.851384",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 322,
+      "danmuSent": 810,
       "discussionSent": 0,
-      "lastSeenAt": "2026-06-22T03:45:21.417430"
+      "lastSeenAt": "2026-06-22T11:27:00.851384",
+      "weiboNickname": "泥麻薯了_o",
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0
     },
     "桃之夭腰2023": {
       "weiboUid": "桃之夭腰2023",
