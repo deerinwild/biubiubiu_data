@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": "2026-06-28T05:29:27.059Z",
+  "updatedAt": "2026-06-28T05:34:31.497Z",
   "users": {
     "2281381197": {
       "weiboNickname": "2281381197",
@@ -1385,29 +1385,6 @@
       "discussionSent": 0,
       "lastSeenAt": "2026-06-22T23:59:51.720786",
       "weiboNickname": "北极星不是麻瓜",
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0
-    },
-    "冲浪暂停和檀柳殉情": {
-      "weiboUid": "冲浪暂停和檀柳殉情",
-      "devices": {
-        "e0e36a9e45006d9ee72626b86466e3d2b884ab251647f88390c28edb9ec04ee7": {
-          "deviceHash": "e0e36a9e4500",
-          "danmuSent": 387,
-          "discussionSent": 0,
-          "danmuFailed": 0,
-          "discussionFailed": 0,
-          "danmuSkipped": 0,
-          "lastSeenAt": "2026-06-22T21:32:50.268492",
-          "appVersion": "biubiubiu1.1"
-        }
-      },
-      "activeDevices": 1,
-      "danmuSent": 387,
-      "discussionSent": 0,
-      "lastSeenAt": "2026-06-22T21:32:50.268492",
-      "weiboNickname": "冲浪暂停和檀柳殉情",
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0
@@ -4329,6 +4306,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-06-22T15:21:01.126724"
+    },
+    "xxxx": {
+      "weiboNickname": "xxxx",
+      "devices": {
+        "e0e36a9e45006d9ee72626b86466e3d2b884ab251647f88390c28edb9ec04ee7": {
+          "deviceHash": "e0e36a9e4500",
+          "danmuSent": 387,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-22T21:32:50.268492",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 387,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-06-22T21:32:50.268492"
     }
   }
 }
