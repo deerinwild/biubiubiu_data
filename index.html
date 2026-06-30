@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>biubiubiu 数据面板</title>
+  <style>
+    :root { color-scheme: light; --bg:#f6f7fb; --card:#ffffff; --text:#111827; --muted:#6b7280; --line:#e5e7eb; --soft:#f9fafb; }
+    * { box-sizing: border-box; }
+    body { margin:0; background:var(--bg); color:var(--text); font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",Arial,sans-serif; }
+    .wrap { max-width:1180px; margin:0 auto; padding:24px; }
+    .head { display:flex; gap:16px; justify-content:space-between; align-items:flex-end; margin-bottom:18px; }
+    h1 { margin:0 0 6px; font-size:28px; line-height:1.2; }
+    .muted { color:var(--muted); font-size:13px; }
+    .btn { border:1px solid var(--line); background:#fff; border-radius:999px; padding:9px 14px; cursor:pointer; font-weight:700; }
+    .btn:hover { background:var(--soft); }
+    .cards { display:grid; grid-template-columns:repeat(4,1fr); gap:12px; margin:18px 0; }
+    .card { background:var(--card); border:1px solid var(--line); border-radius:18px; padding:18px; box-shadow:0 1px 2px rgba(15,23,42,.04); }
+    .label { color:var(--muted); font-size:14px; }
+    .num { font-size:32px; font-weight:850; margin-top:8px; letter-spacing:-.02em; }
+    .panel { background:var(--card); border:1px solid var(--line); border-radius:18px; overflow:hidden; box-shadow:0 1px 2px rgba(15,23,42,.04); }
+    .panelTitle { display:flex; justify-content:space-between; gap:12px; align-items:center; padding:16px 18px; border-bottom:1px solid var(--line); }
+    .panelTitle h2 { margin:0; font-size:18px; }
+    table { width:100%; border-collapse:collapse; }
+    th,td { text-align:left; padding:12px 14px; border-bottom:1px solid #eef0f4; font-size:14px; white-space:nowrap; }
+    th { background:var(--soft); color:#374151; font-weight:750; }
+    tr:last-child td { border-bottom:0; }
+    .right { text-align:right; }
+    .empty,.error { margin-top:14px; padding:12px 14px; border-radius:14px; font-size:14px; }
+    .empty { background:#fff; border:1px dashed var(--line); color:var(--muted); }
+    .error { background:#fff7ed; border:1px solid #fed7aa; color:#9a3412; word-break:break-word; }
+    code { background:#eef2ff; padding:2px 6px; border-radius:8px; }
+    @media(max-width:760px){ .wrap{padding:14px}.head{display:block}.head .btn{margin-top:10px}.cards{grid-template-columns:1fr 1fr}.card{padding:14px}.num{font-size:26px}.panel{overflow:auto}th,td{font-size:13px;padding:10px}.hideMobile{display:none} }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="head">
+      <div>
+        <h1>biubiubiu 数据面板</h1>
+        <div class="muted" id="subline">正在读取 <code>archive/summary/latest.json</code> ……</div>
+      </div>
+      <button class="btn" type="button" onclick="loadData(true)">刷新数据</button>
+    </div>
+
+    <div id="message"></div>
+
+    <div class="cards">
+      <div class="card"><div class="label">活跃用户</div><div class="num" id="activeUsers">--</div></div>
+      <div class="card"><div class="label">活跃设备</div><div class="num" id="activeDevices">--</div></div>
+      <div class="card"><div class="label">弹幕发送</div><div class="num" id="danmuSent">--</div></div>
+      <div class="card"><div class="label">讨论发送</div><div class="num" id="discussionSent">--</div></div>
+    </div>
+
+    <div class="panel">
+      <div class="panelTitle">
+        <h2>用户排行</h2>
+        <div class="muted" id="sourceLine"></div>
+      </div>
+      <table>
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>微博昵称</th>
+            <th class="right">设备数</th>
+            <th class="right">弹幕</th>
+            <th class="right">讨论</th>
+            <th class="right">总发送</th>
+            <th class="hideMobile">最后上报</th>
+          </tr>
+        </thead>
+        <tbody id="rows"><tr><td colspan="7" class="muted">暂无数据</td></tr></tbody>
+      </table>
+    </div>
+  </div>
+
+<script>
+const fmt = n => Number(n || 0).toLocaleString('zh-CN');
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+async function fetchJson(path) {
+  const url = `${path}${path.includes('?') ? '&' : '?'}ts=${Date.now()}`;
+  const res = await fetch(url, { cache: 'no-store' });
+  if (!res.ok) throw new Error(`${path} 读取失败：HTTP ${res.status}`);
+  return res.json();
+}
+
+function setMsg(html, type = 'empty') {
+  document.getElementById('message').innerHTML = html ? `<div class="${type}">${html}</div>` : '';
+}
+
+function render(latest, users) {
+  const totals = latest.totals || {};
+  document.getElementById('activeUsers').textContent = fmt(totals.activeUsers);
+  document.getElementById('activeDevices').textContent = fmt(totals.activeDevices);
+  document.getElementById('danmuSent').textContent = fmt(totals.danmuSent);
+  document.getElementById('discussionSent').textContent = fmt(totals.discussionSent);
+  document.getElementById('subline').innerHTML = `日期：<b>${esc(latest.date || '--')}</b>　更新：${esc(latest.updatedAt || '')}`;
+  document.getElementById('sourceLine').innerHTML = latest.paths ? `数据：${esc(latest.paths.counter || '')}` : '';
+
+  const rows = (users || []).map((u, i) => `
+    <tr>
+      <td>${i + 1}</td>
+      <td>${esc(u.weiboNickname || '未绑定昵称')}</td>
+      <td class="right">${fmt(u.activeDevices)}</td>
+      <td class="right">${fmt(u.danmuSent)}</td>
+      <td class="right">${fmt(u.discussionSent)}</td>
+      <td class="right"><b>${fmt(u.totalSent ?? ((u.danmuSent || 0) + (u.discussionSent || 0)))}</b></td>
+      <td class="hideMobile">${esc(u.lastSeenAt || '')}</td>
+    </tr>`).join('');
+  document.getElementById('rows').innerHTML = rows || '<tr><td colspan="7" class="muted">暂无数据</td></tr>';
+}
+
+async function loadData(manual = false) {
+  try {
+    setMsg('');
+    const latest = await fetchJson('./archive/summary/latest.json');
+    let users = latest.users || [];
+
+    // 兼容只包含路径、不包含 users 的 latest.json。
+    if ((!users || !users.length) && latest.paths && latest.paths.counter) {
+      const counter = await fetchJson(`./${latest.paths.counter}`);
+      users = Object.values(counter.users || {}).map(u => ({
+        weiboNickname: u.weiboNickname,
+        activeDevices: u.activeDevices,
+        danmuSent: u.danmuSent,
+        discussionSent: u.discussionSent,
+        danmuFailed: u.danmuFailed,
+        discussionFailed: u.discussionFailed,
+        danmuSkipped: u.danmuSkipped,
+        totalSent: (u.danmuSent || 0) + (u.discussionSent || 0),
+        lastSeenAt: u.lastSeenAt || ''
+      })).sort((a, b) => b.totalSent - a.totalSent);
+    }
+
+    render(latest, users);
+    if (manual) setMsg('已刷新。', 'empty');
+  } catch (err) {
+    setMsg(`还没有读到最新索引。请确认 Render 已部署新版 server.js，并至少成功写入过一次 GitHub。错误：${esc(err.message || err)}`, 'error');
+  }
+}
+
+loadData();
+</script>
+</body>
+</html>
