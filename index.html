@@ -3,17 +3,48 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>biubiubiu 手机版数据</title>
+  <title>biubiubiu 数据面板</title>
   <style>
-    :root { color-scheme: light; --bg:#f6f7fb; --card:#ffffff; --text:#111827; --muted:#6b7280; --line:#e5e7eb; --soft:#f9fafb; }
+    :root {
+      color-scheme: light;
+      --bg:#f6f7fb;
+      --card:#ffffff;
+      --text:#111827;
+      --muted:#6b7280;
+      --line:#e5e7eb;
+      --soft:#f9fafb;
+      --brand:#2563eb;
+      --brandSoft:#eff6ff;
+      --warnBg:#fff7ed;
+      --warnLine:#fed7aa;
+      --warnText:#9a3412;
+      --okBg:#f0fdf4;
+      --okLine:#bbf7d0;
+      --okText:#166534;
+    }
     * { box-sizing: border-box; }
-    body { margin:0; background:var(--bg); color:var(--text); font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",Arial,sans-serif; }
+    body {
+      margin:0;
+      background:var(--bg);
+      color:var(--text);
+      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",Arial,sans-serif;
+    }
     .wrap { max-width:1180px; margin:0 auto; padding:24px; }
-    .head { display:flex; gap:16px; justify-content:space-between; align-items:flex-end; margin-bottom:18px; }
+    .head { display:flex; gap:16px; justify-content:space-between; align-items:flex-end; margin-bottom:14px; }
     h1 { margin:0 0 6px; font-size:28px; line-height:1.2; }
     .muted { color:var(--muted); font-size:13px; }
-    .btn { border:1px solid var(--line); background:#fff; border-radius:999px; padding:9px 14px; cursor:pointer; font-weight:700; }
-    .btn:hover { background:var(--soft); }
+    .toolbar { display:flex; align-items:center; justify-content:flex-end; gap:8px; flex-wrap:wrap; }
+    .btn, input {
+      border:1px solid var(--line);
+      background:#fff;
+      border-radius:999px;
+      padding:9px 14px;
+      font:inherit;
+    }
+    input { min-width:148px; }
+    .btn { cursor:pointer; font-weight:750; color:var(--text); }
+    .btn.primary { background:var(--brand); color:#fff; border-color:var(--brand); }
+    .btn:hover { filter:brightness(.98); }
     .cards { display:grid; grid-template-columns:repeat(4,1fr); gap:12px; margin:18px 0; }
     .card { background:var(--card); border:1px solid var(--line); border-radius:18px; padding:18px; box-shadow:0 1px 2px rgba(15,23,42,.04); }
     .label { color:var(--muted); font-size:14px; }
@@ -21,126 +52,291 @@
     .panel { background:var(--card); border:1px solid var(--line); border-radius:18px; overflow:hidden; box-shadow:0 1px 2px rgba(15,23,42,.04); }
     .panelTitle { display:flex; justify-content:space-between; gap:12px; align-items:center; padding:16px 18px; border-bottom:1px solid var(--line); }
     .panelTitle h2 { margin:0; font-size:18px; }
+    .tableWrap { overflow:auto; }
     table { width:100%; border-collapse:collapse; }
     th,td { text-align:left; padding:12px 14px; border-bottom:1px solid #eef0f4; font-size:14px; white-space:nowrap; }
     th { background:var(--soft); color:#374151; font-weight:750; }
     tr:last-child td { border-bottom:0; }
     .right { text-align:right; }
-    .empty,.error { margin-top:14px; padding:12px 14px; border-radius:14px; font-size:14px; }
+    .empty,.error,.ok { margin-top:14px; padding:12px 14px; border-radius:14px; font-size:14px; word-break:break-word; }
     .empty { background:#fff; border:1px dashed var(--line); color:var(--muted); }
-    .error { background:#fff7ed; border:1px solid #fed7aa; color:#9a3412; word-break:break-word; }
+    .error { background:var(--warnBg); border:1px solid var(--warnLine); color:var(--warnText); }
+    .ok { background:var(--okBg); border:1px solid var(--okLine); color:var(--okText); }
     code { background:#eef2ff; padding:2px 6px; border-radius:8px; }
-    @media(max-width:760px){ .wrap{padding:14px}.head{display:block}.head .btn{margin-top:10px}.cards{grid-template-columns:1fr 1fr}.card{padding:14px}.num{font-size:26px}.panel{overflow:auto}th,td{font-size:13px;padding:10px}.hideMobile{display:none} }
+    .pill { display:inline-block; margin-left:6px; padding:2px 8px; border-radius:999px; color:var(--brand); background:var(--brandSoft); font-weight:800; font-size:12px; }
+    @media(max-width:760px){
+      .wrap{padding:14px}
+      .head{display:block}
+      .toolbar{justify-content:flex-start;margin-top:12px}
+      .toolbar .btn{flex:1; min-width:calc(50% - 6px)}
+      input{width:100%; min-width:100%; border-radius:14px}
+      .cards{grid-template-columns:1fr 1fr}
+      .card{padding:14px}
+      .num{font-size:26px}
+      th,td{font-size:13px;padding:10px}
+      .hideMobile{display:none}
+    }
   </style>
 </head>
 <body>
   <div class="wrap">
     <div class="head">
       <div>
-        <h1>biubiubiu 手机版数据</h1>
-        <div class="muted" id="subline">正在读取 <code>archive/summary/latest.json</code> ……</div>
+        <h1>biubiubiu 数据面板</h1>
+        <div class="muted" id="subline">优先读取 <code>archive/summary/latest.json</code>；读取失败时可手动选择日期或月份。</div>
       </div>
-      <button class="btn" type="button" onclick="loadData(true)">刷新数据</button>
+      <div class="toolbar">
+        <input id="dateInput" type="date" aria-label="选择日期">
+        <button class="btn primary" type="button" id="loadDayBtn">加载当天</button>
+        <button class="btn" type="button" id="loadMonthBtn">加载本月</button>
+        <button class="btn" type="button" id="refreshBtn">刷新</button>
+      </div>
     </div>
 
     <div id="message"></div>
 
     <div class="cards">
-      <div class="card"><div class="label">活跃用户</div><div class="num" id="activeUsers">--</div></div>
-      <div class="card"><div class="label">活跃设备</div><div class="num" id="activeDevices">--</div></div>
+      <div class="card"><div class="label" id="labelUsers">活跃用户</div><div class="num" id="activeUsers">--</div></div>
+      <div class="card"><div class="label" id="labelDevices">活跃设备</div><div class="num" id="activeDevices">--</div></div>
       <div class="card"><div class="label">弹幕发送</div><div class="num" id="danmuSent">--</div></div>
       <div class="card"><div class="label">讨论发送</div><div class="num" id="discussionSent">--</div></div>
     </div>
 
     <div class="panel">
       <div class="panelTitle">
-        <h2>用户排行</h2>
+        <h2 id="tableTitle">用户排行</h2>
         <div class="muted" id="sourceLine"></div>
       </div>
-      <table>
-        <thead>
-          <tr>
-            <th>#</th>
-            <th>微博昵称</th>
-            <th class="right">设备数</th>
-            <th class="right">弹幕</th>
-            <th class="right">讨论</th>
-            <th class="right">总发送</th>
-            <th class="hideMobile">最后上报</th>
-          </tr>
-        </thead>
-        <tbody id="rows"><tr><td colspan="7" class="muted">暂无数据</td></tr></tbody>
-      </table>
+      <div class="tableWrap">
+        <table>
+          <thead id="thead"></thead>
+          <tbody id="rows"><tr><td class="muted">暂无数据</td></tr></tbody>
+        </table>
+      </div>
     </div>
   </div>
 
 <script>
+const $ = id => document.getElementById(id);
 const fmt = n => Number(n || 0).toLocaleString('zh-CN');
+const num = v => Number.isFinite(Number(v)) ? Number(v) : 0;
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
+const now = new Date();
+const yyyy = now.getFullYear();
+const mm = String(now.getMonth() + 1).padStart(2, '0');
+const dd = String(now.getDate()).padStart(2, '0');
+$('dateInput').value = `${yyyy}-${mm}-${dd}`;
+let lastMode = 'latest';
+
+function setMsg(html, type = 'empty') {
+  $('message').innerHTML = html ? `<div class="${type}">${html}</div>` : '';
+}
+
 async function fetchJson(path) {
-  const url = `${path}${path.includes('?') ? '&' : '?'}ts=${Date.now()}`;
+  const normalized = path.startsWith('./') || path.startsWith('http') ? path : `./${path}`;
+  const url = `${normalized}${normalized.includes('?') ? '&' : '?'}ts=${Date.now()}`;
   const res = await fetch(url, { cache: 'no-store' });
-  if (!res.ok) throw new Error(`${path} 读取失败：HTTP ${res.status}`);
+  if (!res.ok) throw new Error(`${normalized}：HTTP ${res.status}`);
   return res.json();
 }
 
-function setMsg(html, type = 'empty') {
-  document.getElementById('message').innerHTML = html ? `<div class="${type}">${html}</div>` : '';
+async function fetchFirst(paths) {
+  const errors = [];
+  for (const path of paths) {
+    try {
+      const json = await fetchJson(path);
+      return { json, path };
+    } catch (err) {
+      errors.push(err.message || String(err));
+    }
+  }
+  throw new Error(errors.join('；'));
 }
 
-function render(latest, users) {
-  const totals = latest.totals || {};
-  document.getElementById('activeUsers').textContent = fmt(totals.activeUsers);
-  document.getElementById('activeDevices').textContent = fmt(totals.activeDevices);
-  document.getElementById('danmuSent').textContent = fmt(totals.danmuSent);
-  document.getElementById('discussionSent').textContent = fmt(totals.discussionSent);
-  document.getElementById('subline').innerHTML = `日期：<b>${esc(latest.date || '--')}</b>　更新：${esc(latest.updatedAt || '')}`;
-  document.getElementById('sourceLine').innerHTML = latest.paths ? `数据：${esc(latest.paths.counter || '')}` : '';
-
-  const rows = (users || []).map((u, i) => `
-    <tr>
-      <td>${i + 1}</td>
-      <td>${esc(u.weiboNickname || '未绑定昵称')}</td>
-      <td class="right">${fmt(u.activeDevices)}</td>
-      <td class="right">${fmt(u.danmuSent)}</td>
-      <td class="right">${fmt(u.discussionSent)}</td>
-      <td class="right"><b>${fmt(u.totalSent ?? ((u.danmuSent || 0) + (u.discussionSent || 0)))}</b></td>
-      <td class="hideMobile">${esc(u.lastSeenAt || '')}</td>
-    </tr>`).join('');
-  document.getElementById('rows').innerHTML = rows || '<tr><td colspan="7" class="muted">暂无数据</td></tr>';
+function pathsForDate(date) {
+  const [y, m] = date.split('-');
+  return [
+    `archive/counters/${y}/${m}/${date}.json`,
+    `archive/counters/${date}.json`,
+    `counters/${date}.json`,
+    `data/${date}.json`
+  ];
 }
 
-async function loadData(manual = false) {
+function pathsForMonth(date) {
+  const [y, m] = date.split('-');
+  const ym = `${y}-${m}`;
+  return [
+    `archive/summary/${y}/${ym}.json`,
+    `archive/summary/${ym}.json`,
+    `summary/${ym}.json`,
+    `monthly/${ym}.json`
+  ];
+}
+
+function normalizePath(path) {
+  if (!path) return '';
+  if (path.startsWith('./') || path.startsWith('http')) return path;
+  return `./${path}`;
+}
+
+function rowTotal(row) {
+  return num(row.danmuSent) + num(row.discussionSent);
+}
+
+function latestUsersFromCounter(counter) {
+  const usersObj = counter && counter.users ? counter.users : {};
+  return Object.entries(usersObj).map(([key, u]) => {
+    const devices = u.devices || {};
+    const deviceCount = num(u.activeDevices) || Object.keys(devices).length;
+    return {
+      weiboNickname: u.weiboNickname || u.weiboUid || key || '未绑定昵称',
+      activeDevices: deviceCount,
+      danmuSent: num(u.danmuSent),
+      discussionSent: num(u.discussionSent),
+      danmuFailed: num(u.danmuFailed),
+      discussionFailed: num(u.discussionFailed),
+      danmuSkipped: num(u.danmuSkipped),
+      totalSent: num(u.danmuSent) + num(u.discussionSent),
+      lastSeenAt: u.lastSeenAt || ''
+    };
+  }).sort((a, b) => rowTotal(b) - rowTotal(a));
+}
+
+function totalsFromUsers(users) {
+  return users.reduce((acc, u) => {
+    acc.activeUsers += 1;
+    acc.activeDevices += num(u.activeDevices);
+    acc.danmuSent += num(u.danmuSent);
+    acc.discussionSent += num(u.discussionSent);
+    return acc;
+  }, { activeUsers: 0, activeDevices: 0, danmuSent: 0, discussionSent: 0 });
+}
+
+function renderMetrics(totals, labels = {}) {
+  $('labelUsers').textContent = labels.users || '活跃用户';
+  $('labelDevices').textContent = labels.devices || '活跃设备';
+  $('activeUsers').textContent = fmt(totals.activeUsers);
+  $('activeDevices').textContent = fmt(totals.activeDevices);
+  $('danmuSent').textContent = fmt(totals.danmuSent);
+  $('discussionSent').textContent = fmt(totals.discussionSent);
+}
+
+function renderUserTable(users) {
+  $('tableTitle').textContent = '用户排行';
+  $('thead').innerHTML = `<tr>
+    <th>#</th><th>微博昵称</th><th class="right">设备数</th><th class="right">弹幕</th><th class="right">讨论</th><th class="right">总发送</th><th class="hideMobile">最后上报</th>
+  </tr>`;
+  const rows = (users || []).map((u, i) => `<tr>
+    <td>${i + 1}</td>
+    <td>${esc(u.weiboNickname || '未绑定昵称')}</td>
+    <td class="right">${fmt(u.activeDevices)}</td>
+    <td class="right">${fmt(u.danmuSent)}</td>
+    <td class="right">${fmt(u.discussionSent)}</td>
+    <td class="right"><b>${fmt(u.totalSent ?? rowTotal(u))}</b></td>
+    <td class="hideMobile">${esc(u.lastSeenAt || '')}</td>
+  </tr>`).join('');
+  $('rows').innerHTML = rows || '<tr><td colspan="7" class="muted">暂无数据</td></tr>';
+}
+
+function renderDay(counter, path) {
+  const users = latestUsersFromCounter(counter);
+  const totals = counter.totals || totalsFromUsers(users);
+  renderMetrics(totals);
+  renderUserTable(users);
+  $('subline').innerHTML = `日期：<b>${esc(counter.date || $('dateInput').value || '--')}</b>　更新：${esc(counter.updatedAt || '')}`;
+  $('sourceLine').innerHTML = `<span class="pill">当天</span> ${esc(path || '')}`;
+}
+
+function renderLatest(latest, users, path) {
+  const totals = latest.totals || totalsFromUsers(users || []);
+  renderMetrics(totals);
+  renderUserTable(users || latest.users || []);
+  $('subline').innerHTML = `最新日期：<b>${esc(latest.date || '--')}</b>　更新：${esc(latest.updatedAt || '')}`;
+  $('sourceLine').innerHTML = `<span class="pill">最新</span> ${esc((latest.paths && latest.paths.counter) || path || '')}`;
+}
+
+function renderMonth(summary, path) {
+  const daysObj = summary.days || {};
+  const days = Object.values(daysObj).sort((a, b) => String(b.date || '').localeCompare(String(a.date || '')));
+  const totals = days.reduce((acc, d) => {
+    acc.activeUsers += num(d.activeUsers);
+    acc.activeDevices += num(d.activeDevices);
+    acc.danmuSent += num(d.danmuSent);
+    acc.discussionSent += num(d.discussionSent);
+    return acc;
+  }, { activeUsers: 0, activeDevices: 0, danmuSent: 0, discussionSent: 0 });
+  renderMetrics(totals, { users: '用户日活合计', devices: '设备日活合计' });
+  $('tableTitle').textContent = '每日汇总';
+  $('thead').innerHTML = `<tr>
+    <th>日期</th><th class="right">用户</th><th class="right">设备</th><th class="right">弹幕</th><th class="right">讨论</th><th class="right">总发送</th><th class="hideMobile">最后上报</th>
+  </tr>`;
+  $('rows').innerHTML = days.map(d => `<tr>
+    <td>${esc(d.date || '')}</td>
+    <td class="right">${fmt(d.activeUsers)}</td>
+    <td class="right">${fmt(d.activeDevices)}</td>
+    <td class="right">${fmt(d.danmuSent)}</td>
+    <td class="right">${fmt(d.discussionSent)}</td>
+    <td class="right"><b>${fmt(num(d.danmuSent) + num(d.discussionSent))}</b></td>
+    <td class="hideMobile">${esc(d.lastSeenAt || d.updatedAt || '')}</td>
+  </tr>`).join('') || '<tr><td colspan="7" class="muted">暂无数据</td></tr>';
+  $('subline').innerHTML = `月份：<b>${esc(summary.month || ($('dateInput').value || '').slice(0, 7) || '--')}</b>　更新：${esc(summary.updatedAt || '')}`;
+  $('sourceLine').innerHTML = `<span class="pill">本月</span> ${esc(path || '')}`;
+}
+
+async function loadLatest() {
+  lastMode = 'latest';
+  setMsg('');
   try {
-    setMsg('');
     const latest = await fetchJson('./archive/summary/latest.json');
     let users = latest.users || [];
-
-    // 兼容只包含路径、不包含 users 的 latest.json。
     if ((!users || !users.length) && latest.paths && latest.paths.counter) {
-      const counter = await fetchJson(`./${latest.paths.counter}`);
-      users = Object.values(counter.users || {}).map(u => ({
-        weiboNickname: u.weiboNickname,
-        activeDevices: u.activeDevices,
-        danmuSent: u.danmuSent,
-        discussionSent: u.discussionSent,
-        danmuFailed: u.danmuFailed,
-        discussionFailed: u.discussionFailed,
-        danmuSkipped: u.danmuSkipped,
-        totalSent: (u.danmuSent || 0) + (u.discussionSent || 0),
-        lastSeenAt: u.lastSeenAt || ''
-      })).sort((a, b) => b.totalSent - a.totalSent);
+      const counter = await fetchJson(normalizePath(latest.paths.counter));
+      users = latestUsersFromCounter(counter);
     }
-
-    render(latest, users);
-    if (manual) setMsg('已刷新。', 'empty');
+    renderLatest(latest, users, './archive/summary/latest.json');
   } catch (err) {
-    setMsg(`还没有读到最新索引。请确认 Render 已部署新版 server.js，并至少成功写入过一次 GitHub。错误：${esc(err.message || err)}`, 'error');
+    setMsg(`没有读取到最新索引。你仍可选择日期后点击“加载当天”，或点击“加载本月”。错误：${esc(err.message || err)}`, 'error');
+    await loadDay(true);
   }
 }
 
-loadData();
+async function loadDay(silent = false) {
+  lastMode = 'day';
+  if (!silent) setMsg('');
+  const date = $('dateInput').value || `${yyyy}-${mm}-${dd}`;
+  try {
+    const { json, path } = await fetchFirst(pathsForDate(date));
+    renderDay(json, path);
+    if (!silent) setMsg(`已加载 ${esc(date)} 当天数据。`, 'ok');
+  } catch (err) {
+    setMsg(`没有读取到 ${esc(date)} 的当天数据。已尝试：${esc(err.message || err)}`, 'error');
+  }
+}
+
+async function loadMonth() {
+  lastMode = 'month';
+  setMsg('');
+  const date = $('dateInput').value || `${yyyy}-${mm}-${dd}`;
+  try {
+    const { json, path } = await fetchFirst(pathsForMonth(date));
+    renderMonth(json, path);
+    setMsg(`已加载 ${(date || '').slice(0, 7)} 月度汇总。`, 'ok');
+  } catch (err) {
+    setMsg(`没有读取到 ${(date || '').slice(0, 7)} 的月度汇总。已尝试：${esc(err.message || err)}`, 'error');
+  }
+}
+
+$('loadDayBtn').addEventListener('click', () => loadDay(false));
+$('loadMonthBtn').addEventListener('click', loadMonth);
+$('refreshBtn').addEventListener('click', () => {
+  if (lastMode === 'month') return loadMonth();
+  if (lastMode === 'day') return loadDay(false);
+  return loadLatest();
+});
+
+loadLatest();
 </script>
 </body>
 </html>
