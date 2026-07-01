@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "updatedAt": "2026-07-01T13:14:07.459Z",
+  "updatedAt": "2026-07-01T13:19:28.606Z",
   "users": {
     "素颜多多JC-T": {
       "weiboNickname": "素颜多多JC-T",
@@ -108,10 +108,20 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-06-27T23:50:10.606233",
           "appVersion": "biubiubiu1.4"
+        },
+        "76c98187619a7000c22318632cf01f26941b1c2ef32ca944a22827976752dc07": {
+          "deviceHash": "76c98187619a",
+          "danmuSent": 535,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-27T22:40:54.622229",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 2,
-      "danmuSent": 4038,
+      "activeDevices": 3,
+      "danmuSent": 4573,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
