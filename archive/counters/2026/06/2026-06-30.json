@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "updatedAt": "2026-07-01T11:48:30.669Z",
+  "updatedAt": "2026-07-01T11:53:49.754Z",
   "users": {
     "钸町": {
       "weiboNickname": "钸町",
@@ -1250,15 +1250,25 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-06-30T19:18:43.724117",
           "appVersion": "biubiubiu1.1"
+        },
+        "8cfa3ca2ac9acee0940e15a9e37b21a2e9fd8d1c6d7b8f6ec43f9ea1c4c6ae7d": {
+          "deviceHash": "8cfa3ca2ac9a",
+          "danmuSent": 277,
+          "discussionSent": 250,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-30T23:05:03.581755",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
-      "danmuSent": 470,
-      "discussionSent": 655,
+      "activeDevices": 2,
+      "danmuSent": 747,
+      "discussionSent": 905,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-06-30T19:18:43.724117"
+      "lastSeenAt": "2026-06-30T23:05:03.581755"
     },
     "欧神附体＿": {
       "weiboNickname": "欧神附体＿",
@@ -2027,6 +2037,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-06-30T23:38:05.647995"
+    },
+    "为正义祈福": {
+      "weiboNickname": "为正义祈福",
+      "devices": {
+        "fd31a25b0cd84e5ce2976015d556681ab03ea418542b9b7d3fd89052c119d762": {
+          "deviceHash": "fd31a25b0cd8",
+          "danmuSent": 0,
+          "discussionSent": 713,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-30T23:29:06.961803",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 713,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-06-30T23:29:06.961803"
     }
   }
 }
