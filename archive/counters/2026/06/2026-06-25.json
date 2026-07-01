@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "updatedAt": "2026-07-01T10:12:30.479Z",
+  "updatedAt": "2026-07-01T10:17:52.032Z",
   "users": {
     "素颜多多JC-T": {
       "weiboNickname": "素颜多多JC-T",
@@ -526,15 +526,25 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-06-25T22:06:43.955106",
           "appVersion": "biubiubiu1.1"
+        },
+        "2ba2bc813b71f354dc391d34eeb9afdf550c13d05197931752aff744ec40aba4": {
+          "deviceHash": "2ba2bc813b71",
+          "danmuSent": 2737,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-25T22:38:28.443087",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
-      "danmuSent": 1485,
+      "activeDevices": 2,
+      "danmuSent": 4222,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-06-25T22:06:43.955106"
+      "lastSeenAt": "2026-06-25T22:38:28.443087"
     },
     "檀猫猫的宝贝": {
       "weiboNickname": "檀猫猫的宝贝",
@@ -895,6 +905,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-06-25T23:59:56.915888"
+    },
+    "小耳朵梦中梦": {
+      "weiboNickname": "小耳朵梦中梦",
+      "devices": {
+        "f9727be46365bd9c49d78cfe8b515e71ce00e8cf2558ac7fb5cf25e11eb5a1e1": {
+          "deviceHash": "f9727be46365",
+          "danmuSent": 1387,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-25T21:18:31.813994",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 1387,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-06-25T21:18:31.813994"
     }
   }
 }
