@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "updatedAt": "2026-07-01T15:49:41.344Z",
+  "updatedAt": "2026-07-01T15:55:00.519Z",
   "users": {
     "钸町": {
       "weiboNickname": "钸町",
@@ -150,15 +150,25 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-06-30T22:12:23.321827",
           "appVersion": "biubiubiu1.1"
+        },
+        "331828785dd05146f4412c8bdf90450ee6bee5fbdfa7fe3582e234a77c25ea09": {
+          "deviceHash": "331828785dd0",
+          "danmuSent": 4594,
+          "discussionSent": 30,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-30T23:59:57.487889",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 4,
-      "danmuSent": 2047,
-      "discussionSent": 1627,
+      "activeDevices": 5,
+      "danmuSent": 6641,
+      "discussionSent": 1657,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-06-30T23:40:26.723171"
+      "lastSeenAt": "2026-06-30T23:59:57.487889"
     },
     "晨光微暖JCT": {
       "weiboNickname": "晨光微暖JCT",
