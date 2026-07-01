@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "updatedAt": "2026-07-01T12:31:20.636Z",
+  "updatedAt": "2026-07-01T12:36:41.044Z",
   "users": {
     "素颜多多JC-T": {
       "weiboNickname": "素颜多多JC-T",
@@ -1921,6 +1921,60 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-06-26T18:13:24.875797"
+    },
+    "兮尔的向日葵": {
+      "weiboNickname": "兮尔的向日葵",
+      "devices": {
+        "21d2cca7701b6726647427f706103f864875f08d040b3645e43209e5d2b6d7d0": {
+          "deviceHash": "21d2cca7701b",
+          "danmuSent": 1673,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-26T22:03:25.346967",
+          "appVersion": "biubiubiu1.1"
+        },
+        "f835c24c08ffb6d2a3038af6103baba7da38b454e1515f6abfc3bf60f42c4911": {
+          "deviceHash": "f835c24c08ff",
+          "danmuSent": 3311,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-26T23:59:57.478926",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 2,
+      "danmuSent": 4984,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-06-26T23:59:57.478926"
+    },
+    "见面吧丶HOOHOO": {
+      "weiboNickname": "见面吧丶HOOHOO",
+      "devices": {
+        "8e79c90b0141beb67934baa4b530ce1143ded7b106adb475bc431058b47c6692": {
+          "deviceHash": "8e79c90b0141",
+          "danmuSent": 456,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-26T23:28:03.468929",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 456,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-06-26T23:28:03.468929"
     }
   }
 }
