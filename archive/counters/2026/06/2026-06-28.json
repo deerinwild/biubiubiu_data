@@ -1,6 +1,6 @@
 {
   "date": "2026-06-28",
-  "updatedAt": "2026-07-01T12:31:17.112Z",
+  "updatedAt": "2026-07-01T12:36:37.113Z",
   "users": {
     "素颜多多JC-T": {
       "weiboNickname": "素颜多多JC-T",
@@ -2105,6 +2105,60 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-06-28T17:47:33.831548"
+    },
+    "兮尔的向日葵": {
+      "weiboNickname": "兮尔的向日葵",
+      "devices": {
+        "21d2cca7701b6726647427f706103f864875f08d040b3645e43209e5d2b6d7d0": {
+          "deviceHash": "21d2cca7701b",
+          "danmuSent": 309,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-28T23:45:29.657450",
+          "appVersion": "biubiubiu1.1"
+        },
+        "f835c24c08ffb6d2a3038af6103baba7da38b454e1515f6abfc3bf60f42c4911": {
+          "deviceHash": "f835c24c08ff",
+          "danmuSent": 3345,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-28T23:41:34.470485",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 2,
+      "danmuSent": 3654,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-06-28T23:45:29.657450"
+    },
+    "见面吧丶HOOHOO": {
+      "weiboNickname": "见面吧丶HOOHOO",
+      "devices": {
+        "8e79c90b0141beb67934baa4b530ce1143ded7b106adb475bc431058b47c6692": {
+          "deviceHash": "8e79c90b0141",
+          "danmuSent": 2079,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-28T23:56:32.774809",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 2079,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-06-28T23:56:32.774809"
     }
   }
 }
