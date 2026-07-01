@@ -1,6 +1,6 @@
 {
   "date": "2026-06-28",
-  "updatedAt": "2026-07-01T13:19:26.747Z",
+  "updatedAt": "2026-07-01T13:24:48.470Z",
   "users": {
     "素颜多多JC-T": {
       "weiboNickname": "素颜多多JC-T",
@@ -1140,15 +1140,25 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-06-28T23:59:39.580614",
           "appVersion": "biubiubiu1.1"
+        },
+        "ab2e960ea0bad9df8f5a6241323d7f39a10ecba08c3de977169f49dd63f99985": {
+          "deviceHash": "ab2e960ea0ba",
+          "danmuSent": 1789,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-28T23:59:46.730274",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
-      "danmuSent": 1499,
+      "activeDevices": 2,
+      "danmuSent": 3288,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-06-28T23:59:39.580614"
+      "lastSeenAt": "2026-06-28T23:59:46.730274"
     },
     "苍离不语": {
       "weiboNickname": "苍离不语",
@@ -2202,15 +2212,25 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-06-28T22:18:09.647288",
           "appVersion": "biubiubiu1.1"
+        },
+        "e57dfe364ed0829599b45876fe7f69b03844561c58b4c27abad0f72546ac35bf": {
+          "deviceHash": "e57dfe364ed0",
+          "danmuSent": 590,
+          "discussionSent": 58,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-28T23:22:47.147145",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
-      "danmuSent": 34,
-      "discussionSent": 0,
+      "activeDevices": 2,
+      "danmuSent": 624,
+      "discussionSent": 58,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-06-28T22:18:09.647288"
+      "lastSeenAt": "2026-06-28T23:22:47.147145"
     },
     "Twinkle8875": {
       "weiboNickname": "Twinkle8875",
