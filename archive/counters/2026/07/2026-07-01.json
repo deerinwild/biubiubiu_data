@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "updatedAt": "2026-07-01T17:19:39.179Z",
+  "updatedAt": "2026-07-01T17:25:01.222Z",
   "users": {
     "钸町": {
       "weiboNickname": "钸町",
@@ -3155,22 +3155,22 @@
       "devices": {
         "9c8d07f5482e369da0c15ceca29e3ddbeddea9fd008a806ea92c89d55f8b0c30": {
           "deviceHash": "9c8d07f5482e",
-          "danmuSent": 400,
+          "danmuSent": 465,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-01T23:44:40.618765",
+          "lastSeenAt": "2026-07-01T23:59:55.666073",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 400,
+      "danmuSent": 465,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-01T23:44:40.618765"
+      "lastSeenAt": "2026-07-01T23:59:55.666073"
     },
     "海伦202301": {
       "weiboNickname": "海伦202301",
@@ -3455,6 +3455,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-07-01T23:20:35.659096"
+    },
+    "用户工作12小时懒惰的人": {
+      "weiboNickname": "用户工作12小时懒惰的人",
+      "devices": {
+        "3914d37435e4a430c52b308e4bc50e060fb5ec0f640da5ffe916272b69b9cb68": {
+          "deviceHash": "3914d37435e4",
+          "danmuSent": 1433,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-01T10:59:50.915147",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 1433,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-07-01T10:59:50.915147"
     }
   }
 }
