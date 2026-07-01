@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "updatedAt": "2026-07-01T11:59:11.496Z",
+  "updatedAt": "2026-07-01T12:04:34.197Z",
   "users": {
     "钸町": {
       "weiboNickname": "钸町",
@@ -497,7 +497,7 @@
           "discussionFailed": 0,
           "danmuSkipped": 0,
           "lastSeenAt": "2026-06-29T22:43:07.048203",
-          "appVersion": "biubiubiu1.1"
+          "appVersion": "biubiubiu1.4"
         }
       },
       "activeDevices": 2,
@@ -2069,6 +2069,50 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-06-29T23:56:15.836925"
+    },
+    "炭火炙笼包": {
+      "weiboNickname": "炭火炙笼包",
+      "devices": {
+        "3800b449c9aef514ae923dcdb129568e60f2ce2beeb25697cd285fbc4418fd31": {
+          "deviceHash": "3800b449c9ae",
+          "danmuSent": 11163,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-29T23:22:46.410258",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 11163,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-06-29T23:22:46.410258"
+    },
+    "-TL檀小吉JC-": {
+      "weiboNickname": "-TL檀小吉JC-",
+      "devices": {
+        "d447ac0506f49d9f7a182c6f0cf4da3512784d488420d8b754aa17e25d5df9e8": {
+          "deviceHash": "d447ac0506f4",
+          "danmuSent": 1120,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-29T23:59:45.898484",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 1120,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-06-29T23:59:45.898484"
     }
   }
 }
