@@ -1,6 +1,6 @@
 {
   "date": "2026-06-28",
-  "updatedAt": "2026-07-01T10:12:24.102Z",
+  "updatedAt": "2026-07-01T10:17:46.975Z",
   "users": {
     "素颜多多JC-T": {
       "weiboNickname": "素颜多多JC-T",
@@ -222,15 +222,25 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-06-28T23:59:39.697533",
           "appVersion": "biubiubiu1.1"
+        },
+        "c07511fe2e62748e7967b56eb13e070662ea303ba7522e6fcf8090260565cf6e": {
+          "deviceHash": "c07511fe2e62",
+          "danmuSent": 6182,
+          "discussionSent": 293,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-28T23:59:59.965082",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 9,
-      "danmuSent": 30194,
-      "discussionSent": 2986,
+      "activeDevices": 10,
+      "danmuSent": 36376,
+      "discussionSent": 3279,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-06-28T23:59:55.946390"
+      "lastSeenAt": "2026-06-28T23:59:59.965082"
     },
     "望雪坞的小炭火": {
       "weiboNickname": "望雪坞的小炭火",
@@ -592,10 +602,20 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-06-28T23:59:58.286985",
           "appVersion": "biubiubiu1.1"
+        },
+        "2ba2bc813b71f354dc391d34eeb9afdf550c13d05197931752aff744ec40aba4": {
+          "deviceHash": "2ba2bc813b71",
+          "danmuSent": 3391,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-28T22:49:59.857569",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
-      "danmuSent": 3382,
+      "activeDevices": 2,
+      "danmuSent": 6773,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
@@ -1005,6 +1025,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-06-28T22:10:00.639479"
+    },
+    "小耳朵梦中梦": {
+      "weiboNickname": "小耳朵梦中梦",
+      "devices": {
+        "f9727be46365bd9c49d78cfe8b515e71ce00e8cf2558ac7fb5cf25e11eb5a1e1": {
+          "deviceHash": "f9727be46365",
+          "danmuSent": 1150,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-28T23:09:12.231294",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 1150,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-06-28T23:09:12.231294"
     }
   }
 }
