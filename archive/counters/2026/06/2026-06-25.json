@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "updatedAt": "2026-07-01T12:52:45.323Z",
+  "updatedAt": "2026-07-01T12:58:05.680Z",
   "users": {
     "素颜多多JC-T": {
       "weiboNickname": "素颜多多JC-T",
@@ -85,7 +85,7 @@
           "discussionFailed": 0,
           "danmuSkipped": 0,
           "lastSeenAt": "2026-06-25T21:33:29.785859",
-          "appVersion": "biubiubiu1.1"
+          "appVersion": "biubiubiu1.4"
         }
       },
       "activeDevices": 2,
@@ -891,7 +891,7 @@
           "discussionFailed": 0,
           "danmuSkipped": 0,
           "lastSeenAt": "2026-06-25T23:50:18.929758",
-          "appVersion": "biubiubiu1.1"
+          "appVersion": "biubiubiu1.4"
         }
       },
       "activeDevices": 2,
@@ -1572,15 +1572,25 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-06-25T22:43:10.796962",
           "appVersion": "biubiubiu1.1"
+        },
+        "4601d05a44e101d5f6d57982b530c20266fa99ee9069771d770f95e8cb8da6f6": {
+          "deviceHash": "4601d05a44e1",
+          "danmuSent": 0,
+          "discussionSent": 327,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-25T23:45:25.614707",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
+      "activeDevices": 2,
       "danmuSent": 0,
-      "discussionSent": 573,
+      "discussionSent": 900,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-06-25T22:43:10.796962"
+      "lastSeenAt": "2026-06-25T23:45:25.614707"
     },
     "-TL檀小吉JC-": {
       "weiboNickname": "-TL檀小吉JC-",
@@ -1987,6 +1997,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-06-25T21:26:33.231454"
+    },
+    "sixteenrich": {
+      "weiboNickname": "sixteenrich",
+      "devices": {
+        "abcd2295c1eb65535a71657c1f691280db14db745d478dadd2d200ec5160594b": {
+          "deviceHash": "abcd2295c1eb",
+          "danmuSent": 581,
+          "discussionSent": 209,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-25T23:22:56.336332",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 581,
+      "discussionSent": 209,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-06-25T23:22:56.336332"
     }
   }
 }
