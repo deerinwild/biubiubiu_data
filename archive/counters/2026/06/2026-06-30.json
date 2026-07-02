@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "updatedAt": "2026-07-02T04:59:41.409Z",
+  "updatedAt": "2026-07-02T05:05:00.722Z",
   "users": {
     "钸町": {
       "weiboNickname": "钸町",
@@ -2880,15 +2880,25 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-06-30T19:16:25.866221",
           "appVersion": "biubiubiu1.1"
+        },
+        "e30dcf0e6774c351a9873e26a06abad6454f4f79b172a0752e22e914f701b72b": {
+          "deviceHash": "e30dcf0e6774",
+          "danmuSent": 621,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-30T20:35:19.901487",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
-      "danmuSent": 390,
+      "activeDevices": 2,
+      "danmuSent": 1011,
       "discussionSent": 600,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-06-30T19:16:25.866221"
+      "lastSeenAt": "2026-06-30T20:35:19.901487"
     },
     "多多鱼hoohoo-T": {
       "weiboNickname": "多多鱼hoohoo-T",
@@ -3569,6 +3579,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-06-30T18:11:52.469265"
+    },
+    "不开车会死星人": {
+      "weiboNickname": "不开车会死星人",
+      "devices": {
+        "c80b9f6cc0012e5e61fc8cada01d5815741e544a7ce85b59e981ff26d6cbab9d": {
+          "deviceHash": "c80b9f6cc001",
+          "danmuSent": 1020,
+          "discussionSent": 150,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-30T20:10:16.840637",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 1020,
+      "discussionSent": 150,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-06-30T20:10:16.840637"
     }
   }
 }
