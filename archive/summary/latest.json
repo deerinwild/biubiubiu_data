@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-07-05",
   "month": "2026-07",
-  "updatedAt": "2026-07-04T14:16:09.786Z",
+  "updatedAt": "2026-07-04T16:04:01.124Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-05.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-05",
-    "activeUsers": 1,
-    "activeDevices": 1,
-    "danmuSent": 28,
+    "activeUsers": 3,
+    "activeDevices": 3,
+    "danmuSent": 54,
     "discussionSent": 0,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
     "lastSeenAt": "2026-07-05T00:14:43.663653",
-    "updatedAt": "2026-07-04T14:16:08.362Z"
+    "updatedAt": "2026-07-04T16:03:59.741Z"
   },
   "users": [
     {
@@ -31,6 +31,28 @@
       "danmuSkipped": 0,
       "totalSent": 28,
       "lastSeenAt": "2026-07-05T00:14:43.663653"
+    },
+    {
+      "weiboNickname": "Coisini-同舟渡版",
+      "activeDevices": 1,
+      "danmuSent": 21,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 21,
+      "lastSeenAt": "2026-07-05T00:03:27.791746"
+    },
+    {
+      "weiboNickname": "炭火炙笼包",
+      "activeDevices": 1,
+      "danmuSent": 5,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 5,
+      "lastSeenAt": "2026-07-05T00:00:16.573693"
     }
   ]
 }
