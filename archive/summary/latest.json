@@ -3,45 +3,56 @@
   "app": "biubiubiu_android",
   "date": "2026-07-05",
   "month": "2026-07",
-  "updatedAt": "2026-07-04T16:09:27.307Z",
+  "updatedAt": "2026-07-04T16:15:06.599Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-05.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-05",
-    "activeUsers": 6,
-    "activeDevices": 7,
-    "danmuSent": 278,
+    "activeUsers": 7,
+    "activeDevices": 12,
+    "danmuSent": 979,
     "discussionSent": 1,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
     "lastSeenAt": "2026-07-05T00:14:43.663653",
-    "updatedAt": "2026-07-04T16:09:25.815Z"
+    "updatedAt": "2026-07-04T16:15:05.040Z"
   },
   "users": [
     {
-      "weiboNickname": "炭火炙笼包",
-      "activeDevices": 1,
-      "danmuSent": 105,
+      "weiboNickname": "素颜多多JC-T",
+      "activeDevices": 5,
+      "danmuSent": 501,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 105,
-      "lastSeenAt": "2026-07-05T00:05:24.930517"
+      "totalSent": 501,
+      "lastSeenAt": "2026-07-05T00:10:14.945779"
+    },
+    {
+      "weiboNickname": "炭火炙笼包",
+      "activeDevices": 1,
+      "danmuSent": 205,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 205,
+      "lastSeenAt": "2026-07-05T00:10:30.007714"
     },
     {
       "weiboNickname": "邱邱T-HooHoo",
       "activeDevices": 1,
-      "danmuSent": 100,
+      "danmuSent": 200,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 100,
-      "lastSeenAt": "2026-07-05T00:05:24.008463"
+      "totalSent": 200,
+      "lastSeenAt": "2026-07-05T00:10:51.273006"
     },
     {
       "weiboNickname": "忻忻年年大吉祥",
