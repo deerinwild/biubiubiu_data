@@ -122,11 +122,42 @@ const fmt = n => Number(n || 0).toLocaleString('zh-CN');
 const num = v => Number.isFinite(Number(v)) ? Number(v) : 0;
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
-const now = new Date();
-const yyyy = now.getFullYear();
-const mm = String(now.getMonth() + 1).padStart(2, '0');
-const dd = String(now.getDate()).padStart(2, '0');
-$('dateInput').value = `${yyyy}-${mm}-${dd}`;
+function fmtTime(value) {
+  if (!value) return '';
+  const d = new Date(value);
+  if (Number.isNaN(d.getTime())) return String(value);
+  const parts = new Intl.DateTimeFormat('zh-CN', {
+    timeZone: 'Asia/Shanghai',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit',
+    second: '2-digit',
+    hour12: false
+  }).formatToParts(d).reduce((acc, p) => {
+    if (p.type !== 'literal') acc[p.type] = p.value;
+    return acc;
+  }, {});
+  return `${parts.year}-${parts.month}-${parts.day} ${parts.hour}:${parts.minute}:${parts.second}`;
+}
+
+function beijingDateKey(date = new Date()) {
+  const parts = new Intl.DateTimeFormat('zh-CN', {
+    timeZone: 'Asia/Shanghai',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit'
+  }).formatToParts(date).reduce((acc, p) => {
+    if (p.type !== 'literal') acc[p.type] = p.value;
+    return acc;
+  }, {});
+  return `${parts.year}-${parts.month}-${parts.day}`;
+}
+
+const todayBeijing = beijingDateKey();
+const [yyyy, mm, dd] = todayBeijing.split('-');
+$('dateInput').value = todayBeijing;
 let lastMode = 'latest';
 
 function setMsg(html, type = 'empty') {
@@ -235,7 +266,7 @@ function renderUserTable(users) {
     <td class="right">${fmt(u.danmuSent)}</td>
     <td class="right">${fmt(u.discussionSent)}</td>
     <td class="right"><b>${fmt(u.totalSent ?? rowTotal(u))}</b></td>
-    <td class="hideMobile">${esc(u.lastSeenAt || '')}</td>
+    <td class="hideMobile">${esc(fmtTime(u.lastSeenAt))}</td>
   </tr>`).join('');
   $('rows').innerHTML = rows || '<tr><td colspan="7" class="muted">暂无数据</td></tr>';
 }
@@ -245,7 +276,7 @@ function renderDay(counter, path) {
   const totals = counter.totals || totalsFromUsers(users);
   renderMetrics(totals);
   renderUserTable(users);
-  $('subline').innerHTML = `日期：<b>${esc(counter.date || $('dateInput').value || '--')}</b>　更新：${esc(counter.updatedAt || '')}`;
+  $('subline').innerHTML = `日期：<b>${esc(counter.date || $('dateInput').value || '--')}</b>　更新：${esc(fmtTime(counter.updatedAt))}`;
   $('sourceLine').innerHTML = `<span class="pill">当天</span> ${esc(path || '')}`;
 }
 
@@ -253,7 +284,7 @@ function renderLatest(latest, users, path) {
   const totals = latest.totals || totalsFromUsers(users || []);
   renderMetrics(totals);
   renderUserTable(users || latest.users || []);
-  $('subline').innerHTML = `最新日期：<b>${esc(latest.date || '--')}</b>　更新：${esc(latest.updatedAt || '')}`;
+  $('subline').innerHTML = `最新日期：<b>${esc(latest.date || '--')}</b>　更新：${esc(fmtTime(latest.updatedAt))}`;
   $('sourceLine').innerHTML = `<span class="pill">最新</span> ${esc((latest.paths && latest.paths.counter) || path || '')}`;
 }
 
@@ -279,9 +310,9 @@ function renderMonth(summary, path) {
     <td class="right">${fmt(d.danmuSent)}</td>
     <td class="right">${fmt(d.discussionSent)}</td>
     <td class="right"><b>${fmt(num(d.danmuSent) + num(d.discussionSent))}</b></td>
-    <td class="hideMobile">${esc(d.lastSeenAt || d.updatedAt || '')}</td>
+    <td class="hideMobile">${esc(fmtTime(d.lastSeenAt || d.updatedAt))}</td>
   </tr>`).join('') || '<tr><td colspan="7" class="muted">暂无数据</td></tr>';
-  $('subline').innerHTML = `月份：<b>${esc(summary.month || ($('dateInput').value || '').slice(0, 7) || '--')}</b>　更新：${esc(summary.updatedAt || '')}`;
+  $('subline').innerHTML = `月份：<b>${esc(summary.month || ($('dateInput').value || '').slice(0, 7) || '--')}</b>　更新：${esc(fmtTime(summary.updatedAt))}`;
   $('sourceLine').innerHTML = `<span class="pill">本月</span> ${esc(path || '')}`;
 }
 
