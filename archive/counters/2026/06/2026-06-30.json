@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "updatedAt": "2026-07-05T09:03:16.345Z",
+  "updatedAt": "2026-07-05T09:08:42.444Z",
   "users": {
     "钸町": {
       "weiboNickname": "钸町",
@@ -1732,15 +1732,25 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-06-30T23:51:23.632264",
           "appVersion": "biubiubiu1.1"
+        },
+        "b0d16845ba4b5ec8c0320ee87bd1e5545160705c3ece113ef8c24210d3348dfb": {
+          "deviceHash": "b0d16845ba4b",
+          "danmuSent": 0,
+          "discussionSent": 423,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-30T23:59:56.375657",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
+      "activeDevices": 2,
       "danmuSent": 1874,
-      "discussionSent": 30,
+      "discussionSent": 453,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-06-30T23:51:23.632264"
+      "lastSeenAt": "2026-06-30T23:59:56.375657"
     },
     "环环灬小炭火JC-T": {
       "weiboNickname": "环环灬小炭火JC-T",
