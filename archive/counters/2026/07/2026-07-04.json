@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "updatedAt": "2026-07-05T11:57:20.074Z",
+  "updatedAt": "2026-07-05T12:02:45.464Z",
   "users": {
     "檀健次我在南宁等你": {
       "weiboNickname": "檀健次我在南宁等你",
@@ -2471,22 +2471,22 @@
       "devices": {
         "2fd7de086dedf4c04bad2d1ae2468d95f1f706b531d62520b0868b830e1ffe14": {
           "deviceHash": "2fd7de086ded",
-          "danmuSent": 661,
+          "danmuSent": 701,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-04T23:39:43.743634",
+          "lastSeenAt": "2026-07-04T23:59:43.857530",
           "appVersion": "biubiubiu1.4"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 661,
+      "danmuSent": 701,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-04T23:39:43.743634"
+      "lastSeenAt": "2026-07-04T23:59:43.857530"
     },
     "F碎岁念年": {
       "weiboNickname": "F碎岁念年",
@@ -2837,6 +2837,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-07-04T23:59:54.207834"
+    },
+    "恍恍惚惚的小团子": {
+      "weiboNickname": "恍恍惚惚的小团子",
+      "devices": {
+        "b71886041596aa6742e8d8b4ed25f54ec0bbb5f6ff928f5e0563ecf8b1cf3d51": {
+          "deviceHash": "b71886041596",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-04T10:41:19.184917",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-07-04T10:41:19.184917"
     }
   }
 }
