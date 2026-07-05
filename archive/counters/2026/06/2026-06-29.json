@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "updatedAt": "2026-07-05T11:35:46.071Z",
+  "updatedAt": "2026-07-05T11:41:10.268Z",
   "users": {
     "钸町": {
       "weiboNickname": "钸町",
@@ -3480,15 +3480,25 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-06-29T16:08:32.348393",
           "appVersion": "biubiubiu1.1"
+        },
+        "51abe2cddef9c44925662d2492b6e3144e29b12eb408c5cb445f0debe4c25d3d": {
+          "deviceHash": "51abe2cddef9",
+          "danmuSent": 760,
+          "discussionSent": 504,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-29T16:59:16.612598",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
-      "danmuSent": 185,
-      "discussionSent": 0,
+      "activeDevices": 2,
+      "danmuSent": 945,
+      "discussionSent": 504,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-06-29T16:08:32.348393"
+      "lastSeenAt": "2026-06-29T16:59:16.612598"
     },
     "我家小猫最乖啦": {
       "weiboNickname": "我家小猫最乖啦",
