@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "updatedAt": "2026-07-05T13:45:59.531Z",
+  "updatedAt": "2026-07-05T13:51:24.572Z",
   "users": {
     "钸町": {
       "weiboNickname": "钸町",
@@ -572,15 +572,25 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-06-30T16:12:16.835251",
           "appVersion": "biubiubiu1.1"
+        },
+        "59aa0de27558afa8257dfb5c3fe02f3320c3a2d7c7e8b9fec32518df5a77ece9": {
+          "deviceHash": "59aa0de27558",
+          "danmuSent": 535,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-30T20:41:22.609215",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
-      "danmuSent": 0,
+      "activeDevices": 2,
+      "danmuSent": 535,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-06-30T16:12:16.835251"
+      "lastSeenAt": "2026-06-30T20:41:22.609215"
     },
     "琛小菓_菓满却山": {
       "weiboNickname": "琛小菓_菓满却山",
