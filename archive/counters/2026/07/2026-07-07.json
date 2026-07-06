@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "updatedAt": "2026-07-06T22:55:55.932Z",
+  "updatedAt": "2026-07-06T23:01:35.090Z",
   "users": {
     "忻忻年年大吉祥": {
       "weiboNickname": "忻忻年年大吉祥",
@@ -137,22 +137,22 @@
       "devices": {
         "3800b449c9aef514ae923dcdb129568e60f2ce2beeb25697cd285fbc4418fd31": {
           "deviceHash": "3800b449c9ae",
-          "danmuSent": 6548,
+          "danmuSent": 6654,
           "discussionSent": 138,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-07T06:55:33.797042",
+          "lastSeenAt": "2026-07-07T07:00:56.641493",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 6548,
+      "danmuSent": 6654,
       "discussionSent": 138,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-07T06:55:33.797042"
+      "lastSeenAt": "2026-07-07T07:00:56.641493"
     },
     "狸小翎": {
       "weiboNickname": "狸小翎",
@@ -295,12 +295,12 @@
         },
         "7271e24ff95a2f3a4b2258785880ccc785fb86086372f301f72e7d332fc70e3e": {
           "deviceHash": "7271e24ff95a",
-          "danmuSent": 755,
+          "danmuSent": 803,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-07T06:43:47.099551",
+          "lastSeenAt": "2026-07-07T07:00:33.021856",
           "appVersion": "biubiubiu1.1"
         },
         "ccb698ac1b7a4b85d8083358755c06de07e5f5dea37584be557ea662b9a7f992": {
@@ -355,12 +355,12 @@
         }
       },
       "activeDevices": 10,
-      "danmuSent": 11874,
+      "danmuSent": 11922,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-07T06:55:53.884016"
+      "lastSeenAt": "2026-07-07T07:00:33.021856"
     },
     "幸运小羔羊": {
       "weiboNickname": "幸运小羔羊",
@@ -465,84 +465,84 @@
       "devices": {
         "f4a4a3b1adec34fc2ff4f55bba7af4b20993857e8c15d52eca858993deb47749": {
           "deviceHash": "f4a4a3b1adec",
+          "danmuSent": 4200,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-07T07:01:02.497225",
+          "appVersion": "biubiubiu1.0"
+        },
+        "7532ddc8ea37ffdea3a7e346c795e82364c15c21ac351d76648cf7482b101f71": {
+          "deviceHash": "7532ddc8ea37",
+          "danmuSent": 3659,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-07T06:58:28.685840",
+          "appVersion": "biubiubiu1.1"
+        },
+        "685ec5ab848cc65617749d4789e2e009e2db70823d79e366b2b396214666317d": {
+          "deviceHash": "685ec5ab848c",
+          "danmuSent": 3914,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-07T06:59:54.194247",
+          "appVersion": "biubiubiu1.1"
+        },
+        "9e07a50e95cc7e45b0bc9706ef2a2e0b007e5b20d9e232b904561f2ed805b955": {
+          "deviceHash": "9e07a50e95cc",
           "danmuSent": 4100,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-07T06:51:00.983413",
-          "appVersion": "biubiubiu1.0"
-        },
-        "7532ddc8ea37ffdea3a7e346c795e82364c15c21ac351d76648cf7482b101f71": {
-          "deviceHash": "7532ddc8ea37",
-          "danmuSent": 3559,
-          "discussionSent": 0,
-          "danmuFailed": 0,
-          "discussionFailed": 0,
-          "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-07T06:48:19.150018",
-          "appVersion": "biubiubiu1.1"
-        },
-        "685ec5ab848cc65617749d4789e2e009e2db70823d79e366b2b396214666317d": {
-          "deviceHash": "685ec5ab848c",
-          "danmuSent": 3814,
-          "discussionSent": 0,
-          "danmuFailed": 0,
-          "discussionFailed": 0,
-          "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-07T06:49:44.221170",
-          "appVersion": "biubiubiu1.1"
-        },
-        "9e07a50e95cc7e45b0bc9706ef2a2e0b007e5b20d9e232b904561f2ed805b955": {
-          "deviceHash": "9e07a50e95cc",
-          "danmuSent": 4000,
-          "discussionSent": 0,
-          "danmuFailed": 0,
-          "discussionFailed": 0,
-          "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-07T06:48:49.083108",
+          "lastSeenAt": "2026-07-07T06:59:01.823613",
           "appVersion": "biubiubiu1.1"
         },
         "a2c452e70db41dc9125ddf91b33fbb27f05d49d870f1484952a667223e5de7e2": {
           "deviceHash": "a2c452e70db4",
-          "danmuSent": 4000,
+          "danmuSent": 4100,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-07T06:49:32.489578",
+          "lastSeenAt": "2026-07-07T06:59:46.642221",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 5,
-      "danmuSent": 19473,
+      "danmuSent": 19973,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-07T06:51:00.983413"
+      "lastSeenAt": "2026-07-07T07:01:02.497225"
     },
     "次甜柿子_一巡全勤": {
       "weiboNickname": "次甜柿子_一巡全勤",
       "devices": {
         "f32a61da105e773ede78da484df7bd5434f893aafad549bdc153b411ebdbd9e7": {
           "deviceHash": "f32a61da105e",
-          "danmuSent": 3200,
+          "danmuSent": 3300,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-07T06:47:42.005476",
+          "lastSeenAt": "2026-07-07T07:00:12.078155",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 3200,
+      "danmuSent": 3300,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-07T06:47:42.005476"
+      "lastSeenAt": "2026-07-07T07:00:12.078155"
     },
     "AAA炫螺蛳粉琪姐": {
       "weiboNickname": "AAA炫螺蛳粉琪姐",
@@ -657,12 +657,12 @@
       "devices": {
         "81dfd9e37f80c732594fb44dac70a64e7f4312da803b591ac82ab3ccc13ae05e": {
           "deviceHash": "81dfd9e37f80",
-          "danmuSent": 2396,
+          "danmuSent": 2461,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-07T06:45:39.578767",
+          "lastSeenAt": "2026-07-07T06:56:29.657531",
           "appVersion": "biubiubiu1.1"
         },
         "d6aceed9a1b0011859a56a3384419f8458786191ea699d6c646ebce977b490d9": {
@@ -677,12 +677,12 @@
         }
       },
       "activeDevices": 2,
-      "danmuSent": 2396,
+      "danmuSent": 2461,
       "discussionSent": 29,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-07T06:47:48.434839"
+      "lastSeenAt": "2026-07-07T06:56:29.657531"
     },
     "Glory-JCT": {
       "weiboNickname": "Glory-JCT",
@@ -919,22 +919,22 @@
       "devices": {
         "9a2f47c6fc0173e735279b861886aff96f16b317cb6bbe514068533b032b15f5": {
           "deviceHash": "9a2f47c6fc01",
-          "danmuSent": 7312,
+          "danmuSent": 7412,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-07T06:51:27.952187",
+          "lastSeenAt": "2026-07-07T06:56:51.719999",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 7312,
+      "danmuSent": 7412,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-07T06:51:27.952187"
+      "lastSeenAt": "2026-07-07T06:56:51.719999"
     },
     "心心呐呐": {
       "weiboNickname": "心心呐呐",
@@ -1553,12 +1553,12 @@
       "devices": {
         "9606e82ca02844c80fd48a65b13827faf780948f0bbe0cc3170199369e7ee981": {
           "deviceHash": "9606e82ca028",
-          "danmuSent": 1023,
+          "danmuSent": 1128,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-07T06:39:51.684479",
+          "lastSeenAt": "2026-07-07T06:58:15.819184",
           "appVersion": "biubiubiu1.1"
         },
         "cc945d76babbdf8db7e708a7563ee0fc423a1e7fb5c40458c63451a584ad5ba3": {
@@ -1573,12 +1573,12 @@
         }
       },
       "activeDevices": 2,
-      "danmuSent": 1189,
+      "danmuSent": 1294,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-07T06:39:51.684479"
+      "lastSeenAt": "2026-07-07T06:58:15.819184"
     },
     "檀木易＿": {
       "weiboNickname": "檀木易＿",
@@ -1608,21 +1608,21 @@
         "621f251260b85ce94433c644322542fa91428bf912a1a40fe52e2e0461cf8df2": {
           "deviceHash": "621f251260b8",
           "danmuSent": 0,
-          "discussionSent": 200,
+          "discussionSent": 300,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-07T06:34:54.896481",
+          "lastSeenAt": "2026-07-07T06:59:19.167007",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 200,
+      "discussionSent": 300,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-07T06:34:54.896481"
+      "lastSeenAt": "2026-07-07T06:59:19.167007"
     },
     "呀哈呼嘿love檀多": {
       "weiboNickname": "呀哈呼嘿love檀多",
