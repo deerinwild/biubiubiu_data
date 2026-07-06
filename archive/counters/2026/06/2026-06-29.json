@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "updatedAt": "2026-07-06T01:19:04.245Z",
+  "updatedAt": "2026-07-06T01:24:31.006Z",
   "users": {
     "钸町": {
       "weiboNickname": "钸町",
@@ -4097,6 +4097,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-06-29T15:28:30.873553"
+    },
+    "SICI_D": {
+      "weiboNickname": "SICI_D",
+      "devices": {
+        "378f49d5c32f11c8122545ebe8d08c4d2ecf3536dcaaaf6f9183c1673a472722": {
+          "deviceHash": "378f49d5c32f",
+          "danmuSent": 934,
+          "discussionSent": 349,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-29T17:27:40.191144",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 934,
+      "discussionSent": 349,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-06-29T17:27:40.191144"
     }
   }
 }
