@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "updatedAt": "2026-07-06T03:24:15.289Z",
+  "updatedAt": "2026-07-06T03:29:43.161Z",
   "users": {
     "檀健次我在南宁等你": {
       "weiboNickname": "檀健次我在南宁等你",
@@ -2784,9 +2784,19 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-07-04T23:18:28.693722",
           "appVersion": "biubiubiu1.4"
+        },
+        "8fbb258074ec933047fe5736866c92fea7e345a6ad4f3108e5b875f960b4f0fa": {
+          "deviceHash": "8fbb258074ec",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-04T22:56:00.730345",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
+      "activeDevices": 2,
       "danmuSent": 298,
       "discussionSent": 0,
       "danmuFailed": 0,
