@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "updatedAt": "2026-07-07T15:45:47.425Z",
+  "updatedAt": "2026-07-07T16:02:45.572Z",
   "users": {
     "忻忻年年大吉祥": {
       "weiboNickname": "忻忻年年大吉祥",
@@ -23,6 +23,50 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-07-08T01:41:45.029479"
+    },
+    "次次皆如初见": {
+      "weiboNickname": "次次皆如初见",
+      "devices": {
+        "4d08c9774282a07ff3aa6c25e50fd867adbada59c39addafdc0f1fbf100803c3": {
+          "deviceHash": "4d08c9774282",
+          "danmuSent": 1,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-08T00:01:47.420027",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 1,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-07-08T00:01:47.420027"
+    },
+    "檀猫猫的宝贝": {
+      "weiboNickname": "檀猫猫的宝贝",
+      "devices": {
+        "983451b3f43ed51b5b23ac028984f64e28bddfba093e5011c5cddc59c9ab4610": {
+          "deviceHash": "983451b3f43e",
+          "danmuSent": 6,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-08T00:01:28.672334",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 6,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-07-08T00:01:28.672334"
     }
   }
 }
