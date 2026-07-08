@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-07-09",
   "month": "2026-07",
-  "updatedAt": "2026-07-08T15:04:27.109Z",
+  "updatedAt": "2026-07-08T16:04:39.828Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-09.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-09",
-    "activeUsers": 1,
-    "activeDevices": 1,
-    "danmuSent": 182,
+    "activeUsers": 5,
+    "activeDevices": 5,
+    "danmuSent": 216,
     "discussionSent": 0,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
     "lastSeenAt": "2026-07-09T00:59:52.673262",
-    "updatedAt": "2026-07-08T15:04:25.304Z"
+    "updatedAt": "2026-07-08T16:04:38.030Z"
   },
   "users": [
     {
@@ -31,6 +31,50 @@
       "danmuSkipped": 0,
       "totalSent": 182,
       "lastSeenAt": "2026-07-09T00:59:52.673262"
+    },
+    {
+      "weiboNickname": "檀猫猫的宝贝",
+      "activeDevices": 1,
+      "danmuSent": 19,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 19,
+      "lastSeenAt": "2026-07-09T00:03:11.740250"
+    },
+    {
+      "weiboNickname": "檀来财运",
+      "activeDevices": 1,
+      "danmuSent": 10,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 10,
+      "lastSeenAt": "2026-07-09T00:02:47.597449"
+    },
+    {
+      "weiboNickname": "狸小翎",
+      "activeDevices": 1,
+      "danmuSent": 3,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 3,
+      "lastSeenAt": "2026-07-09T00:03:17.109646"
+    },
+    {
+      "weiboNickname": "炭火炙笼包",
+      "activeDevices": 1,
+      "danmuSent": 2,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 2,
+      "lastSeenAt": "2026-07-09T00:00:13.089031"
     }
   ]
 }
