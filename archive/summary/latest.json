@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-07-11",
   "month": "2026-07",
-  "updatedAt": "2026-07-10T16:03:31.575Z",
+  "updatedAt": "2026-07-10T16:06:09.664Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-11.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-11",
-    "activeUsers": 4,
-    "activeDevices": 4,
-    "danmuSent": 9,
-    "discussionSent": 243,
+    "activeUsers": 8,
+    "activeDevices": 9,
+    "danmuSent": 346,
+    "discussionSent": 273,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
     "lastSeenAt": "2026-07-11T01:16:17.353040",
-    "updatedAt": "2026-07-10T16:03:28.261Z"
+    "updatedAt": "2026-07-10T16:06:07.717Z"
   },
   "users": [
     {
@@ -31,6 +31,50 @@
       "danmuSkipped": 0,
       "totalSent": 235,
       "lastSeenAt": "2026-07-11T01:16:17.353040"
+    },
+    {
+      "weiboNickname": "邱邱T-HooHoo",
+      "activeDevices": 2,
+      "danmuSent": 200,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 200,
+      "lastSeenAt": "2026-07-11T00:05:21.774536"
+    },
+    {
+      "weiboNickname": "炭火炙笼包",
+      "activeDevices": 1,
+      "danmuSent": 109,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 109,
+      "lastSeenAt": "2026-07-11T00:05:38.960382"
+    },
+    {
+      "weiboNickname": "檀檀18变",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 30,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 30,
+      "lastSeenAt": "2026-07-11T00:04:03.144430"
+    },
+    {
+      "weiboNickname": "檀健次我在南宁等你",
+      "activeDevices": 1,
+      "danmuSent": 28,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 28,
+      "lastSeenAt": "2026-07-11T00:04:30.429427"
     },
     {
       "weiboNickname": "肥日小天使Hoo",
