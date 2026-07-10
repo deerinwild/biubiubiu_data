@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "updatedAt": "2026-07-10T08:13:18.007Z",
+  "updatedAt": "2026-07-10T08:28:21.047Z",
   "users": {
     "忻忻年年大吉祥": {
       "weiboNickname": "忻忻年年大吉祥",
@@ -2180,15 +2180,25 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-07-07T14:06:11.042867",
           "appVersion": "biubiubiu1.1"
+        },
+        "ccc1a9057517cd58813a8d486cb81ee5c65ce67982b271e83ff84c537473fd08": {
+          "deviceHash": "ccc1a9057517",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-07T23:01:17.799927",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 2,
+      "activeDevices": 3,
       "danmuSent": 1185,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-07T14:06:11.042867"
+      "lastSeenAt": "2026-07-07T23:01:17.799927"
     },
     "Coisini-同舟渡版": {
       "weiboNickname": "Coisini-同舟渡版",
