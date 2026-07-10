@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "updatedAt": "2026-07-10T00:22:05.538Z",
+  "updatedAt": "2026-07-10T00:28:03.194Z",
   "users": {
     "钸町": {
       "weiboNickname": "钸町",
@@ -4315,6 +4315,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-06-29T23:18:59.578429"
+    },
+    "明天也想见到你-对视三次版": {
+      "weiboNickname": "明天也想见到你-对视三次版",
+      "devices": {
+        "d6ada5b5d7a083a7abc461d28970a9dc01b04269399cc88cd1b12f270b089e40": {
+          "deviceHash": "d6ada5b5d7a0",
+          "danmuSent": 180,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-29T14:14:29.621690",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 180,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-06-29T14:14:29.621690"
     }
   }
 }
