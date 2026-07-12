@@ -1,6 +1,6 @@
 {
   "date": "2026-07-11",
-  "updatedAt": "2026-07-12T05:51:56.981Z",
+  "updatedAt": "2026-07-12T05:58:12.826Z",
   "users": {
     "忻忻年年大吉祥": {
       "weiboNickname": "忻忻年年大吉祥",
@@ -180,15 +180,25 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-07-11T05:44:21.885645",
           "appVersion": "biubiubiu1.4"
+        },
+        "dc43ccbcb5a619326048a6c6f3bafce2bea2d50ab0e620a10761cceaaded4f5a": {
+          "deviceHash": "dc43ccbcb5a6",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-11T13:26:07.611792",
+          "appVersion": "biubiubiu1.4"
         }
       },
-      "activeDevices": 2,
+      "activeDevices": 3,
       "danmuSent": 1652,
       "discussionSent": 8,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-11T05:44:21.885645"
+      "lastSeenAt": "2026-07-11T13:26:07.611792"
     },
     "炭火炙笼包": {
       "weiboNickname": "炭火炙笼包",
