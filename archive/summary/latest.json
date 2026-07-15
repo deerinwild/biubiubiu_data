@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-16",
   "month": "2026-07",
-  "updatedAt": "2026-07-15T23:46:07.022Z",
+  "updatedAt": "2026-07-15T23:51:40.076Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-16.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -12,13 +12,13 @@
     "date": "2026-07-16",
     "activeUsers": 26,
     "activeDevices": 32,
-    "danmuSent": 26550,
+    "danmuSent": 26750,
     "discussionSent": 5478,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-16T07:42:45.561883",
-    "updatedAt": "2026-07-15T23:46:05.535Z"
+    "lastSeenAt": "2026-07-16T07:51:12.972936",
+    "updatedAt": "2026-07-15T23:51:38.535Z"
   },
   "users": [
     {
@@ -90,13 +90,24 @@
     {
       "weiboNickname": "檀檀颜颜",
       "activeDevices": 2,
-      "danmuSent": 398,
+      "danmuSent": 498,
       "discussionSent": 1500,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 1898,
-      "lastSeenAt": "2026-07-16T06:54:14.149445"
+      "totalSent": 1998,
+      "lastSeenAt": "2026-07-16T07:51:12.972936"
+    },
+    {
+      "weiboNickname": "糖不好吃--YZZ",
+      "activeDevices": 1,
+      "danmuSent": 1698,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1698,
+      "lastSeenAt": "2026-07-16T07:47:10.549921"
     },
     {
       "weiboNickname": "次次皆如初见",
@@ -108,17 +119,6 @@
       "danmuSkipped": 0,
       "totalSent": 1600,
       "lastSeenAt": "2026-07-16T04:35:03.900118"
-    },
-    {
-      "weiboNickname": "糖不好吃--YZZ",
-      "activeDevices": 1,
-      "danmuSent": 1598,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 1598,
-      "lastSeenAt": "2026-07-16T07:22:22.286919"
     },
     {
       "weiboNickname": "檀多多给我做饭",
