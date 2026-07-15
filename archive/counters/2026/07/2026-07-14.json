@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "updatedAt": "2026-07-15T15:40:23.162Z",
+  "updatedAt": "2026-07-15T15:45:53.072Z",
   "users": {
     "Coisini_HooHoo": {
       "weiboNickname": "Coisini_HooHoo",
@@ -738,15 +738,25 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-07-14T15:50:51.889767",
           "appVersion": "biubiubiu1.1"
+        },
+        "b7337e357f67abfc95cd1da48a8c2224c62f6f66a487066801ee41ecd14267be": {
+          "deviceHash": "b7337e357f67",
+          "danmuSent": 298,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-14T23:59:49.127032",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
-      "danmuSent": 1889,
+      "activeDevices": 2,
+      "danmuSent": 2187,
       "discussionSent": 90,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-14T15:50:51.889767"
+      "lastSeenAt": "2026-07-14T23:59:49.127032"
     },
     "檀多多给我做饭": {
       "weiboNickname": "檀多多给我做饭",
