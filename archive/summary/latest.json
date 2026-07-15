@@ -3,34 +3,45 @@
   "app": "biubiubiu_android",
   "date": "2026-07-15",
   "month": "2026-07",
-  "updatedAt": "2026-07-15T13:22:31.106Z",
+  "updatedAt": "2026-07-15T13:28:11.390Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-15.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-15",
-    "activeUsers": 11,
-    "activeDevices": 20,
-    "danmuSent": 44788,
-    "discussionSent": 5050,
+    "activeUsers": 15,
+    "activeDevices": 24,
+    "danmuSent": 48469,
+    "discussionSent": 6635,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-15T23:19:34.472121",
-    "updatedAt": "2026-07-15T13:22:29.476Z"
+    "lastSeenAt": "2026-07-15T23:27:30.953787",
+    "updatedAt": "2026-07-15T13:28:09.562Z"
   },
   "users": [
     {
       "weiboNickname": "红丝丝儿",
       "activeDevices": 10,
       "danmuSent": 27652,
-      "discussionSent": 265,
+      "discussionSent": 279,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 27917,
-      "lastSeenAt": "2026-07-15T21:22:16.138884"
+      "totalSent": 27931,
+      "lastSeenAt": "2026-07-15T21:26:06.988624"
+    },
+    {
+      "weiboNickname": "平檀一生",
+      "activeDevices": 1,
+      "danmuSent": 3677,
+      "discussionSent": 1344,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 5021,
+      "lastSeenAt": "2026-07-15T20:31:10.950522"
     },
     {
       "weiboNickname": "狸小翎",
@@ -47,12 +58,12 @@
       "weiboNickname": "猫猫次客",
       "activeDevices": 1,
       "danmuSent": 2354,
-      "discussionSent": 1184,
+      "discussionSent": 1213,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 3538,
-      "lastSeenAt": "2026-07-15T21:20:36.537925"
+      "totalSent": 3567,
+      "lastSeenAt": "2026-07-15T21:23:37.547428"
     },
     {
       "weiboNickname": "小静姝吖",
@@ -68,13 +79,13 @@
     {
       "weiboNickname": "Coisini_HooHoo",
       "activeDevices": 1,
-      "danmuSent": 2489,
+      "danmuSent": 2491,
       "discussionSent": 961,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 3450,
-      "lastSeenAt": "2026-07-15T21:18:34.619167"
+      "totalSent": 3452,
+      "lastSeenAt": "2026-07-15T21:22:47.424979"
     },
     {
       "weiboNickname": "肥日小天使Hoo",
@@ -124,23 +135,56 @@
       "weiboNickname": "海伦202301",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 690,
+      "discussionSent": 719,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 690,
-      "lastSeenAt": "2026-07-15T21:21:28.404588"
+      "totalSent": 719,
+      "lastSeenAt": "2026-07-15T21:24:20.273926"
     },
     {
       "weiboNickname": "忻忻年年大吉祥",
       "activeDevices": 1,
       "danmuSent": 150,
-      "discussionSent": 303,
+      "discussionSent": 333,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 453,
-      "lastSeenAt": "2026-07-15T23:19:34.472121"
+      "totalSent": 483,
+      "lastSeenAt": "2026-07-15T23:27:30.953787"
+    },
+    {
+      "weiboNickname": "檀来财运",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 139,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 139,
+      "lastSeenAt": "2026-07-15T20:53:53.434265"
+    },
+    {
+      "weiboNickname": "檀健次我在南宁等你",
+      "activeDevices": 1,
+      "danmuSent": 2,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 2,
+      "lastSeenAt": "2026-07-15T21:27:27.026023"
+    },
+    {
+      "weiboNickname": "多多鱼hoohoo-T",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 0,
+      "lastSeenAt": "2026-07-15T21:25:59.595578"
     }
   ]
 }
