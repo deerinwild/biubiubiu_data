@@ -1,6 +1,6 @@
 {
   "date": "2026-07-10",
-  "updatedAt": "2026-07-16T01:26:25.923Z",
+  "updatedAt": "2026-07-16T01:32:03.720Z",
   "users": {
     "忻忻年年大吉祥": {
       "weiboNickname": "忻忻年年大吉祥",
@@ -1670,25 +1670,15 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-07-10T08:15:24.402645",
           "appVersion": "biubiubiu1.1"
-        },
-        "7b1156ba661dae7d9e251bc8676a78f338a6fdeeb68f1b5285b86f6efcb5a8af": {
-          "deviceHash": "7b1156ba661d",
-          "danmuSent": 0,
-          "discussionSent": 0,
-          "danmuFailed": 0,
-          "discussionFailed": 0,
-          "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-10T13:59:32.639454",
-          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 2,
+      "activeDevices": 1,
       "danmuSent": 0,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-10T13:59:32.639454"
+      "lastSeenAt": "2026-07-10T08:15:24.402645"
     },
     "明天也想见到你-对视三次版": {
       "weiboNickname": "明天也想见到你-对视三次版",
@@ -2008,9 +1998,19 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-07-10T15:43:01.492471",
           "appVersion": "biubiubiu1.1"
+        },
+        "7b1156ba661dae7d9e251bc8676a78f338a6fdeeb68f1b5285b86f6efcb5a8af": {
+          "deviceHash": "7b1156ba661d",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-10T13:59:32.639454",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
+      "activeDevices": 2,
       "danmuSent": 1795,
       "discussionSent": 0,
       "danmuFailed": 0,
