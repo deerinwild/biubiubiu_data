@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "updatedAt": "2026-07-16T02:55:24.544Z",
+  "updatedAt": "2026-07-16T03:01:12.554Z",
   "users": {
     "忻忻年年大吉祥": {
       "weiboNickname": "忻忻年年大吉祥",
@@ -235,22 +235,22 @@
       "devices": {
         "9c8d07f5482e369da0c15ceca29e3ddbeddea9fd008a806ea92c89d55f8b0c30": {
           "deviceHash": "9c8d07f5482e",
-          "danmuSent": 3800,
+          "danmuSent": 3900,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-16T10:39:30.303386",
+          "lastSeenAt": "2026-07-16T10:56:10.252562",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 3800,
+      "danmuSent": 3900,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-16T10:39:30.303386"
+      "lastSeenAt": "2026-07-16T10:56:10.252562"
     },
     "晨光微暖JCT": {
       "weiboNickname": "晨光微暖JCT",
@@ -915,6 +915,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-07-16T10:44:14.943398"
+    },
+    "朝暮念柳JC—T": {
+      "weiboNickname": "朝暮念柳JC—T",
+      "devices": {
+        "deea6c1f8a96f21e1e2f3e27685d1878b135c2250b1bd4c4e565adac66870c11": {
+          "deviceHash": "deea6c1f8a96",
+          "danmuSent": 200,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-16T10:58:28.506760",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 200,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-07-16T10:58:28.506760"
     }
   }
 }
