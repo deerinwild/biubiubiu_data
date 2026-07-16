@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "updatedAt": "2026-07-16T00:41:23.219Z",
+  "updatedAt": "2026-07-16T00:47:40.383Z",
   "users": {
     "忻忻年年大吉祥": {
       "weiboNickname": "忻忻年年大吉祥",
@@ -215,22 +215,22 @@
       "devices": {
         "9c8d07f5482e369da0c15ceca29e3ddbeddea9fd008a806ea92c89d55f8b0c30": {
           "deviceHash": "9c8d07f5482e",
-          "danmuSent": 3000,
+          "danmuSent": 3100,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-16T08:25:57.878334",
+          "lastSeenAt": "2026-07-16T08:42:38.109527",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 3000,
+      "danmuSent": 3100,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-16T08:25:57.878334"
+      "lastSeenAt": "2026-07-16T08:42:38.109527"
     },
     "晨光微暖JCT": {
       "weiboNickname": "晨光微暖JCT",
@@ -765,6 +765,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-07-16T08:37:07.883325"
+    },
+    "小耳朵梦中梦": {
+      "weiboNickname": "小耳朵梦中梦",
+      "devices": {
+        "f9727be46365bd9c49d78cfe8b515e71ce00e8cf2558ac7fb5cf25e11eb5a1e1": {
+          "deviceHash": "f9727be46365",
+          "danmuSent": 100,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-16T08:46:09.056115",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 100,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-07-16T08:46:09.056115"
     }
   }
 }
