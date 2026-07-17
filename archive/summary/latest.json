@@ -3,34 +3,34 @@
   "app": "biubiubiu_android",
   "date": "2026-07-18",
   "month": "2026-07",
-  "updatedAt": "2026-07-17T16:42:18.277Z",
+  "updatedAt": "2026-07-17T16:48:01.920Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-18.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-18",
-    "activeUsers": 12,
-    "activeDevices": 13,
-    "danmuSent": 1024,
-    "discussionSent": 720,
+    "activeUsers": 14,
+    "activeDevices": 15,
+    "danmuSent": 1123,
+    "discussionSent": 820,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-18T00:40:54.318543",
-    "updatedAt": "2026-07-17T16:42:16.149Z"
+    "lastSeenAt": "2026-07-18T00:47:34.466384",
+    "updatedAt": "2026-07-17T16:48:00.294Z"
   },
   "users": [
     {
       "weiboNickname": "炭火炙笼包",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 405,
+      "discussionSent": 505,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 405,
-      "lastSeenAt": "2026-07-18T00:40:54.318543"
+      "totalSent": 505,
+      "lastSeenAt": "2026-07-18T00:45:36.238667"
     },
     {
       "weiboNickname": "平檀一生",
@@ -132,6 +132,17 @@
       "lastSeenAt": "2026-07-18T00:27:59.846678"
     },
     {
+      "weiboNickname": "世界如此美好1988",
+      "activeDevices": 1,
+      "danmuSent": 99,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 99,
+      "lastSeenAt": "2026-07-18T00:24:44.478037"
+    },
+    {
       "weiboNickname": "忻忻年年大吉祥",
       "activeDevices": 1,
       "danmuSent": 92,
@@ -152,6 +163,17 @@
       "danmuSkipped": 0,
       "totalSent": 10,
       "lastSeenAt": "2026-07-18T00:39:50.282073"
+    },
+    {
+      "weiboNickname": "晨光微暖JCT",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 0,
+      "lastSeenAt": "2026-07-18T00:47:34.466384"
     }
   ]
 }
