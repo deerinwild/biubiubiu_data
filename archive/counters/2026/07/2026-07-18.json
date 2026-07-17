@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "updatedAt": "2026-07-17T18:24:00.208Z",
+  "updatedAt": "2026-07-17T18:29:55.341Z",
   "users": {
     "忻忻年年大吉祥": {
       "weiboNickname": "忻忻年年大吉祥",
@@ -313,13 +313,35 @@
       "devices": {
         "a6052c5e79a0f331411088cf08ae7de00f7c1177e98d363e8658659166461dd9": {
           "deviceHash": "a6052c5e79a0",
+          "danmuSent": 500,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-18T02:28:52.037945",
+          "appVersion": "biubiubiu1.4"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 500,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-07-18T02:28:52.037945"
+    },
+    "甜豆的T-hoohoo": {
+      "weiboNickname": "甜豆的T-hoohoo",
+      "devices": {
+        "9c8d07f5482e369da0c15ceca29e3ddbeddea9fd008a806ea92c89d55f8b0c30": {
+          "deviceHash": "9c8d07f5482e",
           "danmuSent": 400,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-18T02:12:10.170491",
-          "appVersion": "biubiubiu1.4"
+          "lastSeenAt": "2026-07-18T02:24:52.449990",
+          "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
@@ -328,29 +350,7 @@
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-18T02:12:10.170491"
-    },
-    "甜豆的T-hoohoo": {
-      "weiboNickname": "甜豆的T-hoohoo",
-      "devices": {
-        "9c8d07f5482e369da0c15ceca29e3ddbeddea9fd008a806ea92c89d55f8b0c30": {
-          "deviceHash": "9c8d07f5482e",
-          "danmuSent": 300,
-          "discussionSent": 0,
-          "danmuFailed": 0,
-          "discussionFailed": 0,
-          "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-18T02:08:12.473029",
-          "appVersion": "biubiubiu1.1"
-        }
-      },
-      "activeDevices": 1,
-      "danmuSent": 300,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-18T02:08:12.473029"
+      "lastSeenAt": "2026-07-18T02:24:52.449990"
     }
   }
 }
