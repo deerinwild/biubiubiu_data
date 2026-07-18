@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-18",
   "month": "2026-07",
-  "updatedAt": "2026-07-18T11:01:18.219Z",
+  "updatedAt": "2026-07-18T11:09:01.194Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-18.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -12,25 +12,25 @@
     "date": "2026-07-18",
     "activeUsers": 32,
     "activeDevices": 39,
-    "danmuSent": 40075,
-    "discussionSent": 13923,
+    "danmuSent": 40575,
+    "discussionSent": 14162,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-18T19:01:04.225273",
-    "updatedAt": "2026-07-18T11:01:16.720Z"
+    "lastSeenAt": "2026-07-18T19:08:30.813304",
+    "updatedAt": "2026-07-18T11:08:59.721Z"
   },
   "users": [
     {
       "weiboNickname": "平檀一生",
       "activeDevices": 2,
-      "danmuSent": 8382,
+      "danmuSent": 8482,
       "discussionSent": 798,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 9180,
-      "lastSeenAt": "2026-07-18T18:57:10.402574"
+      "totalSent": 9280,
+      "lastSeenAt": "2026-07-18T19:03:58.400317"
     },
     {
       "weiboNickname": "甜豆的T-hoohoo",
@@ -46,35 +46,46 @@
     {
       "weiboNickname": "晨光微暖JCT",
       "activeDevices": 2,
-      "danmuSent": 5399,
+      "danmuSent": 5599,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 5399,
-      "lastSeenAt": "2026-07-18T18:48:22.221467"
+      "totalSent": 5599,
+      "lastSeenAt": "2026-07-18T19:07:11.189471"
     },
     {
       "weiboNickname": "苍离不语",
       "activeDevices": 3,
       "danmuSent": 690,
-      "discussionSent": 2771,
+      "discussionSent": 2810,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 3461,
-      "lastSeenAt": "2026-07-18T18:12:08.080112"
+      "totalSent": 3500,
+      "lastSeenAt": "2026-07-18T19:08:30.813304"
     },
     {
       "weiboNickname": "世界如此美好1988",
       "activeDevices": 2,
-      "danmuSent": 3155,
+      "danmuSent": 3255,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 3155,
-      "lastSeenAt": "2026-07-18T18:45:34.819079"
+      "totalSent": 3255,
+      "lastSeenAt": "2026-07-18T19:08:17.308223"
+    },
+    {
+      "weiboNickname": "猫猫次客",
+      "activeDevices": 1,
+      "danmuSent": 2414,
+      "discussionSent": 251,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 2665,
+      "lastSeenAt": "2026-07-18T19:04:55.713533"
     },
     {
       "weiboNickname": "檀檀颜颜",
@@ -97,17 +108,6 @@
       "danmuSkipped": 0,
       "totalSent": 2566,
       "lastSeenAt": "2026-07-18T19:01:04.225273"
-    },
-    {
-      "weiboNickname": "猫猫次客",
-      "activeDevices": 1,
-      "danmuSent": 2414,
-      "discussionSent": 151,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 2565,
-      "lastSeenAt": "2026-07-18T18:25:40.435388"
     },
     {
       "weiboNickname": "檀了颗糖",
@@ -154,6 +154,17 @@
       "lastSeenAt": "2026-07-18T18:35:36.982466"
     },
     {
+      "weiboNickname": "檀郎好联句",
+      "activeDevices": 1,
+      "danmuSent": 1036,
+      "discussionSent": 351,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1387,
+      "lastSeenAt": "2026-07-18T19:08:08.877868"
+    },
+    {
       "weiboNickname": "Sarah猫小咪",
       "activeDevices": 1,
       "danmuSent": 204,
@@ -174,17 +185,6 @@
       "danmuSkipped": 0,
       "totalSent": 1330,
       "lastSeenAt": "2026-07-18T08:16:18.526938"
-    },
-    {
-      "weiboNickname": "檀郎好联句",
-      "activeDevices": 1,
-      "danmuSent": 936,
-      "discussionSent": 351,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 1287,
-      "lastSeenAt": "2026-07-18T18:18:01.634769"
     },
     {
       "weiboNickname": "次次皆如初见",
@@ -212,12 +212,12 @@
       "weiboNickname": "小静姝吖",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 949,
+      "discussionSent": 1049,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 949,
-      "lastSeenAt": "2026-07-18T17:37:33.756599"
+      "totalSent": 1049,
+      "lastSeenAt": "2026-07-18T19:04:30.003622"
     },
     {
       "weiboNickname": "炭火炙笼包",
@@ -250,7 +250,7 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "totalSent": 473,
-      "lastSeenAt": "2026-07-18T16:45:16.952777"
+      "lastSeenAt": "2026-07-18T19:06:13.522860"
     },
     {
       "weiboNickname": "为正义祈福",
