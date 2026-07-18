@@ -3,45 +3,45 @@
   "app": "biubiubiu_android",
   "date": "2026-07-19",
   "month": "2026-07",
-  "updatedAt": "2026-07-18T18:07:35.827Z",
+  "updatedAt": "2026-07-18T18:18:26.484Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-19.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-19",
-    "activeUsers": 10,
-    "activeDevices": 12,
-    "danmuSent": 2667,
-    "discussionSent": 519,
+    "activeUsers": 11,
+    "activeDevices": 13,
+    "danmuSent": 2967,
+    "discussionSent": 530,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-19T02:03:00.387062",
-    "updatedAt": "2026-07-18T18:07:34.465Z"
+    "lastSeenAt": "2026-07-19T02:15:33.178535",
+    "updatedAt": "2026-07-18T18:18:24.912Z"
   },
   "users": [
     {
       "weiboNickname": "平檀一生",
       "activeDevices": 2,
-      "danmuSent": 1000,
+      "danmuSent": 1200,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 1000,
-      "lastSeenAt": "2026-07-19T01:57:08.611015"
+      "totalSent": 1200,
+      "lastSeenAt": "2026-07-19T02:14:08.113211"
     },
     {
       "weiboNickname": "甜豆的T-hoohoo",
       "activeDevices": 1,
-      "danmuSent": 700,
+      "danmuSent": 800,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 700,
-      "lastSeenAt": "2026-07-19T01:56:41.336593"
+      "totalSent": 800,
+      "lastSeenAt": "2026-07-19T02:13:21.441097"
     },
     {
       "weiboNickname": "呆呆的可爱多_",
@@ -119,6 +119,17 @@
       "danmuSkipped": 0,
       "totalSent": 26,
       "lastSeenAt": "2026-07-19T00:06:06.247032"
+    },
+    {
+      "weiboNickname": "苦b不额外加糖",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 11,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 11,
+      "lastSeenAt": "2026-07-19T02:15:33.178535"
     },
     {
       "weiboNickname": "却雀",
