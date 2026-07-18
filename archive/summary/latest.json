@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-19",
   "month": "2026-07",
-  "updatedAt": "2026-07-18T19:56:59.865Z",
+  "updatedAt": "2026-07-18T20:07:47.233Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-19.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -12,13 +12,13 @@
     "date": "2026-07-19",
     "activeUsers": 13,
     "activeDevices": 15,
-    "danmuSent": 5767,
-    "discussionSent": 1229,
+    "danmuSent": 5967,
+    "discussionSent": 1329,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-19T03:55:42.979304",
-    "updatedAt": "2026-07-18T19:56:58.438Z"
+    "lastSeenAt": "2026-07-19T04:06:55.861097",
+    "updatedAt": "2026-07-18T20:07:45.778Z"
   },
   "users": [
     {
@@ -35,24 +35,24 @@
     {
       "weiboNickname": "甜豆的T-hoohoo",
       "activeDevices": 1,
-      "danmuSent": 1400,
+      "danmuSent": 1500,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 1400,
-      "lastSeenAt": "2026-07-19T03:50:13.020577"
+      "totalSent": 1500,
+      "lastSeenAt": "2026-07-19T04:06:55.861097"
     },
     {
       "weiboNickname": "多多又man又healthy",
       "activeDevices": 1,
-      "danmuSent": 929,
+      "danmuSent": 1029,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 929,
-      "lastSeenAt": "2026-07-19T03:46:04.006359"
+      "totalSent": 1029,
+      "lastSeenAt": "2026-07-19T04:02:44.041395"
     },
     {
       "weiboNickname": "呆呆的可爱多_",
@@ -121,6 +121,17 @@
       "lastSeenAt": "2026-07-19T02:40:29.884763"
     },
     {
+      "weiboNickname": "檀檀颜颜",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 100,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 100,
+      "lastSeenAt": "2026-07-19T04:04:40.673798"
+    },
+    {
       "weiboNickname": "忻忻年年大吉祥",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -152,17 +163,6 @@
       "danmuSkipped": 0,
       "totalSent": 0,
       "lastSeenAt": "2026-07-19T00:02:45.154121"
-    },
-    {
-      "weiboNickname": "檀檀颜颜",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 0,
-      "lastSeenAt": "2026-07-19T00:01:13.727633"
     }
   ]
 }
