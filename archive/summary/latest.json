@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-19",
   "month": "2026-07",
-  "updatedAt": "2026-07-19T13:48:35.107Z",
+  "updatedAt": "2026-07-19T13:55:02.208Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-19.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -13,12 +13,12 @@
     "activeUsers": 34,
     "activeDevices": 43,
     "danmuSent": 41296,
-    "discussionSent": 18154,
+    "discussionSent": 18354,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
     "lastSeenAt": "2026-07-19T23:32:47.554811",
-    "updatedAt": "2026-07-19T13:48:33.597Z"
+    "updatedAt": "2026-07-19T13:55:00.795Z"
   },
   "users": [
     {
@@ -198,6 +198,17 @@
       "lastSeenAt": "2026-07-19T17:30:04.961052"
     },
     {
+      "weiboNickname": "苍离不语",
+      "activeDevices": 2,
+      "danmuSent": 0,
+      "discussionSent": 1188,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1188,
+      "lastSeenAt": "2026-07-19T21:49:57.029840"
+    },
+    {
       "weiboNickname": "多多阿酸多多",
       "activeDevices": 2,
       "danmuSent": 1128,
@@ -218,17 +229,6 @@
       "danmuSkipped": 0,
       "totalSent": 1095,
       "lastSeenAt": "2026-07-19T20:12:36.009048"
-    },
-    {
-      "weiboNickname": "苍离不语",
-      "activeDevices": 2,
-      "danmuSent": 0,
-      "discussionSent": 1088,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 1088,
-      "lastSeenAt": "2026-07-19T21:30:03.393709"
     },
     {
       "weiboNickname": "次次MOO-CJNJC",
@@ -256,12 +256,12 @@
       "weiboNickname": "小静姝吖",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 790,
+      "discussionSent": 890,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 790,
-      "lastSeenAt": "2026-07-19T21:29:54.967674"
+      "totalSent": 890,
+      "lastSeenAt": "2026-07-19T21:54:18.804572"
     },
     {
       "weiboNickname": "苦b不额外加糖",
@@ -316,7 +316,7 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "totalSent": 405,
-      "lastSeenAt": "2026-07-19T15:13:51.604462"
+      "lastSeenAt": "2026-07-19T15:14:03.853551"
     },
     {
       "weiboNickname": "多次一口巧克力",
