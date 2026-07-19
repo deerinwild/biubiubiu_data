@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "updatedAt": "2026-07-19T03:00:09.387Z",
+  "updatedAt": "2026-07-19T03:05:34.956Z",
   "users": {
     "忻忻年年大吉祥": {
       "weiboNickname": "忻忻年年大吉祥",
@@ -68,59 +68,69 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-07-19T07:05:59.835847",
           "appVersion": "biubiubiu1.1"
+        },
+        "c14d84ec584857b63b571a45029554aa00c26d15d70f55dc95fda8ec8bda064c": {
+          "deviceHash": "c14d84ec5848",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-19T11:03:04.358334",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
+      "activeDevices": 2,
       "danmuSent": 0,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-19T07:05:59.835847"
+      "lastSeenAt": "2026-07-19T11:03:04.358334"
     },
     "猫猫次客": {
       "weiboNickname": "猫猫次客",
       "devices": {
         "015ff0ca602aaf55dfca0466b389a8c04bc179ffff5148b3537f9485bc450364": {
           "deviceHash": "015ff0ca602a",
-          "danmuSent": 200,
+          "danmuSent": 300,
           "discussionSent": 26,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-19T10:44:56.273091",
+          "lastSeenAt": "2026-07-19T11:01:36.158510",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 200,
+      "danmuSent": 300,
       "discussionSent": 26,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-19T10:44:56.273091"
+      "lastSeenAt": "2026-07-19T11:01:36.158510"
     },
     "多多又man又healthy": {
       "weiboNickname": "多多又man又healthy",
       "devices": {
         "8b925babb7bcde223d36578a4ff0b39e85d71b91d1a378802ccf33046d02167c": {
           "deviceHash": "8b925babb7bc",
-          "danmuSent": 2531,
+          "danmuSent": 2631,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-19T10:51:18.624692",
+          "lastSeenAt": "2026-07-19T11:04:38.560367",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 2531,
+      "danmuSent": 2631,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-19T10:51:18.624692"
+      "lastSeenAt": "2026-07-19T11:04:38.560367"
     },
     "平檀一生": {
       "weiboNickname": "平檀一生",
@@ -346,21 +356,21 @@
         "5b4e5082ea59b0eaef46fb98e02802022d9e16f595f1945a48b36a98503861c4": {
           "deviceHash": "5b4e5082ea59",
           "danmuSent": 0,
-          "discussionSent": 920,
+          "discussionSent": 1020,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-19T10:36:56.901500",
+          "lastSeenAt": "2026-07-19T11:01:26.005960",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 920,
+      "discussionSent": 1020,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-19T10:36:56.901500"
+      "lastSeenAt": "2026-07-19T11:01:26.005960"
     },
     "穿越月光之境": {
       "weiboNickname": "穿越月光之境",
@@ -422,11 +432,11 @@
         "8066b00d4bbfd302eb3f8f0b66b18f62573d5273aa767e0361ac676dcb1efcb1": {
           "deviceHash": "8066b00d4bbf",
           "danmuSent": 0,
-          "discussionSent": 200,
+          "discussionSent": 300,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-19T10:39:09.242018",
+          "lastSeenAt": "2026-07-19T11:04:37.331159",
           "appVersion": "biubiubiu1.1"
         },
         "7d8f3cd65652f2796850c4d7857bfcac8b51ee5289c5093e05d905e93cda8098": {
@@ -442,11 +452,11 @@
       },
       "activeDevices": 2,
       "danmuSent": 0,
-      "discussionSent": 392,
+      "discussionSent": 492,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-19T10:50:11.639394"
+      "lastSeenAt": "2026-07-19T11:04:37.331159"
     },
     "檀佳尔316": {
       "weiboNickname": "檀佳尔316",
@@ -476,21 +486,21 @@
         "dcaeb61920506f03cbb760c7ab2922c94cb60c0a83585e7519214fa9d7ae4de2": {
           "deviceHash": "dcaeb6192050",
           "danmuSent": 0,
-          "discussionSent": 100,
+          "discussionSent": 200,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-19T10:39:31.301119",
+          "lastSeenAt": "2026-07-19T11:03:53.702537",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 100,
+      "discussionSent": 200,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-19T10:39:31.301119"
+      "lastSeenAt": "2026-07-19T11:03:53.702537"
     },
     "桃之夭腰2023": {
       "weiboNickname": "桃之夭腰2023",
@@ -519,22 +529,22 @@
       "devices": {
         "548b2b7b29c8f2f90331cb2a57859823d3f05786fb4f3be039bf72afa654e6d6": {
           "deviceHash": "548b2b7b29c8",
-          "danmuSent": 0,
+          "danmuSent": 72,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-19T10:41:47.227209",
+          "lastSeenAt": "2026-07-19T11:00:18.501285",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 0,
+      "danmuSent": 72,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-19T10:41:47.227209"
+      "lastSeenAt": "2026-07-19T11:00:18.501285"
     }
   }
 }
