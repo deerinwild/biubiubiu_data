@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "updatedAt": "2026-07-20T11:34:26.672Z",
+  "updatedAt": "2026-07-20T11:40:04.142Z",
   "users": {
     "忻忻年年大吉祥": {
       "weiboNickname": "忻忻年年大吉祥",
@@ -382,15 +382,25 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-07-20T19:21:55.482807",
           "appVersion": "biubiubiu1.1"
+        },
+        "8066b00d4bbfd302eb3f8f0b66b18f62573d5273aa767e0361ac676dcb1efcb1": {
+          "deviceHash": "8066b00d4bbf",
+          "danmuSent": 0,
+          "discussionSent": 100,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-20T19:38:47.362647",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 2,
+      "activeDevices": 3,
       "danmuSent": 0,
-      "discussionSent": 799,
+      "discussionSent": 899,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-20T19:21:55.482807"
+      "lastSeenAt": "2026-07-20T19:38:47.362647"
     },
     "檀多多给我做饭": {
       "weiboNickname": "檀多多给我做饭",
@@ -463,22 +473,22 @@
       "devices": {
         "557c56c5c11e797ee785f44bbb733398d6fef3fab51289d071d4a6b3c0a041e5": {
           "deviceHash": "557c56c5c11e",
-          "danmuSent": 2330,
+          "danmuSent": 2430,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-20T19:18:19.046747",
+          "lastSeenAt": "2026-07-20T19:35:03.042722",
           "appVersion": "biubiubiu1.4"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 2330,
+      "danmuSent": 2430,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-20T19:18:19.046747"
+      "lastSeenAt": "2026-07-20T19:35:03.042722"
     },
     "岁月如檀-J15": {
       "weiboNickname": "岁月如檀-J15",
