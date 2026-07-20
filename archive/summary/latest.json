@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-21",
   "month": "2026-07",
-  "updatedAt": "2026-07-20T19:25:56.942Z",
+  "updatedAt": "2026-07-20T19:33:05.101Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-21.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -13,12 +13,12 @@
     "activeUsers": 13,
     "activeDevices": 15,
     "danmuSent": 6265,
-    "discussionSent": 1530,
+    "discussionSent": 1660,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-21T03:24:30.339879",
-    "updatedAt": "2026-07-20T19:25:55.270Z"
+    "lastSeenAt": "2026-07-21T03:29:03.027883",
+    "updatedAt": "2026-07-20T19:33:03.334Z"
   },
   "users": [
     {
@@ -66,6 +66,17 @@
       "lastSeenAt": "2026-07-21T03:21:33.691153"
     },
     {
+      "weiboNickname": "多次一口巧克力",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 800,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 800,
+      "lastSeenAt": "2026-07-21T03:29:03.027883"
+    },
+    {
       "weiboNickname": "Glory-JCT",
       "activeDevices": 2,
       "danmuSent": 0,
@@ -86,17 +97,6 @@
       "danmuSkipped": 0,
       "totalSent": 800,
       "lastSeenAt": "2026-07-21T03:19:42.435595"
-    },
-    {
-      "weiboNickname": "多次一口巧克力",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 700,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 700,
-      "lastSeenAt": "2026-07-21T03:04:29.948970"
     },
     {
       "weiboNickname": "檀郎好联句",
@@ -135,12 +135,12 @@
       "weiboNickname": "狸小翎",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 30,
+      "discussionSent": 60,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 30,
-      "lastSeenAt": "2026-07-21T03:18:33.609811"
+      "totalSent": 60,
+      "lastSeenAt": "2026-07-21T03:26:22.993155"
     },
     {
       "weiboNickname": "环环灬小炭火JC-T",
