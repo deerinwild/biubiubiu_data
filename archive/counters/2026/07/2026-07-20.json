@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "updatedAt": "2026-07-20T01:08:04.025Z",
+  "updatedAt": "2026-07-20T01:14:33.495Z",
   "users": {
     "忻忻年年大吉祥": {
       "weiboNickname": "忻忻年年大吉祥",
@@ -93,22 +93,22 @@
       "devices": {
         "8b925babb7bcde223d36578a4ff0b39e85d71b91d1a378802ccf33046d02167c": {
           "deviceHash": "8b925babb7bc",
-          "danmuSent": 2252,
+          "danmuSent": 2352,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-20T08:55:58.951281",
+          "lastSeenAt": "2026-07-20T09:12:38.987904",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 2252,
+      "danmuSent": 2352,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-20T08:55:58.951281"
+      "lastSeenAt": "2026-07-20T09:12:38.987904"
     },
     "呆呆的可爱多_": {
       "weiboNickname": "呆呆的可爱多_",
@@ -307,6 +307,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-07-20T08:58:36.219971"
+    },
+    "把太阳装进枕头里": {
+      "weiboNickname": "把太阳装进枕头里",
+      "devices": {
+        "7b1156ba661dae7d9e251bc8676a78f338a6fdeeb68f1b5285b86f6efcb5a8af": {
+          "deviceHash": "7b1156ba661d",
+          "danmuSent": 28,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-20T09:11:01.094597",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 28,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-07-20T09:11:01.094597"
     }
   }
 }
