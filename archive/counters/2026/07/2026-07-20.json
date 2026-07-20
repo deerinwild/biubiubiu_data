@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "updatedAt": "2026-07-20T04:02:22.629Z",
+  "updatedAt": "2026-07-20T04:07:49.681Z",
   "users": {
     "忻忻年年大吉祥": {
       "weiboNickname": "忻忻年年大吉祥",
@@ -453,22 +453,22 @@
       "devices": {
         "557c56c5c11e797ee785f44bbb733398d6fef3fab51289d071d4a6b3c0a041e5": {
           "deviceHash": "557c56c5c11e",
-          "danmuSent": 500,
+          "danmuSent": 538,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-20T11:44:16.512208",
+          "lastSeenAt": "2026-07-20T12:07:25.014521",
           "appVersion": "biubiubiu1.4"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 500,
+      "danmuSent": 538,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-20T11:44:16.512208"
+      "lastSeenAt": "2026-07-20T12:07:25.014521"
     },
     "岁月如檀-J15": {
       "weiboNickname": "岁月如檀-J15",
@@ -498,21 +498,21 @@
         "331828785dd05146f4412c8bdf90450ee6bee5fbdfa7fe3582e234a77c25ea09": {
           "deviceHash": "331828785dd0",
           "danmuSent": 0,
-          "discussionSent": 101,
+          "discussionSent": 201,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-20T11:40:08.436660",
+          "lastSeenAt": "2026-07-20T12:04:40.339305",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 101,
+      "discussionSent": 201,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-20T11:40:08.436660"
+      "lastSeenAt": "2026-07-20T12:04:40.339305"
     },
     "DREAM S_Yy": {
       "weiboNickname": "DREAM S_Yy",
@@ -535,6 +535,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-07-20T11:54:41.692929"
+    },
+    "半翅蝴蝶": {
+      "weiboNickname": "半翅蝴蝶",
+      "devices": {
+        "5f0e4008f953614ed494f7a42d5a7d510d09e1751307949e59eee5f76c1b1358": {
+          "deviceHash": "5f0e4008f953",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-20T12:02:47.265983",
+          "appVersion": "biubiubiu1.4"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-07-20T12:02:47.265983"
     }
   }
 }
