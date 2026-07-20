@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-20",
   "month": "2026-07",
-  "updatedAt": "2026-07-20T12:38:16.500Z",
+  "updatedAt": "2026-07-20T12:43:48.849Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-20.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -13,12 +13,12 @@
     "activeUsers": 30,
     "activeDevices": 38,
     "danmuSent": 39704,
-    "discussionSent": 15724,
+    "discussionSent": 15878,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
     "lastSeenAt": "2026-07-20T22:30:40.862105",
-    "updatedAt": "2026-07-20T12:38:14.720Z"
+    "updatedAt": "2026-07-20T12:43:47.037Z"
   },
   "users": [
     {
@@ -165,6 +165,17 @@
       "lastSeenAt": "2026-07-20T17:28:10.460838"
     },
     {
+      "weiboNickname": "苍离不语",
+      "activeDevices": 3,
+      "danmuSent": 0,
+      "discussionSent": 1299,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1299,
+      "lastSeenAt": "2026-07-20T20:40:53.645358"
+    },
+    {
       "weiboNickname": "岁月如檀-J15",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -174,17 +185,6 @@
       "danmuSkipped": 0,
       "totalSent": 1201,
       "lastSeenAt": "2026-07-20T19:12:30.782562"
-    },
-    {
-      "weiboNickname": "苍离不语",
-      "activeDevices": 3,
-      "danmuSent": 0,
-      "discussionSent": 1199,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 1199,
-      "lastSeenAt": "2026-07-20T20:16:12.788878"
     },
     {
       "weiboNickname": "Sarah猫小咪",
@@ -212,12 +212,12 @@
       "weiboNickname": "桃之夭腰2023",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 786,
+      "discussionSent": 840,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 786,
-      "lastSeenAt": "2026-07-20T20:23:01.182740"
+      "totalSent": 840,
+      "lastSeenAt": "2026-07-20T20:38:13.286378"
     },
     {
       "weiboNickname": "半翅蝴蝶",
