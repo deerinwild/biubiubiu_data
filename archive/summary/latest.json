@@ -3,34 +3,34 @@
   "app": "biubiubiu_android",
   "date": "2026-07-21",
   "month": "2026-07",
-  "updatedAt": "2026-07-21T01:01:19.187Z",
+  "updatedAt": "2026-07-21T01:08:08.594Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-21.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-21",
-    "activeUsers": 14,
-    "activeDevices": 16,
-    "danmuSent": 15694,
-    "discussionSent": 5134,
+    "activeUsers": 15,
+    "activeDevices": 17,
+    "danmuSent": 15870,
+    "discussionSent": 5150,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-21T09:00:43.247541",
-    "updatedAt": "2026-07-21T01:01:17.597Z"
+    "lastSeenAt": "2026-07-21T09:06:59.022427",
+    "updatedAt": "2026-07-21T01:08:07.001Z"
   },
   "users": [
     {
       "weiboNickname": "平檀一生",
       "activeDevices": 2,
-      "danmuSent": 4229,
+      "danmuSent": 4305,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 4229,
-      "lastSeenAt": "2026-07-21T08:53:55.151536"
+      "totalSent": 4305,
+      "lastSeenAt": "2026-07-21T09:06:35.201343"
     },
     {
       "weiboNickname": "甜豆的T-hoohoo",
@@ -91,12 +91,12 @@
       "weiboNickname": "狸小翎",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 1334,
+      "discussionSent": 1350,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 1334,
-      "lastSeenAt": "2026-07-21T09:00:43.247541"
+      "totalSent": 1350,
+      "lastSeenAt": "2026-07-21T09:02:16.007627"
     },
     {
       "weiboNickname": "多次一口巧克力",
@@ -141,6 +141,17 @@
       "danmuSkipped": 0,
       "totalSent": 100,
       "lastSeenAt": "2026-07-21T01:28:07.203323"
+    },
+    {
+      "weiboNickname": "檀了颗糖",
+      "activeDevices": 1,
+      "danmuSent": 100,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 100,
+      "lastSeenAt": "2026-07-21T09:06:59.022427"
     },
     {
       "weiboNickname": "糖千晗",
