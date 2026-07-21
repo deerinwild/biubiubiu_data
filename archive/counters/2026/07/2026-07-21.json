@@ -1,28 +1,28 @@
 {
   "date": "2026-07-21",
-  "updatedAt": "2026-07-21T01:08:07.001Z",
+  "updatedAt": "2026-07-21T01:13:33.038Z",
   "users": {
     "Sarah猫小咪": {
       "weiboNickname": "Sarah猫小咪",
       "devices": {
         "c05b27cefebaab94a948fa7425f8b1f6dfa642236571133c3b2c09502456b217": {
           "deviceHash": "c05b27cefeba",
-          "danmuSent": 2100,
+          "danmuSent": 2218,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-21T08:44:27.814394",
+          "lastSeenAt": "2026-07-21T09:12:34.083864",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 2100,
+      "danmuSent": 2218,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-21T08:44:27.814394"
+      "lastSeenAt": "2026-07-21T09:12:34.083864"
     },
     "平檀一生": {
       "weiboNickname": "平檀一生",
@@ -39,22 +39,22 @@
         },
         "d6aceed9a1b0011859a56a3384419f8458786191ea699d6c646ebce977b490d9": {
           "deviceHash": "d6aceed9a1b0",
-          "danmuSent": 1551,
+          "danmuSent": 1651,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-21T08:36:18.108344",
+          "lastSeenAt": "2026-07-21T09:09:47.598261",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 2,
-      "danmuSent": 4305,
+      "danmuSent": 4405,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-21T09:06:35.201343"
+      "lastSeenAt": "2026-07-21T09:09:47.598261"
     },
     "甜豆的T-hoohoo": {
       "weiboNickname": "甜豆的T-hoohoo",
@@ -351,6 +351,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-07-21T09:06:59.022427"
+    },
+    "把太阳装进枕头里": {
+      "weiboNickname": "把太阳装进枕头里",
+      "devices": {
+        "7c2f586bfbd42f682a783d7816c3630e9a995843934e40fd8a648ba6425154f9": {
+          "deviceHash": "7c2f586bfbd4",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-21T09:13:23.880537",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-07-21T09:13:23.880537"
     }
   }
 }
