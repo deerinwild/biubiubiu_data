@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-21",
   "month": "2026-07",
-  "updatedAt": "2026-07-21T00:08:47.992Z",
+  "updatedAt": "2026-07-21T00:14:21.550Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-21.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -13,12 +13,12 @@
     "activeUsers": 13,
     "activeDevices": 15,
     "danmuSent": 14302,
-    "discussionSent": 4740,
+    "discussionSent": 4856,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-21T08:07:34.455549",
-    "updatedAt": "2026-07-21T00:08:46.471Z"
+    "lastSeenAt": "2026-07-21T08:14:01.832792",
+    "updatedAt": "2026-07-21T00:14:19.885Z"
   },
   "users": [
     {
@@ -55,6 +55,17 @@
       "lastSeenAt": "2026-07-21T08:01:58.049281"
     },
     {
+      "weiboNickname": "Glory-JCT",
+      "activeDevices": 2,
+      "danmuSent": 0,
+      "discussionSent": 2500,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 2500,
+      "lastSeenAt": "2026-07-21T08:09:16.662436"
+    },
+    {
       "weiboNickname": "多多又man又healthy",
       "activeDevices": 1,
       "danmuSent": 2405,
@@ -64,17 +75,6 @@
       "danmuSkipped": 0,
       "totalSent": 2405,
       "lastSeenAt": "2026-07-21T07:47:11.111688"
-    },
-    {
-      "weiboNickname": "Glory-JCT",
-      "activeDevices": 2,
-      "danmuSent": 0,
-      "discussionSent": 2400,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 2400,
-      "lastSeenAt": "2026-07-21T07:36:12.395160"
     },
     {
       "weiboNickname": "Sarah猫小咪",
@@ -102,12 +102,12 @@
       "weiboNickname": "狸小翎",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 1140,
+      "discussionSent": 1156,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 1140,
-      "lastSeenAt": "2026-07-21T08:07:34.455549"
+      "totalSent": 1156,
+      "lastSeenAt": "2026-07-21T08:14:01.832792"
     },
     {
       "weiboNickname": "檀郎好联句",
