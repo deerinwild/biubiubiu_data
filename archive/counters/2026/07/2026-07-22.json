@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "updatedAt": "2026-07-21T16:47:08.804Z",
+  "updatedAt": "2026-07-21T16:54:37.299Z",
   "users": {
     "平檀一生": {
       "weiboNickname": "平檀一生",
@@ -39,22 +39,22 @@
       "devices": {
         "4767941ce060423d53938101bf41fdd93e5d63d32abd1503dc8b8fbbf9765590": {
           "deviceHash": "4767941ce060",
-          "danmuSent": 0,
+          "danmuSent": 100,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-22T00:01:20.751449",
+          "lastSeenAt": "2026-07-22T00:51:05.814383",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 0,
+      "danmuSent": 100,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-22T00:01:20.751449"
+      "lastSeenAt": "2026-07-22T00:51:05.814383"
     },
     "甜豆的T-hoohoo": {
       "weiboNickname": "甜豆的T-hoohoo",
@@ -84,21 +84,21 @@
         "53d39e7f9d24683c87f6798d2fe48c5f440ce0f4ee4eb3a52df2b177fe069614": {
           "deviceHash": "53d39e7f9d24",
           "danmuSent": 0,
-          "discussionSent": 100,
+          "discussionSent": 200,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-22T00:25:09.764678",
+          "lastSeenAt": "2026-07-22T00:50:15.788926",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 100,
+      "discussionSent": 200,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-22T00:25:09.764678"
+      "lastSeenAt": "2026-07-22T00:50:15.788926"
     },
     "Sarah猫小咪": {
       "weiboNickname": "Sarah猫小咪",
@@ -121,6 +121,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-07-22T00:32:53.806705"
+    },
+    "多多又man又healthy": {
+      "weiboNickname": "多多又man又healthy",
+      "devices": {
+        "8b925babb7bcde223d36578a4ff0b39e85d71b91d1a378802ccf33046d02167c": {
+          "deviceHash": "8b925babb7bc",
+          "danmuSent": 100,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-22T00:50:48.058799",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 100,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-07-22T00:50:48.058799"
     }
   }
 }
