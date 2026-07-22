@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-07-23",
   "month": "2026-07",
-  "updatedAt": "2026-07-22T18:47:50.236Z",
+  "updatedAt": "2026-07-22T19:00:35.922Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-23.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-23",
-    "activeUsers": 9,
-    "activeDevices": 11,
-    "danmuSent": 4991,
+    "activeUsers": 10,
+    "activeDevices": 12,
+    "danmuSent": 5291,
     "discussionSent": 271,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-23T02:47:23.932033",
-    "updatedAt": "2026-07-22T18:47:48.059Z"
+    "lastSeenAt": "2026-07-23T02:58:38.435263",
+    "updatedAt": "2026-07-22T19:00:34.164Z"
   },
   "users": [
     {
@@ -57,24 +57,24 @@
     {
       "weiboNickname": "多次一口巧克力",
       "activeDevices": 1,
-      "danmuSent": 600,
+      "danmuSent": 700,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 600,
-      "lastSeenAt": "2026-07-23T02:30:26.470842"
+      "totalSent": 700,
+      "lastSeenAt": "2026-07-23T02:55:38.791592"
     },
     {
       "weiboNickname": "甜豆的T-hoohoo",
       "activeDevices": 1,
-      "danmuSent": 600,
+      "danmuSent": 700,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 600,
-      "lastSeenAt": "2026-07-23T02:30:21.451691"
+      "totalSent": 700,
+      "lastSeenAt": "2026-07-23T02:55:29.284840"
     },
     {
       "weiboNickname": "Sarah猫小咪",
@@ -119,6 +119,17 @@
       "danmuSkipped": 0,
       "totalSent": 100,
       "lastSeenAt": "2026-07-23T01:32:21.712524"
+    },
+    {
+      "weiboNickname": "DREAM S_Yy",
+      "activeDevices": 1,
+      "danmuSent": 100,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 100,
+      "lastSeenAt": "2026-07-23T02:58:38.435263"
     }
   ]
 }
