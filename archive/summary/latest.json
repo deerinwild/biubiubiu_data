@@ -3,45 +3,45 @@
   "app": "biubiubiu_android",
   "date": "2026-07-22",
   "month": "2026-07",
-  "updatedAt": "2026-07-22T00:11:07.158Z",
+  "updatedAt": "2026-07-22T00:17:09.144Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-22.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-22",
-    "activeUsers": 10,
-    "activeDevices": 13,
-    "danmuSent": 13582,
-    "discussionSent": 2246,
+    "activeUsers": 11,
+    "activeDevices": 14,
+    "danmuSent": 13782,
+    "discussionSent": 2254,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-22T08:10:02.567084",
-    "updatedAt": "2026-07-22T00:11:04.255Z"
+    "lastSeenAt": "2026-07-22T08:16:41.666010",
+    "updatedAt": "2026-07-22T00:17:06.753Z"
   },
   "users": [
     {
       "weiboNickname": "平檀一生",
       "activeDevices": 2,
-      "danmuSent": 4093,
+      "danmuSent": 4193,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 4093,
-      "lastSeenAt": "2026-07-22T08:00:16.102679"
+      "totalSent": 4193,
+      "lastSeenAt": "2026-07-22T08:16:41.666010"
     },
     {
       "weiboNickname": "甜豆的T-hoohoo",
       "activeDevices": 1,
-      "danmuSent": 2700,
+      "danmuSent": 2800,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 2700,
-      "lastSeenAt": "2026-07-22T07:54:46.954052"
+      "totalSent": 2800,
+      "lastSeenAt": "2026-07-22T08:11:50.515355"
     },
     {
       "weiboNickname": "呆呆的可爱多_",
@@ -130,6 +130,17 @@
       "danmuSkipped": 0,
       "totalSent": 100,
       "lastSeenAt": "2026-07-22T02:08:01.274400"
+    },
+    {
+      "weiboNickname": "苦b不额外加糖",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 8,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 8,
+      "lastSeenAt": "2026-07-22T08:16:00.835083"
     }
   ]
 }
