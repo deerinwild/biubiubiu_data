@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-07-22",
   "month": "2026-07",
-  "updatedAt": "2026-07-22T05:39:28.321Z",
+  "updatedAt": "2026-07-22T05:44:52.567Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-22.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-22",
-    "activeUsers": 21,
-    "activeDevices": 25,
-    "danmuSent": 22861,
+    "activeUsers": 22,
+    "activeDevices": 26,
+    "danmuSent": 22962,
     "discussionSent": 7551,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-22T13:38:52.479704",
-    "updatedAt": "2026-07-22T05:39:26.779Z"
+    "lastSeenAt": "2026-07-22T13:39:48.020216",
+    "updatedAt": "2026-07-22T05:44:51.021Z"
   },
   "users": [
     {
@@ -189,13 +189,13 @@
     {
       "weiboNickname": "SICI_D",
       "activeDevices": 1,
-      "danmuSent": 0,
+      "danmuSent": 100,
       "discussionSent": 286,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 286,
-      "lastSeenAt": "2026-07-22T13:22:46.260933"
+      "totalSent": 386,
+      "lastSeenAt": "2026-07-22T13:39:36.034296"
     },
     {
       "weiboNickname": "檀多多给我做饭",
@@ -240,6 +240,17 @@
       "danmuSkipped": 0,
       "totalSent": 38,
       "lastSeenAt": "2026-07-22T11:58:40.554394"
+    },
+    {
+      "weiboNickname": "晨光微暖JCT",
+      "activeDevices": 1,
+      "danmuSent": 1,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1,
+      "lastSeenAt": "2026-07-22T13:39:48.020216"
     },
     {
       "weiboNickname": "多次一口巧克力",
