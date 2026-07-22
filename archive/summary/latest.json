@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-22",
   "month": "2026-07",
-  "updatedAt": "2026-07-22T03:57:00.416Z",
+  "updatedAt": "2026-07-22T04:03:42.809Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-22.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -12,13 +12,13 @@
     "date": "2026-07-22",
     "activeUsers": 19,
     "activeDevices": 23,
-    "danmuSent": 20610,
+    "danmuSent": 20673,
     "discussionSent": 5408,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-22T11:56:38.934204",
-    "updatedAt": "2026-07-22T03:56:58.812Z"
+    "lastSeenAt": "2026-07-22T11:58:40.554394",
+    "updatedAt": "2026-07-22T04:03:40.999Z"
   },
   "users": [
     {
@@ -123,13 +123,13 @@
     {
       "weiboNickname": "DREAM S_Yy",
       "activeDevices": 1,
-      "danmuSent": 717,
+      "danmuSent": 742,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 717,
-      "lastSeenAt": "2026-07-22T11:03:43.842517"
+      "totalSent": 742,
+      "lastSeenAt": "2026-07-22T11:07:49.347871"
     },
     {
       "weiboNickname": "苦b不额外加糖",
@@ -209,6 +209,17 @@
       "lastSeenAt": "2026-07-22T11:37:23.833373"
     },
     {
+      "weiboNickname": "翊风抚柳君似hoo",
+      "activeDevices": 1,
+      "danmuSent": 38,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 38,
+      "lastSeenAt": "2026-07-22T11:58:40.554394"
+    },
+    {
       "weiboNickname": "SICI_D",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -218,17 +229,6 @@
       "danmuSkipped": 0,
       "totalSent": 14,
       "lastSeenAt": "2026-07-22T11:46:28.998939"
-    },
-    {
-      "weiboNickname": "翊风抚柳君似hoo",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 0,
-      "lastSeenAt": "2026-07-22T11:36:02.317491"
     }
   ]
 }
