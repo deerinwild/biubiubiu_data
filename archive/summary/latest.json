@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-22",
   "month": "2026-07",
-  "updatedAt": "2026-07-22T11:10:41.672Z",
+  "updatedAt": "2026-07-22T11:17:52.902Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-22.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -12,24 +12,24 @@
     "date": "2026-07-22",
     "activeUsers": 27,
     "activeDevices": 31,
-    "danmuSent": 35220,
-    "discussionSent": 10903,
+    "danmuSent": 35445,
+    "discussionSent": 10962,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-22T19:08:24.420006",
-    "updatedAt": "2026-07-22T11:10:40.017Z"
+    "lastSeenAt": "2026-07-22T19:16:51.778756",
+    "updatedAt": "2026-07-22T11:17:51.190Z"
   },
   "users": [
     {
       "weiboNickname": "平檀一生",
       "activeDevices": 2,
-      "danmuSent": 8208,
+      "danmuSent": 8252,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 8208,
+      "totalSent": 8252,
       "lastSeenAt": "2026-07-22T18:50:17.270794"
     },
     {
@@ -132,6 +132,17 @@
       "lastSeenAt": "2026-07-22T18:22:14.673534"
     },
     {
+      "weiboNickname": "多次一口巧克力",
+      "activeDevices": 1,
+      "danmuSent": 1400,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1400,
+      "lastSeenAt": "2026-07-22T19:13:54.521995"
+    },
+    {
       "weiboNickname": "DREAM S_Yy",
       "activeDevices": 1,
       "danmuSent": 1329,
@@ -143,17 +154,6 @@
       "lastSeenAt": "2026-07-22T16:36:10.150140"
     },
     {
-      "weiboNickname": "多次一口巧克力",
-      "activeDevices": 1,
-      "danmuSent": 1300,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 1300,
-      "lastSeenAt": "2026-07-22T18:48:45.714797"
-    },
-    {
       "weiboNickname": "晨光微暖JCT",
       "activeDevices": 1,
       "danmuSent": 1097,
@@ -163,6 +163,17 @@
       "danmuSkipped": 0,
       "totalSent": 1097,
       "lastSeenAt": "2026-07-22T18:56:10.755665"
+    },
+    {
+      "weiboNickname": "苦b不额外加糖",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 1087,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1087,
+      "lastSeenAt": "2026-07-22T19:13:19.857204"
     },
     {
       "weiboNickname": "岁月如檀-J15",
@@ -185,17 +196,6 @@
       "danmuSkipped": 0,
       "totalSent": 1041,
       "lastSeenAt": "2026-07-22T16:21:37.450114"
-    },
-    {
-      "weiboNickname": "苦b不额外加糖",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 1028,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 1028,
-      "lastSeenAt": "2026-07-22T19:02:31.122577"
     },
     {
       "weiboNickname": "桃之夭腰2023",
@@ -275,6 +275,17 @@
       "lastSeenAt": "2026-07-22T19:03:14.251070"
     },
     {
+      "weiboNickname": "檀健次我在南宁等你",
+      "activeDevices": 1,
+      "danmuSent": 155,
+      "discussionSent": 90,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 245,
+      "lastSeenAt": "2026-07-22T19:16:51.778756"
+    },
+    {
       "weiboNickname": "檀多多给我做饭",
       "activeDevices": 1,
       "danmuSent": 225,
@@ -286,26 +297,15 @@
       "lastSeenAt": "2026-07-22T09:53:59.560877"
     },
     {
-      "weiboNickname": "檀健次我在南宁等你",
-      "activeDevices": 1,
-      "danmuSent": 113,
-      "discussionSent": 90,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 203,
-      "lastSeenAt": "2026-07-22T19:08:24.420006"
-    },
-    {
       "weiboNickname": "猫猫次客",
       "activeDevices": 1,
-      "danmuSent": 130,
+      "danmuSent": 169,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 130,
-      "lastSeenAt": "2026-07-22T18:07:25.530315"
+      "totalSent": 169,
+      "lastSeenAt": "2026-07-22T18:13:55.637433"
     },
     {
       "weiboNickname": "却雀",
