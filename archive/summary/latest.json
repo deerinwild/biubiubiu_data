@@ -3,34 +3,34 @@
   "app": "biubiubiu_android",
   "date": "2026-07-22",
   "month": "2026-07",
-  "updatedAt": "2026-07-22T00:33:36.905Z",
+  "updatedAt": "2026-07-22T00:39:20.501Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-22.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-22",
-    "activeUsers": 11,
-    "activeDevices": 14,
-    "danmuSent": 14031,
+    "activeUsers": 12,
+    "activeDevices": 15,
+    "danmuSent": 14231,
     "discussionSent": 2354,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-22T08:33:07.128237",
-    "updatedAt": "2026-07-22T00:33:35.128Z"
+    "lastSeenAt": "2026-07-22T08:37:53.227396",
+    "updatedAt": "2026-07-22T00:39:16.736Z"
   },
   "users": [
     {
       "weiboNickname": "平檀一生",
       "activeDevices": 2,
-      "danmuSent": 4193,
+      "danmuSent": 4293,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 4193,
-      "lastSeenAt": "2026-07-22T08:16:41.666010"
+      "totalSent": 4293,
+      "lastSeenAt": "2026-07-22T08:34:02.587068"
     },
     {
       "weiboNickname": "甜豆的T-hoohoo",
@@ -46,13 +46,13 @@
     {
       "weiboNickname": "檀香染身_",
       "activeDevices": 1,
-      "danmuSent": 2349,
+      "danmuSent": 2449,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 2349,
-      "lastSeenAt": "2026-07-22T08:17:13.660723"
+      "totalSent": 2449,
+      "lastSeenAt": "2026-07-22T08:34:57.769751"
     },
     {
       "weiboNickname": "呆呆的可爱多_",
@@ -141,6 +141,17 @@
       "danmuSkipped": 0,
       "totalSent": 8,
       "lastSeenAt": "2026-07-22T08:16:00.835083"
+    },
+    {
+      "weiboNickname": "苍离不语",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 0,
+      "lastSeenAt": "2026-07-22T08:37:53.227396"
     }
   ]
 }
