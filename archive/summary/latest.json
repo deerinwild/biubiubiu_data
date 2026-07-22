@@ -3,45 +3,45 @@
   "app": "biubiubiu_android",
   "date": "2026-07-22",
   "month": "2026-07",
-  "updatedAt": "2026-07-22T03:34:04.194Z",
+  "updatedAt": "2026-07-22T03:40:15.583Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-22.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-22",
-    "activeUsers": 17,
-    "activeDevices": 21,
-    "danmuSent": 19965,
-    "discussionSent": 4965,
+    "activeUsers": 18,
+    "activeDevices": 22,
+    "danmuSent": 20138,
+    "discussionSent": 4993,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-22T11:31:31.633213",
-    "updatedAt": "2026-07-22T03:34:02.718Z"
+    "lastSeenAt": "2026-07-22T11:39:51.178521",
+    "updatedAt": "2026-07-22T03:40:14.129Z"
   },
   "users": [
     {
       "weiboNickname": "平檀一生",
       "activeDevices": 2,
-      "danmuSent": 5527,
+      "danmuSent": 5600,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 5527,
-      "lastSeenAt": "2026-07-22T11:24:01.526594"
+      "totalSent": 5600,
+      "lastSeenAt": "2026-07-22T11:36:20.032147"
     },
     {
       "weiboNickname": "甜豆的T-hoohoo",
       "activeDevices": 1,
-      "danmuSent": 3929,
+      "danmuSent": 4029,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 3929,
-      "lastSeenAt": "2026-07-22T11:23:11.236248"
+      "totalSent": 4029,
+      "lastSeenAt": "2026-07-22T11:39:51.178521"
     },
     {
       "weiboNickname": "檀香染身_",
@@ -201,12 +201,23 @@
       "weiboNickname": "岁月如檀-J15",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 28,
+      "discussionSent": 56,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 28,
-      "lastSeenAt": "2026-07-22T11:29:41.818068"
+      "totalSent": 56,
+      "lastSeenAt": "2026-07-22T11:37:23.833373"
+    },
+    {
+      "weiboNickname": "翊风抚柳君似hoo",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 0,
+      "lastSeenAt": "2026-07-22T11:36:02.317491"
     }
   ]
 }
