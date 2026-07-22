@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-22",
   "month": "2026-07",
-  "updatedAt": "2026-07-22T08:41:14.272Z",
+  "updatedAt": "2026-07-22T08:46:46.050Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-22.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -12,13 +12,13 @@
     "date": "2026-07-22",
     "activeUsers": 25,
     "activeDevices": 29,
-    "danmuSent": 31301,
+    "danmuSent": 31501,
     "discussionSent": 9552,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-22T16:41:08.066707",
-    "updatedAt": "2026-07-22T08:41:12.373Z"
+    "lastSeenAt": "2026-07-22T16:42:58.843352",
+    "updatedAt": "2026-07-22T08:46:44.164Z"
   },
   "users": [
     {
@@ -154,6 +154,17 @@
       "lastSeenAt": "2026-07-22T16:20:17.984937"
     },
     {
+      "weiboNickname": "晨光微暖JCT",
+      "activeDevices": 1,
+      "danmuSent": 1001,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1001,
+      "lastSeenAt": "2026-07-22T16:41:27.481666"
+    },
+    {
       "weiboNickname": "次甜柿子_一巡全勤",
       "activeDevices": 1,
       "danmuSent": 1000,
@@ -176,15 +187,15 @@
       "lastSeenAt": "2026-07-22T15:41:27.185349"
     },
     {
-      "weiboNickname": "晨光微暖JCT",
+      "weiboNickname": "多次一口巧克力",
       "activeDevices": 1,
-      "danmuSent": 901,
+      "danmuSent": 800,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 901,
-      "lastSeenAt": "2026-07-22T16:23:33.797859"
+      "totalSent": 800,
+      "lastSeenAt": "2026-07-22T16:42:58.843352"
     },
     {
       "weiboNickname": "檀了颗糖",
@@ -207,17 +218,6 @@
       "danmuSkipped": 0,
       "totalSent": 728,
       "lastSeenAt": "2026-07-22T11:21:15.450125"
-    },
-    {
-      "weiboNickname": "多次一口巧克力",
-      "activeDevices": 1,
-      "danmuSent": 700,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 700,
-      "lastSeenAt": "2026-07-22T16:18:14.064336"
     },
     {
       "weiboNickname": "糖千晗",
