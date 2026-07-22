@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-07-22",
   "month": "2026-07",
-  "updatedAt": "2026-07-22T01:17:38.955Z",
+  "updatedAt": "2026-07-22T01:23:27.813Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-22.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-22",
-    "activeUsers": 12,
-    "activeDevices": 15,
-    "danmuSent": 14937,
+    "activeUsers": 13,
+    "activeDevices": 16,
+    "danmuSent": 15070,
     "discussionSent": 2913,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-22T09:12:34.595132",
-    "updatedAt": "2026-07-22T01:17:37.491Z"
+    "lastSeenAt": "2026-07-22T09:23:15.066452",
+    "updatedAt": "2026-07-22T01:23:26.089Z"
   },
   "users": [
     {
@@ -35,13 +35,13 @@
     {
       "weiboNickname": "甜豆的T-hoohoo",
       "activeDevices": 1,
-      "danmuSent": 3100,
+      "danmuSent": 3229,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 3100,
-      "lastSeenAt": "2026-07-22T09:01:39.237122"
+      "totalSent": 3229,
+      "lastSeenAt": "2026-07-22T09:23:15.066452"
     },
     {
       "weiboNickname": "檀香染身_",
@@ -152,6 +152,17 @@
       "danmuSkipped": 0,
       "totalSent": 59,
       "lastSeenAt": "2026-07-22T09:12:34.595132"
+    },
+    {
+      "weiboNickname": "把太阳装进枕头里",
+      "activeDevices": 1,
+      "danmuSent": 4,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 4,
+      "lastSeenAt": "2026-07-22T09:20:31.642437"
     }
   ]
 }
