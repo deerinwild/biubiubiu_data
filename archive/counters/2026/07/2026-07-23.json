@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "updatedAt": "2026-07-23T03:20:01.048Z",
+  "updatedAt": "2026-07-23T03:25:28.817Z",
   "users": {
     "呆呆的可爱多_": {
       "weiboNickname": "呆呆的可爱多_",
@@ -115,22 +115,22 @@
       "devices": {
         "9c8d07f5482e369da0c15ceca29e3ddbeddea9fd008a806ea92c89d55f8b0c30": {
           "deviceHash": "9c8d07f5482e",
-          "danmuSent": 2848,
+          "danmuSent": 2948,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-23T11:06:21.081891",
+          "lastSeenAt": "2026-07-23T11:23:14.685153",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 2848,
+      "danmuSent": 2948,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-23T11:06:21.081891"
+      "lastSeenAt": "2026-07-23T11:23:14.685153"
     },
     "Sarah猫小咪": {
       "weiboNickname": "Sarah猫小咪",
@@ -537,6 +537,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-07-23T13:16:50.514201"
+    },
+    "岁月如檀-J15": {
+      "weiboNickname": "岁月如檀-J15",
+      "devices": {
+        "0c2137dd1fb732762906a65b92c700756b1908943307e80fda5bb3b32ed3c9d3": {
+          "deviceHash": "0c2137dd1fb7",
+          "danmuSent": 0,
+          "discussionSent": 88,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-23T11:20:50.116574",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 88,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-07-23T11:20:50.116574"
     }
   }
 }
