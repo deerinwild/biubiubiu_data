@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-07-23",
   "month": "2026-07",
-  "updatedAt": "2026-07-23T09:53:54.620Z",
+  "updatedAt": "2026-07-23T09:59:34.002Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-23.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-23",
-    "activeUsers": 30,
-    "activeDevices": 34,
-    "danmuSent": 31757,
-    "discussionSent": 8554,
+    "activeUsers": 31,
+    "activeDevices": 35,
+    "danmuSent": 31857,
+    "discussionSent": 8743,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-23T17:51:49.876829",
-    "updatedAt": "2026-07-23T09:53:52.174Z"
+    "lastSeenAt": "2026-07-23T17:58:54.943494",
+    "updatedAt": "2026-07-23T09:59:32.303Z"
   },
   "users": [
     {
@@ -69,23 +69,23 @@
       "weiboNickname": "狸小翎",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 2670,
+      "discussionSent": 2770,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 2670,
-      "lastSeenAt": "2026-07-23T17:29:37.399494"
+      "totalSent": 2770,
+      "lastSeenAt": "2026-07-23T17:58:54.943494"
     },
     {
       "weiboNickname": "檀檀颜颜",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 1965,
+      "discussionSent": 2054,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 1965,
-      "lastSeenAt": "2026-07-23T17:36:25.416328"
+      "totalSent": 2054,
+      "lastSeenAt": "2026-07-23T17:57:24.606303"
     },
     {
       "weiboNickname": "Sarah猫小咪",
@@ -306,6 +306,17 @@
       "danmuSkipped": 0,
       "totalSent": 126,
       "lastSeenAt": "2026-07-23T15:06:27.829565"
+    },
+    {
+      "weiboNickname": "猫猫次客",
+      "activeDevices": 1,
+      "danmuSent": 100,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 100,
+      "lastSeenAt": "2026-07-23T17:54:18.979032"
     },
     {
       "weiboNickname": "檀多多给我做饭",
