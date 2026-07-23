@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-23",
   "month": "2026-07",
-  "updatedAt": "2026-07-23T11:27:05.013Z",
+  "updatedAt": "2026-07-23T11:32:36.263Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-23.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -12,13 +12,13 @@
     "date": "2026-07-23",
     "activeUsers": 32,
     "activeDevices": 36,
-    "danmuSent": 34540,
-    "discussionSent": 9172,
+    "danmuSent": 34553,
+    "discussionSent": 9298,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-23T19:26:06.759751",
-    "updatedAt": "2026-07-23T11:27:03.305Z"
+    "lastSeenAt": "2026-07-23T19:30:50.882038",
+    "updatedAt": "2026-07-23T11:32:34.600Z"
   },
   "users": [
     {
@@ -211,13 +211,13 @@
     {
       "weiboNickname": "-TL檀小吉JC-",
       "activeDevices": 1,
-      "danmuSent": 547,
+      "danmuSent": 560,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 547,
-      "lastSeenAt": "2026-07-23T19:01:57.296071"
+      "totalSent": 560,
+      "lastSeenAt": "2026-07-23T19:05:12.281748"
     },
     {
       "weiboNickname": "半翅蝴蝶",
@@ -286,6 +286,17 @@
       "lastSeenAt": "2026-07-23T15:02:47.078382"
     },
     {
+      "weiboNickname": "桃之夭腰2023",
+      "activeDevices": 1,
+      "danmuSent": 127,
+      "discussionSent": 100,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 227,
+      "lastSeenAt": "2026-07-23T19:30:50.882038"
+    },
+    {
       "weiboNickname": "忻忻年年大吉祥",
       "activeDevices": 1,
       "danmuSent": 194,
@@ -306,17 +317,6 @@
       "danmuSkipped": 0,
       "totalSent": 187,
       "lastSeenAt": "2026-07-23T11:05:55.263624"
-    },
-    {
-      "weiboNickname": "桃之夭腰2023",
-      "activeDevices": 1,
-      "danmuSent": 127,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 127,
-      "lastSeenAt": "2026-07-23T19:03:21.826388"
     },
     {
       "weiboNickname": "檀来财运",
@@ -341,6 +341,17 @@
       "lastSeenAt": "2026-07-23T08:20:43.519346"
     },
     {
+      "weiboNickname": "海伦202301",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 26,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 26,
+      "lastSeenAt": "2026-07-23T19:28:58.303875"
+    },
+    {
       "weiboNickname": "穿越月光之境",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -361,17 +372,6 @@
       "danmuSkipped": 0,
       "totalSent": 0,
       "lastSeenAt": "2026-07-23T13:33:12.028818"
-    },
-    {
-      "weiboNickname": "海伦202301",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 0,
-      "lastSeenAt": "2026-07-23T19:26:06.759751"
     }
   ]
 }
