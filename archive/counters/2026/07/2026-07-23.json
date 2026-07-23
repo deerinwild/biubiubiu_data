@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "updatedAt": "2026-07-23T02:30:51.845Z",
+  "updatedAt": "2026-07-23T02:36:25.753Z",
   "users": {
     "呆呆的可爱多_": {
       "weiboNickname": "呆呆的可爱多_",
@@ -115,22 +115,22 @@
       "devices": {
         "9c8d07f5482e369da0c15ceca29e3ddbeddea9fd008a806ea92c89d55f8b0c30": {
           "deviceHash": "9c8d07f5482e",
-          "danmuSent": 2548,
+          "danmuSent": 2648,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-23T10:15:59.661626",
+          "lastSeenAt": "2026-07-23T10:32:48.447383",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 2548,
+      "danmuSent": 2648,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-23T10:15:59.661626"
+      "lastSeenAt": "2026-07-23T10:32:48.447383"
     },
     "Sarah猫小咪": {
       "weiboNickname": "Sarah猫小咪",
@@ -313,22 +313,22 @@
       "devices": {
         "5f0e4008f953614ed494f7a42d5a7d510d09e1751307949e59eee5f76c1b1358": {
           "deviceHash": "5f0e4008f953",
-          "danmuSent": 300,
+          "danmuSent": 400,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-23T10:07:35.581516",
+          "lastSeenAt": "2026-07-23T10:32:21.785320",
           "appVersion": "biubiubiu1.4"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 300,
+      "danmuSent": 400,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-23T10:07:35.581516"
+      "lastSeenAt": "2026-07-23T10:32:21.785320"
     },
     "苍离不语": {
       "weiboNickname": "苍离不语",
@@ -461,6 +461,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-07-23T09:51:30.885135"
+    },
+    "檀来财运": {
+      "weiboNickname": "檀来财运",
+      "devices": {
+        "f48b5459f5b98d6d8492846357d0bdba976db2011f0b42dc834c9dd429566d51": {
+          "deviceHash": "f48b5459f5b9",
+          "danmuSent": 0,
+          "discussionSent": 58,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-23T10:31:27.890594",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 58,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-07-23T10:31:27.890594"
     }
   }
 }
