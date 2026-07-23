@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-23",
   "month": "2026-07",
-  "updatedAt": "2026-07-23T08:07:35.755Z",
+  "updatedAt": "2026-07-23T08:13:10.442Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-23.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -12,13 +12,13 @@
     "date": "2026-07-23",
     "activeUsers": 28,
     "activeDevices": 31,
-    "danmuSent": 28374,
-    "discussionSent": 7437,
+    "danmuSent": 28375,
+    "discussionSent": 7555,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-23T16:06:43.599407",
-    "updatedAt": "2026-07-23T08:07:34.106Z"
+    "lastSeenAt": "2026-07-23T16:10:24.131306",
+    "updatedAt": "2026-07-23T08:13:08.749Z"
   },
   "users": [
     {
@@ -69,12 +69,12 @@
       "weiboNickname": "狸小翎",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 2335,
+      "discussionSent": 2353,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 2335,
-      "lastSeenAt": "2026-07-23T16:03:19.058306"
+      "totalSent": 2353,
+      "lastSeenAt": "2026-07-23T16:09:57.987546"
     },
     {
       "weiboNickname": "Sarah猫小咪",
@@ -165,6 +165,17 @@
       "lastSeenAt": "2026-07-23T10:51:44.831287"
     },
     {
+      "weiboNickname": "苍离不语",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 680,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 680,
+      "lastSeenAt": "2026-07-23T16:07:45.855616"
+    },
+    {
       "weiboNickname": "晨光微暖JCT",
       "activeDevices": 1,
       "danmuSent": 628,
@@ -174,17 +185,6 @@
       "danmuSkipped": 0,
       "totalSent": 628,
       "lastSeenAt": "2026-07-23T15:37:58.139292"
-    },
-    {
-      "weiboNickname": "苍离不语",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 580,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 580,
-      "lastSeenAt": "2026-07-23T15:43:12.129260"
     },
     {
       "weiboNickname": "半翅蝴蝶",
@@ -299,13 +299,13 @@
     {
       "weiboNickname": "次甜柿子_一巡全勤",
       "activeDevices": 1,
-      "danmuSent": 1,
+      "danmuSent": 2,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 1,
-      "lastSeenAt": "2026-07-23T16:06:43.599407"
+      "totalSent": 2,
+      "lastSeenAt": "2026-07-23T16:10:24.131306"
     },
     {
       "weiboNickname": "穿越月光之境",
