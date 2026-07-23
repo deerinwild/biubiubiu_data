@@ -3,34 +3,34 @@
   "app": "biubiubiu_android",
   "date": "2026-07-24",
   "month": "2026-07",
-  "updatedAt": "2026-07-23T18:28:06.696Z",
+  "updatedAt": "2026-07-23T18:33:42.031Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-24.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-24",
-    "activeUsers": 9,
-    "activeDevices": 11,
-    "danmuSent": 5055,
+    "activeUsers": 10,
+    "activeDevices": 12,
+    "danmuSent": 5255,
     "discussionSent": 1,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-24T02:24:43.049551",
-    "updatedAt": "2026-07-23T18:28:04.928Z"
+    "lastSeenAt": "2026-07-24T02:30:52.465770",
+    "updatedAt": "2026-07-23T18:33:40.394Z"
   },
   "users": [
     {
       "weiboNickname": "次甜柿子_一巡全勤",
       "activeDevices": 1,
-      "danmuSent": 1100,
+      "danmuSent": 1200,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 1100,
-      "lastSeenAt": "2026-07-24T02:18:17.237456"
+      "totalSent": 1200,
+      "lastSeenAt": "2026-07-24T02:30:52.465770"
     },
     {
       "weiboNickname": "平檀一生",
@@ -46,13 +46,13 @@
     {
       "weiboNickname": "甜豆的T-hoohoo",
       "activeDevices": 1,
-      "danmuSent": 800,
+      "danmuSent": 900,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 800,
-      "lastSeenAt": "2026-07-24T02:14:00.215705"
+      "totalSent": 900,
+      "lastSeenAt": "2026-07-24T02:30:49.645203"
     },
     {
       "weiboNickname": "多多又man又healthy",
@@ -119,6 +119,17 @@
       "danmuSkipped": 0,
       "totalSent": 150,
       "lastSeenAt": "2026-07-24T01:11:39.020973"
+    },
+    {
+      "weiboNickname": "6905777516",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 0,
+      "lastSeenAt": "2026-07-24T02:30:18.852747"
     }
   ]
 }
