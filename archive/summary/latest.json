@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-07-23",
   "month": "2026-07",
-  "updatedAt": "2026-07-23T01:30:51.273Z",
+  "updatedAt": "2026-07-23T01:41:37.001Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-23.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-23",
-    "activeUsers": 17,
-    "activeDevices": 19,
-    "danmuSent": 17346,
+    "activeUsers": 18,
+    "activeDevices": 20,
+    "danmuSent": 17448,
     "discussionSent": 2574,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-23T09:29:51.891237",
-    "updatedAt": "2026-07-23T01:30:49.515Z"
+    "lastSeenAt": "2026-07-23T09:37:28.042452",
+    "updatedAt": "2026-07-23T01:41:35.367Z"
   },
   "users": [
     {
@@ -123,13 +123,13 @@
     {
       "weiboNickname": "糖千晗",
       "activeDevices": 1,
-      "danmuSent": 396,
+      "danmuSent": 496,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 396,
-      "lastSeenAt": "2026-07-23T09:10:38.401680"
+      "totalSent": 496,
+      "lastSeenAt": "2026-07-23T09:36:32.420482"
     },
     {
       "weiboNickname": "晨光微暖JCT",
@@ -207,6 +207,17 @@
       "danmuSkipped": 0,
       "totalSent": 60,
       "lastSeenAt": "2026-07-23T09:20:32.197478"
+    },
+    {
+      "weiboNickname": "桃之夭腰2023",
+      "activeDevices": 1,
+      "danmuSent": 2,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 2,
+      "lastSeenAt": "2026-07-23T09:37:28.042452"
     }
   ]
 }
