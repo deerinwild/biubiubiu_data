@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-07-24",
   "month": "2026-07",
-  "updatedAt": "2026-07-23T17:20:27.147Z",
+  "updatedAt": "2026-07-23T17:26:04.360Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-24.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-24",
-    "activeUsers": 8,
-    "activeDevices": 10,
-    "danmuSent": 2567,
-    "discussionSent": 0,
+    "activeUsers": 9,
+    "activeDevices": 11,
+    "danmuSent": 2667,
+    "discussionSent": 1,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-24T01:17:35.823583",
-    "updatedAt": "2026-07-23T17:20:25.385Z"
+    "lastSeenAt": "2026-07-24T01:23:41.181244",
+    "updatedAt": "2026-07-23T17:26:02.651Z"
   },
   "users": [
     {
@@ -33,6 +33,17 @@
       "lastSeenAt": "2026-07-24T01:15:25.390346"
     },
     {
+      "weiboNickname": "甜豆的T-hoohoo",
+      "activeDevices": 1,
+      "danmuSent": 500,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 500,
+      "lastSeenAt": "2026-07-24T01:23:41.181244"
+    },
+    {
       "weiboNickname": "平檀一生",
       "activeDevices": 2,
       "danmuSent": 488,
@@ -42,17 +53,6 @@
       "danmuSkipped": 0,
       "totalSent": 488,
       "lastSeenAt": "2026-07-24T01:17:35.823583"
-    },
-    {
-      "weiboNickname": "甜豆的T-hoohoo",
-      "activeDevices": 1,
-      "danmuSent": 400,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 400,
-      "lastSeenAt": "2026-07-24T01:07:01.171222"
     },
     {
       "weiboNickname": "多多又man又healthy",
@@ -108,6 +108,17 @@
       "danmuSkipped": 0,
       "totalSent": 100,
       "lastSeenAt": "2026-07-24T00:51:21.561214"
+    },
+    {
+      "weiboNickname": "Sarah猫小咪",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 1,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1,
+      "lastSeenAt": "2026-07-24T01:21:06.999345"
     }
   ]
 }
