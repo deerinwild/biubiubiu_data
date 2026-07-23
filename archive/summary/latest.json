@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-07-24",
   "month": "2026-07",
-  "updatedAt": "2026-07-23T16:08:56.044Z",
+  "updatedAt": "2026-07-23T16:17:30.361Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-24.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-24",
-    "activeUsers": 2,
-    "activeDevices": 2,
-    "danmuSent": 198,
+    "activeUsers": 4,
+    "activeDevices": 4,
+    "danmuSent": 398,
     "discussionSent": 0,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
     "lastSeenAt": "2026-07-24T01:11:39.020973",
-    "updatedAt": "2026-07-23T16:08:54.484Z"
+    "updatedAt": "2026-07-23T16:17:28.613Z"
   },
   "users": [
     {
@@ -31,6 +31,28 @@
       "danmuSkipped": 0,
       "totalSent": 150,
       "lastSeenAt": "2026-07-24T01:11:39.020973"
+    },
+    {
+      "weiboNickname": "次甜柿子_一巡全勤",
+      "activeDevices": 1,
+      "danmuSent": 100,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 100,
+      "lastSeenAt": "2026-07-24T00:12:28.595210"
+    },
+    {
+      "weiboNickname": "甜豆的T-hoohoo",
+      "activeDevices": 1,
+      "danmuSent": 100,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 100,
+      "lastSeenAt": "2026-07-24T00:16:45.951337"
     },
     {
       "weiboNickname": "平檀一生",
