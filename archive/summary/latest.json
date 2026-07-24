@@ -3,34 +3,34 @@
   "app": "biubiubiu_android",
   "date": "2026-07-24",
   "month": "2026-07",
-  "updatedAt": "2026-07-23T23:54:48.752Z",
+  "updatedAt": "2026-07-24T00:04:45.371Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-24.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-24",
-    "activeUsers": 13,
-    "activeDevices": 15,
-    "danmuSent": 16139,
+    "activeUsers": 14,
+    "activeDevices": 16,
+    "danmuSent": 16346,
     "discussionSent": 931,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
     "lastSeenAt": "2026-07-24T09:50:31.273450",
-    "updatedAt": "2026-07-23T23:54:47.319Z"
+    "updatedAt": "2026-07-24T00:04:43.938Z"
   },
   "users": [
     {
       "weiboNickname": "平檀一生",
       "activeDevices": 2,
-      "danmuSent": 3813,
+      "danmuSent": 3920,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 3813,
-      "lastSeenAt": "2026-07-24T07:45:31.338457"
+      "totalSent": 3920,
+      "lastSeenAt": "2026-07-24T08:02:29.192978"
     },
     {
       "weiboNickname": "次甜柿子_一巡全勤",
@@ -90,13 +90,13 @@
     {
       "weiboNickname": "幸运小羔羊",
       "activeDevices": 1,
-      "danmuSent": 966,
+      "danmuSent": 1066,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 966,
-      "lastSeenAt": "2026-07-24T07:31:57.324588"
+      "totalSent": 1066,
+      "lastSeenAt": "2026-07-24T08:00:15.858148"
     },
     {
       "weiboNickname": "狸小翎",
@@ -163,6 +163,17 @@
       "danmuSkipped": 0,
       "totalSent": 0,
       "lastSeenAt": "2026-07-24T02:30:18.852747"
+    },
+    {
+      "weiboNickname": "明天也想见到你-对视三次版",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 0,
+      "lastSeenAt": "2026-07-24T07:59:45.926915"
     }
   ]
 }
