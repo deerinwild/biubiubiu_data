@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "updatedAt": "2026-07-24T11:43:07.246Z",
+  "updatedAt": "2026-07-24T11:48:52.484Z",
   "users": {
     "Coisini_HooHoo": {
       "weiboNickname": "Coisini_HooHoo",
@@ -565,22 +565,22 @@
       "devices": {
         "983451b3f43ed51b5b23ac028984f64e28bddfba093e5011c5cddc59c9ab4610": {
           "deviceHash": "983451b3f43e",
-          "danmuSent": 2139,
+          "danmuSent": 2217,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-15T23:40:22.854849",
+          "lastSeenAt": "2026-07-15T23:59:54.736534",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 2139,
+      "danmuSent": 2217,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-15T23:40:22.854849"
+      "lastSeenAt": "2026-07-15T23:59:54.736534"
     },
     "却雀": {
       "weiboNickname": "却雀",
@@ -1681,6 +1681,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-07-15T11:02:29.301363"
+    },
+    "仙女Pink爱种草": {
+      "weiboNickname": "仙女Pink爱种草",
+      "devices": {
+        "c6299c6029890070aba7b4b8159975dff5d22a86e8d6943fe8be58593f02e10d": {
+          "deviceHash": "c6299c602989",
+          "danmuSent": 0,
+          "discussionSent": 35,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-15T00:25:35.665060",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 35,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-07-15T00:25:35.665060"
     }
   }
 }
