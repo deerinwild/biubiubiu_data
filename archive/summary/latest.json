@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-07-24",
   "month": "2026-07",
-  "updatedAt": "2026-07-24T10:16:51.577Z",
+  "updatedAt": "2026-07-24T10:22:18.608Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-24.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-24",
-    "activeUsers": 30,
-    "activeDevices": 36,
+    "activeUsers": 31,
+    "activeDevices": 37,
     "danmuSent": 38096,
-    "discussionSent": 5402,
+    "discussionSent": 5502,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-24T18:11:59.141550",
-    "updatedAt": "2026-07-24T10:16:49.901Z"
+    "lastSeenAt": "2026-07-24T18:21:50.652515",
+    "updatedAt": "2026-07-24T10:22:16.946Z"
   },
   "users": [
     {
@@ -121,6 +121,17 @@
       "lastSeenAt": "2026-07-24T13:40:50.022195"
     },
     {
+      "weiboNickname": "苍离不语",
+      "activeDevices": 3,
+      "danmuSent": 0,
+      "discussionSent": 1100,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1100,
+      "lastSeenAt": "2026-07-24T18:21:50.652515"
+    },
+    {
       "weiboNickname": "岁月如檀-J15",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -130,17 +141,6 @@
       "danmuSkipped": 0,
       "totalSent": 1047,
       "lastSeenAt": "2026-07-24T16:07:37.741503"
-    },
-    {
-      "weiboNickname": "苍离不语",
-      "activeDevices": 3,
-      "danmuSent": 0,
-      "discussionSent": 1000,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 1000,
-      "lastSeenAt": "2026-07-24T17:59:57.195245"
     },
     {
       "weiboNickname": "DREAM S_Yy",
@@ -328,6 +328,17 @@
       "danmuSkipped": 0,
       "totalSent": 0,
       "lastSeenAt": "2026-07-24T02:30:18.852747"
+    },
+    {
+      "weiboNickname": "见面吧丶HOOHOO",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 0,
+      "lastSeenAt": "2026-07-24T18:16:57.286353"
     },
     {
       "weiboNickname": "明天也想见到你-对视三次版",
