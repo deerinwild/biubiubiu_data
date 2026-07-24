@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "updatedAt": "2026-07-24T10:46:44.589Z",
+  "updatedAt": "2026-07-24T10:52:09.846Z",
   "users": {
     "Sarah猫小咪": {
       "weiboNickname": "Sarah猫小咪",
@@ -749,6 +749,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-07-21T23:21:39.055760"
+    },
+    "千结旋律控_rsw": {
+      "weiboNickname": "千结旋律控_rsw",
+      "devices": {
+        "c1e784c3b724023b0b70863478e05484ee1e915cae87ef83edde20475ce73483": {
+          "deviceHash": "c1e784c3b724",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-21T16:49:33.305106",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-07-21T16:49:33.305106"
     }
   }
 }
