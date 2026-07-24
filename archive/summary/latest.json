@@ -3,34 +3,34 @@
   "app": "biubiubiu_android",
   "date": "2026-07-24",
   "month": "2026-07",
-  "updatedAt": "2026-07-24T10:05:00.909Z",
+  "updatedAt": "2026-07-24T10:16:51.577Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-24.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-24",
-    "activeUsers": 29,
-    "activeDevices": 35,
-    "danmuSent": 37996,
-    "discussionSent": 5302,
+    "activeUsers": 30,
+    "activeDevices": 36,
+    "danmuSent": 38096,
+    "discussionSent": 5402,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-24T18:02:50.059489",
-    "updatedAt": "2026-07-24T10:04:59.198Z"
+    "lastSeenAt": "2026-07-24T18:11:59.141550",
+    "updatedAt": "2026-07-24T10:16:49.901Z"
   },
   "users": [
     {
       "weiboNickname": "平檀一生",
       "activeDevices": 2,
-      "danmuSent": 7638,
+      "danmuSent": 7738,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 7638,
-      "lastSeenAt": "2026-07-24T17:58:43.036150"
+      "totalSent": 7738,
+      "lastSeenAt": "2026-07-24T18:11:59.141550"
     },
     {
       "weiboNickname": "次甜柿子_一巡全勤",
@@ -284,6 +284,17 @@
       "danmuSkipped": 0,
       "totalSent": 100,
       "lastSeenAt": "2026-07-24T16:17:57.600628"
+    },
+    {
+      "weiboNickname": "次次MOO-CJNJC",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 100,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 100,
+      "lastSeenAt": "2026-07-24T18:11:50.325266"
     },
     {
       "weiboNickname": "檀香染身_",
