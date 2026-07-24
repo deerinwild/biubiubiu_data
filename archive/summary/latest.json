@@ -3,34 +3,34 @@
   "app": "biubiubiu_android",
   "date": "2026-07-25",
   "month": "2026-07",
-  "updatedAt": "2026-07-24T16:41:13.983Z",
+  "updatedAt": "2026-07-24T16:51:47.564Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-25.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-25",
-    "activeUsers": 11,
-    "activeDevices": 12,
-    "danmuSent": 489,
-    "discussionSent": 593,
+    "activeUsers": 13,
+    "activeDevices": 14,
+    "danmuSent": 789,
+    "discussionSent": 643,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
     "lastSeenAt": "2026-07-25T01:07:08.330337",
-    "updatedAt": "2026-07-24T16:41:11.418Z"
+    "updatedAt": "2026-07-24T16:51:45.227Z"
   },
   "users": [
     {
       "weiboNickname": "平檀一生",
       "activeDevices": 2,
-      "danmuSent": 300,
+      "danmuSent": 400,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 300,
-      "lastSeenAt": "2026-07-25T00:33:26.826121"
+      "totalSent": 400,
+      "lastSeenAt": "2026-07-25T00:50:13.236497"
     },
     {
       "weiboNickname": "多多又man又healthy",
@@ -42,6 +42,17 @@
       "danmuSkipped": 0,
       "totalSent": 189,
       "lastSeenAt": "2026-07-25T00:34:57.328201"
+    },
+    {
+      "weiboNickname": "环环灬小炭火JC-T",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 150,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 150,
+      "lastSeenAt": "2026-07-25T00:44:47.752155"
     },
     {
       "weiboNickname": "忻忻年年大吉祥",
@@ -77,15 +88,26 @@
       "lastSeenAt": "2026-07-25T00:30:26.274238"
     },
     {
-      "weiboNickname": "环环灬小炭火JC-T",
+      "weiboNickname": "多多阿酸多多",
       "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 100,
+      "danmuSent": 100,
+      "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "totalSent": 100,
-      "lastSeenAt": "2026-07-25T00:31:30.066896"
+      "lastSeenAt": "2026-07-25T00:48:39.492076"
+    },
+    {
+      "weiboNickname": "世界如此美好1988",
+      "activeDevices": 1,
+      "danmuSent": 100,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 100,
+      "lastSeenAt": "2026-07-25T00:47:49.300926"
     },
     {
       "weiboNickname": "Glory-JCT",
