@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-24",
   "month": "2026-07",
-  "updatedAt": "2026-07-24T11:20:09.078Z",
+  "updatedAt": "2026-07-24T11:25:46.640Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-24.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -11,14 +11,14 @@
   "totals": {
     "date": "2026-07-24",
     "activeUsers": 37,
-    "activeDevices": 43,
-    "danmuSent": 40009,
-    "discussionSent": 6509,
+    "activeDevices": 44,
+    "danmuSent": 40038,
+    "discussionSent": 6628,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-24T19:19:09.014191",
-    "updatedAt": "2026-07-24T11:20:07.410Z"
+    "lastSeenAt": "2026-07-24T19:24:46.981561",
+    "updatedAt": "2026-07-24T11:25:44.649Z"
   },
   "users": [
     {
@@ -198,6 +198,17 @@
       "lastSeenAt": "2026-07-24T19:06:01.351842"
     },
     {
+      "weiboNickname": "猫猫次客",
+      "activeDevices": 1,
+      "danmuSent": 655,
+      "discussionSent": 200,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 855,
+      "lastSeenAt": "2026-07-24T19:24:46.981561"
+    },
+    {
       "weiboNickname": "把太阳装进枕头里",
       "activeDevices": 2,
       "danmuSent": 814,
@@ -207,17 +218,6 @@
       "danmuSkipped": 0,
       "totalSent": 814,
       "lastSeenAt": "2026-07-24T14:53:10.123957"
-    },
-    {
-      "weiboNickname": "猫猫次客",
-      "activeDevices": 1,
-      "danmuSent": 655,
-      "discussionSent": 100,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 755,
-      "lastSeenAt": "2026-07-24T18:59:56.322477"
     },
     {
       "weiboNickname": "檀了颗糖",
@@ -265,14 +265,14 @@
     },
     {
       "weiboNickname": "次次皆如初见",
-      "activeDevices": 1,
-      "danmuSent": 185,
+      "activeDevices": 2,
+      "danmuSent": 186,
       "discussionSent": 100,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 285,
-      "lastSeenAt": "2026-07-24T19:14:35.465614"
+      "totalSent": 286,
+      "lastSeenAt": "2026-07-24T19:21:38.497780"
     },
     {
       "weiboNickname": "环环灬小炭火JC-T",
@@ -297,6 +297,28 @@
       "lastSeenAt": "2026-07-24T13:07:54.432122"
     },
     {
+      "weiboNickname": "檀来财运",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 119,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 119,
+      "lastSeenAt": "2026-07-24T19:20:41.054382"
+    },
+    {
+      "weiboNickname": "檀健次我在南宁等你",
+      "activeDevices": 1,
+      "danmuSent": 113,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 113,
+      "lastSeenAt": "2026-07-24T19:22:50.890389"
+    },
+    {
       "weiboNickname": "多多阿酸多多",
       "activeDevices": 1,
       "danmuSent": 100,
@@ -306,17 +328,6 @@
       "danmuSkipped": 0,
       "totalSent": 100,
       "lastSeenAt": "2026-07-24T19:16:00.863405"
-    },
-    {
-      "weiboNickname": "檀来财运",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 100,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 100,
-      "lastSeenAt": "2026-07-24T19:17:24.155292"
     },
     {
       "weiboNickname": "檀香染身_",
@@ -339,17 +350,6 @@
       "danmuSkipped": 0,
       "totalSent": 88,
       "lastSeenAt": "2026-07-24T18:01:37.576065"
-    },
-    {
-      "weiboNickname": "檀健次我在南宁等你",
-      "activeDevices": 1,
-      "danmuSent": 85,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 85,
-      "lastSeenAt": "2026-07-24T19:18:10.498155"
     },
     {
       "weiboNickname": "6905777516",
@@ -415,7 +415,7 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "totalSent": 0,
-      "lastSeenAt": "2026-07-24T19:19:09.014191"
+      "lastSeenAt": "2026-07-24T19:23:57.269578"
     },
     {
       "weiboNickname": "心心呐呐",
