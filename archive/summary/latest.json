@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-25",
   "month": "2026-07",
-  "updatedAt": "2026-07-24T17:45:43.488Z",
+  "updatedAt": "2026-07-24T17:51:20.514Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-25.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -11,14 +11,14 @@
   "totals": {
     "date": "2026-07-25",
     "activeUsers": 13,
-    "activeDevices": 14,
+    "activeDevices": 15,
     "danmuSent": 1789,
-    "discussionSent": 1255,
+    "discussionSent": 1448,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-25T01:40:54.730759",
-    "updatedAt": "2026-07-24T17:45:41.664Z"
+    "lastSeenAt": "2026-07-25T01:51:03.073019",
+    "updatedAt": "2026-07-24T17:51:18.967Z"
   },
   "users": [
     {
@@ -45,25 +45,36 @@
     },
     {
       "weiboNickname": "呆呆的可爱多_",
-      "activeDevices": 1,
+      "activeDevices": 2,
       "danmuSent": 0,
-      "discussionSent": 333,
+      "discussionSent": 338,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 333,
-      "lastSeenAt": "2026-07-25T01:35:11.124567"
+      "totalSent": 338,
+      "lastSeenAt": "2026-07-25T01:50:55.100720"
     },
     {
       "weiboNickname": "环环灬小炭火JC-T",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 229,
+      "discussionSent": 317,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 229,
-      "lastSeenAt": "2026-07-25T01:13:54.104328"
+      "totalSent": 317,
+      "lastSeenAt": "2026-07-25T01:48:58.213027"
+    },
+    {
+      "weiboNickname": "檀檀颜颜",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 300,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 300,
+      "lastSeenAt": "2026-07-25T01:51:03.073019"
     },
     {
       "weiboNickname": "多多阿酸多多",
@@ -86,17 +97,6 @@
       "danmuSkipped": 0,
       "totalSent": 200,
       "lastSeenAt": "2026-07-25T01:35:54.515208"
-    },
-    {
-      "weiboNickname": "檀檀颜颜",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 200,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 200,
-      "lastSeenAt": "2026-07-25T01:26:16.494890"
     },
     {
       "weiboNickname": "Glory-JCT",
