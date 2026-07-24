@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-07-24",
   "month": "2026-07",
-  "updatedAt": "2026-07-24T06:56:18.629Z",
+  "updatedAt": "2026-07-24T07:01:59.386Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-24.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-24",
-    "activeUsers": 24,
-    "activeDevices": 28,
-    "danmuSent": 30721,
-    "discussionSent": 3593,
+    "activeUsers": 25,
+    "activeDevices": 29,
+    "danmuSent": 31021,
+    "discussionSent": 3683,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-24T14:55:36.991727",
-    "updatedAt": "2026-07-24T06:56:16.689Z"
+    "lastSeenAt": "2026-07-24T15:00:26.299154",
+    "updatedAt": "2026-07-24T07:01:57.310Z"
   },
   "users": [
     {
@@ -46,13 +46,13 @@
     {
       "weiboNickname": "甜豆的T-hoohoo",
       "activeDevices": 1,
-      "danmuSent": 4289,
+      "danmuSent": 4389,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 4289,
-      "lastSeenAt": "2026-07-24T14:43:20.449503"
+      "totalSent": 4389,
+      "lastSeenAt": "2026-07-24T15:00:26.299154"
     },
     {
       "weiboNickname": "多多又man又healthy",
@@ -132,6 +132,17 @@
       "lastSeenAt": "2026-07-24T12:42:23.351276"
     },
     {
+      "weiboNickname": "岁月如檀-J15",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 828,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 828,
+      "lastSeenAt": "2026-07-24T14:58:12.671075"
+    },
+    {
       "weiboNickname": "把太阳装进枕头里",
       "activeDevices": 2,
       "danmuSent": 814,
@@ -143,17 +154,6 @@
       "lastSeenAt": "2026-07-24T14:53:10.123957"
     },
     {
-      "weiboNickname": "岁月如檀-J15",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 738,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 738,
-      "lastSeenAt": "2026-07-24T14:33:57.175894"
-    },
-    {
       "weiboNickname": "DREAM S_Yy",
       "activeDevices": 1,
       "danmuSent": 483,
@@ -163,6 +163,28 @@
       "danmuSkipped": 0,
       "totalSent": 583,
       "lastSeenAt": "2026-07-24T14:53:55.839028"
+    },
+    {
+      "weiboNickname": "-TL檀小吉JC-",
+      "activeDevices": 1,
+      "danmuSent": 371,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 371,
+      "lastSeenAt": "2026-07-24T14:59:17.651971"
+    },
+    {
+      "weiboNickname": "晨光微暖JCT",
+      "activeDevices": 1,
+      "danmuSent": 303,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 303,
+      "lastSeenAt": "2026-07-24T14:57:41.767324"
     },
     {
       "weiboNickname": "檀多多给我做饭",
@@ -196,28 +218,6 @@
       "danmuSkipped": 0,
       "totalSent": 289,
       "lastSeenAt": "2026-07-24T14:42:10.747346"
-    },
-    {
-      "weiboNickname": "-TL檀小吉JC-",
-      "activeDevices": 1,
-      "danmuSent": 271,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 271,
-      "lastSeenAt": "2026-07-24T14:34:23.600692"
-    },
-    {
-      "weiboNickname": "晨光微暖JCT",
-      "activeDevices": 1,
-      "danmuSent": 203,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 203,
-      "lastSeenAt": "2026-07-24T14:36:52.444608"
     },
     {
       "weiboNickname": "猫猫次客",
@@ -284,6 +284,17 @@
       "danmuSkipped": 0,
       "totalSent": 0,
       "lastSeenAt": "2026-07-24T07:59:45.926915"
+    },
+    {
+      "weiboNickname": "糖千晗",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 0,
+      "lastSeenAt": "2026-07-24T14:56:43.522230"
     }
   ]
 }
