@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "updatedAt": "2026-07-25T16:47:42.522Z",
+  "updatedAt": "2026-07-25T16:53:09.310Z",
   "users": {
     "三五共yingying": {
       "weiboNickname": "三五共yingying",
@@ -117,12 +117,12 @@
       "devices": {
         "81dfd9e37f80c732594fb44dac70a64e7f4312da803b591ac82ab3ccc13ae05e": {
           "deviceHash": "81dfd9e37f80",
-          "danmuSent": 200,
+          "danmuSent": 300,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-26T00:33:10.963069",
+          "lastSeenAt": "2026-07-26T00:49:51.081171",
           "appVersion": "biubiubiu1.1"
         },
         "d6aceed9a1b0011859a56a3384419f8458786191ea699d6c646ebce977b490d9": {
@@ -137,12 +137,12 @@
         }
       },
       "activeDevices": 2,
-      "danmuSent": 300,
+      "danmuSent": 400,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-26T00:33:26.916450"
+      "lastSeenAt": "2026-07-26T00:49:51.081171"
     },
     "苍离不语": {
       "weiboNickname": "苍离不语",
@@ -150,21 +150,31 @@
         "619b41cd114ff5dacdc38df86b84f9e049faedd34795aea1d4df08805f83abe7": {
           "deviceHash": "619b41cd114f",
           "danmuSent": 0,
-          "discussionSent": 100,
+          "discussionSent": 200,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-26T00:24:33.582301",
+          "lastSeenAt": "2026-07-26T00:49:12.764244",
+          "appVersion": "biubiubiu1.1"
+        },
+        "8066b00d4bbfd302eb3f8f0b66b18f62573d5273aa767e0361ac676dcb1efcb1": {
+          "deviceHash": "8066b00d4bbf",
+          "danmuSent": 0,
+          "discussionSent": 60,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-26T00:11:29.203673",
           "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
+      "activeDevices": 2,
       "danmuSent": 0,
-      "discussionSent": 100,
+      "discussionSent": 260,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-26T00:24:33.582301"
+      "lastSeenAt": "2026-07-26T00:49:12.764244"
     },
     "檀郎好联句": {
       "weiboNickname": "檀郎好联句",
@@ -172,21 +182,21 @@
         "53d39e7f9d24683c87f6798d2fe48c5f440ce0f4ee4eb3a52df2b177fe069614": {
           "deviceHash": "53d39e7f9d24",
           "danmuSent": 0,
-          "discussionSent": 100,
+          "discussionSent": 200,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-26T00:25:28.323335",
+          "lastSeenAt": "2026-07-26T00:51:00.521995",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 100,
+      "discussionSent": 200,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-26T00:25:28.323335"
+      "lastSeenAt": "2026-07-26T00:51:00.521995"
     },
     "呆呆的可爱多_": {
       "weiboNickname": "呆呆的可爱多_",
@@ -275,6 +285,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-07-26T00:39:49.197279"
+    },
+    "世界如此美好1988": {
+      "weiboNickname": "世界如此美好1988",
+      "devices": {
+        "5b5f5fbe5a965be00ecd6725fe5bbda3e061daf8c2462ff10b34d887d0cecfc4": {
+          "deviceHash": "5b5f5fbe5a96",
+          "danmuSent": 100,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-26T00:48:00.180067",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 100,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-07-26T00:48:00.180067"
     }
   }
 }
