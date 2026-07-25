@@ -3,33 +3,33 @@
   "app": "biubiubiu_android",
   "date": "2026-07-25",
   "month": "2026-07",
-  "updatedAt": "2026-07-25T03:29:58.452Z",
+  "updatedAt": "2026-07-25T03:35:33.505Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-25.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-25",
-    "activeUsers": 23,
-    "activeDevices": 27,
-    "danmuSent": 16007,
+    "activeUsers": 24,
+    "activeDevices": 28,
+    "danmuSent": 16049,
     "discussionSent": 7464,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-25T11:29:23.513842",
-    "updatedAt": "2026-07-25T03:29:56.933Z"
+    "lastSeenAt": "2026-07-25T11:34:45.785481",
+    "updatedAt": "2026-07-25T03:35:31.982Z"
   },
   "users": [
     {
       "weiboNickname": "平檀一生",
       "activeDevices": 2,
-      "danmuSent": 4853,
+      "danmuSent": 4873,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 4853,
+      "totalSent": 4873,
       "lastSeenAt": "2026-07-25T11:13:47.467501"
     },
     {
@@ -46,13 +46,13 @@
     {
       "weiboNickname": "呆呆的可爱多_",
       "activeDevices": 2,
-      "danmuSent": 1301,
+      "danmuSent": 1323,
       "discussionSent": 1360,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 2661,
-      "lastSeenAt": "2026-07-25T11:29:14.315689"
+      "totalSent": 2683,
+      "lastSeenAt": "2026-07-25T11:34:45.785481"
     },
     {
       "weiboNickname": "甜豆的T-hoohoo",
@@ -262,6 +262,17 @@
       "danmuSkipped": 0,
       "totalSent": 1,
       "lastSeenAt": "2026-07-25T11:16:16.518837"
+    },
+    {
+      "weiboNickname": "把太阳装进枕头里",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 0,
+      "lastSeenAt": "2026-07-25T11:32:54.984938"
     },
     {
       "weiboNickname": "檀来财运",
