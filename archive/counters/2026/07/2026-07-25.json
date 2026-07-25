@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "updatedAt": "2026-07-25T00:58:43.146Z",
+  "updatedAt": "2026-07-25T01:04:18.282Z",
   "users": {
     "忻忻年年大吉祥": {
       "weiboNickname": "忻忻年年大吉祥",
@@ -105,22 +105,22 @@
         },
         "d6aceed9a1b0011859a56a3384419f8458786191ea699d6c646ebce977b490d9": {
           "deviceHash": "d6aceed9a1b0",
-          "danmuSent": 1518,
+          "danmuSent": 1618,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-25T08:30:03.562432",
+          "lastSeenAt": "2026-07-25T09:03:33.409726",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 2,
-      "danmuSent": 3992,
+      "danmuSent": 4092,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-25T08:30:03.562432"
+      "lastSeenAt": "2026-07-25T09:03:33.409726"
     },
     "多多又man又healthy": {
       "weiboNickname": "多多又man又healthy",
@@ -459,6 +459,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-07-25T08:50:49.947243"
+    },
+    "檀香染身_": {
+      "weiboNickname": "檀香染身_",
+      "devices": {
+        "81c22ff6cf03174435077b5a595573efe45b12a50cfff499d5598daf2eb0ed6c": {
+          "deviceHash": "81c22ff6cf03",
+          "danmuSent": 100,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-25T09:03:56.746416",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 100,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-07-25T09:03:56.746416"
     }
   }
 }
