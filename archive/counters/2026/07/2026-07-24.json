@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "updatedAt": "2026-07-25T12:31:38.078Z",
+  "updatedAt": "2026-07-25T12:37:32.005Z",
   "users": {
     "忻忻年年大吉祥": {
       "weiboNickname": "忻忻年年大吉祥",
@@ -1128,15 +1128,25 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-07-24T21:40:58.926699",
           "appVersion": "biubiubiu1.1"
+        },
+        "51abe2cddef9c44925662d2492b6e3144e29b12eb408c5cb445f0debe4c25d3d": {
+          "deviceHash": "51abe2cddef9",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-24T22:06:54.336084",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
+      "activeDevices": 2,
       "danmuSent": 0,
       "discussionSent": 383,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-24T21:40:58.926699"
+      "lastSeenAt": "2026-07-24T22:06:54.336084"
     },
     "用户工作12小时懒惰的人": {
       "weiboNickname": "用户工作12小时懒惰的人",
