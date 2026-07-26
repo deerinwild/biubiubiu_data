@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-26",
   "month": "2026-07",
-  "updatedAt": "2026-07-26T06:44:23.010Z",
+  "updatedAt": "2026-07-26T06:49:57.576Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-26.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -13,12 +13,12 @@
     "activeUsers": 25,
     "activeDevices": 31,
     "danmuSent": 15924,
-    "discussionSent": 14210,
+    "discussionSent": 14395,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-26T14:41:33.618363",
-    "updatedAt": "2026-07-26T06:44:21.540Z"
+    "lastSeenAt": "2026-07-26T14:48:04.024430",
+    "updatedAt": "2026-07-26T06:49:56.117Z"
   },
   "users": [
     {
@@ -55,6 +55,17 @@
       "lastSeenAt": "2026-07-26T14:41:33.618363"
     },
     {
+      "weiboNickname": "檀檀颜颜",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 2087,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 2087,
+      "lastSeenAt": "2026-07-26T14:48:04.024430"
+    },
+    {
       "weiboNickname": "苍离不语",
       "activeDevices": 3,
       "danmuSent": 0,
@@ -64,17 +75,6 @@
       "danmuSkipped": 0,
       "totalSent": 2014,
       "lastSeenAt": "2026-07-26T14:37:29.840931"
-    },
-    {
-      "weiboNickname": "檀檀颜颜",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 1987,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 1987,
-      "lastSeenAt": "2026-07-26T14:23:20.263159"
     },
     {
       "weiboNickname": "檀郎好联句",
@@ -223,12 +223,12 @@
       "weiboNickname": "欧神附体＿",
       "activeDevices": 2,
       "danmuSent": 0,
-      "discussionSent": 120,
+      "discussionSent": 205,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 120,
-      "lastSeenAt": "2026-07-26T14:21:24.351659"
+      "totalSent": 205,
+      "lastSeenAt": "2026-07-26T14:35:40.185071"
     },
     {
       "weiboNickname": "海伦202301",
