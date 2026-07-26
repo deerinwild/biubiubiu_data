@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-26",
   "month": "2026-07",
-  "updatedAt": "2026-07-26T03:04:38.995Z",
+  "updatedAt": "2026-07-26T03:10:44.950Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-26.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -12,13 +12,13 @@
     "date": "2026-07-26",
     "activeUsers": 23,
     "activeDevices": 27,
-    "danmuSent": 12547,
-    "discussionSent": 9890,
+    "danmuSent": 12647,
+    "discussionSent": 10069,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-26T10:57:53.600884",
-    "updatedAt": "2026-07-26T03:04:37.532Z"
+    "lastSeenAt": "2026-07-26T11:10:15.159556",
+    "updatedAt": "2026-07-26T03:10:43.277Z"
   },
   "users": [
     {
@@ -80,12 +80,12 @@
       "weiboNickname": "狸小翎",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 1417,
+      "discussionSent": 1496,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 1417,
-      "lastSeenAt": "2026-07-26T10:01:26.715117"
+      "totalSent": 1496,
+      "lastSeenAt": "2026-07-26T10:19:07.692466"
     },
     {
       "weiboNickname": "世界如此美好1988",
@@ -121,6 +121,17 @@
       "lastSeenAt": "2026-07-26T10:52:35.962139"
     },
     {
+      "weiboNickname": "苍离不语",
+      "activeDevices": 3,
+      "danmuSent": 0,
+      "discussionSent": 755,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 755,
+      "lastSeenAt": "2026-07-26T11:05:42.038396"
+    },
+    {
       "weiboNickname": "可以吃de青苹果",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -132,26 +143,15 @@
       "lastSeenAt": "2026-07-26T10:56:57.702231"
     },
     {
-      "weiboNickname": "苍离不语",
-      "activeDevices": 3,
-      "danmuSent": 0,
-      "discussionSent": 655,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 655,
-      "lastSeenAt": "2026-07-26T10:57:53.600884"
-    },
-    {
       "weiboNickname": "多多阿酸多多",
       "activeDevices": 1,
-      "danmuSent": 400,
+      "danmuSent": 500,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 400,
-      "lastSeenAt": "2026-07-26T10:29:48.293566"
+      "totalSent": 500,
+      "lastSeenAt": "2026-07-26T11:10:15.159556"
     },
     {
       "weiboNickname": "桃之夭腰2023",
