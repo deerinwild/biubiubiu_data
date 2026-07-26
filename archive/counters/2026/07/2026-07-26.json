@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "updatedAt": "2026-07-26T14:49:00.714Z",
+  "updatedAt": "2026-07-26T14:54:33.308Z",
   "users": {
     "三五共yingying": {
       "weiboNickname": "三五共yingying",
@@ -73,22 +73,22 @@
       "devices": {
         "9c8d07f5482e369da0c15ceca29e3ddbeddea9fd008a806ea92c89d55f8b0c30": {
           "deviceHash": "9c8d07f5482e",
-          "danmuSent": 3001,
+          "danmuSent": 3101,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-26T22:34:32.825794",
+          "lastSeenAt": "2026-07-26T22:51:12.721658",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 3001,
+      "danmuSent": 3101,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-26T22:34:32.825794"
+      "lastSeenAt": "2026-07-26T22:51:12.721658"
     },
     "多多又man又healthy": {
       "weiboNickname": "多多又man又healthy",
@@ -128,21 +128,21 @@
         "d6aceed9a1b0011859a56a3384419f8458786191ea699d6c646ebce977b490d9": {
           "deviceHash": "d6aceed9a1b0",
           "danmuSent": 3316,
-          "discussionSent": 100,
+          "discussionSent": 300,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-26T21:56:11.930878",
+          "lastSeenAt": "2026-07-26T22:51:24.027038",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 2,
       "danmuSent": 8617,
-      "discussionSent": 820,
+      "discussionSent": 1020,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-26T22:37:20.576395"
+      "lastSeenAt": "2026-07-26T22:51:24.027038"
     },
     "苍离不语": {
       "weiboNickname": "苍离不语",
@@ -260,7 +260,7 @@
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-26T07:19:32.122369",
+          "lastSeenAt": "2026-07-26T22:52:38.360582",
           "appVersion": "biubiubiu1.1"
         }
       },
@@ -270,7 +270,7 @@
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-26T07:19:32.122369"
+      "lastSeenAt": "2026-07-26T22:52:38.360582"
     },
     "pinksnowwillow": {
       "weiboNickname": "pinksnowwillow",
@@ -366,11 +366,11 @@
         "c9ea8d3ecdec36a5091db8cd661668075d900dcb0a502cd9ac9b9c61f88e30ce": {
           "deviceHash": "c9ea8d3ecdec",
           "danmuSent": 0,
-          "discussionSent": 1727,
+          "discussionSent": 1827,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-26T22:24:15.235008",
+          "lastSeenAt": "2026-07-26T22:53:58.543928",
           "appVersion": "biubiubiu1.1"
         },
         "1ce6d34a8ff910c22246083caf69ce256e439b75dbffa71edababb32ae87cec0": {
@@ -386,11 +386,11 @@
       },
       "activeDevices": 2,
       "danmuSent": 0,
-      "discussionSent": 1727,
+      "discussionSent": 1827,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-26T22:24:15.235008"
+      "lastSeenAt": "2026-07-26T22:53:58.543928"
     },
     "檀檀颜颜": {
       "weiboNickname": "檀檀颜颜",
@@ -1157,6 +1157,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-07-26T22:46:31.203793"
+    },
+    "Sarah猫小咪": {
+      "weiboNickname": "Sarah猫小咪",
+      "devices": {
+        "c05b27cefebaab94a948fa7425f8b1f6dfa642236571133c3b2c09502456b217": {
+          "deviceHash": "c05b27cefeba",
+          "danmuSent": 0,
+          "discussionSent": 30,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-26T22:47:58.489798",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 30,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-07-26T22:47:58.489798"
     }
   }
 }
