@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-26",
   "month": "2026-07",
-  "updatedAt": "2026-07-26T03:53:43.083Z",
+  "updatedAt": "2026-07-26T03:59:15.901Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-26.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -13,12 +13,12 @@
     "activeUsers": 23,
     "activeDevices": 27,
     "danmuSent": 13290,
-    "discussionSent": 10588,
+    "discussionSent": 10787,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-26T11:50:44.944612",
-    "updatedAt": "2026-07-26T03:53:41.609Z"
+    "lastSeenAt": "2026-07-26T11:57:31.723594",
+    "updatedAt": "2026-07-26T03:59:14.463Z"
   },
   "users": [
     {
@@ -55,6 +55,17 @@
       "lastSeenAt": "2026-07-26T10:52:57.633419"
     },
     {
+      "weiboNickname": "却雀",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 1608,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1608,
+      "lastSeenAt": "2026-07-26T07:19:32.122369"
+    },
+    {
       "weiboNickname": "檀郎好联句",
       "activeDevices": 1,
       "danmuSent": 558,
@@ -64,17 +75,6 @@
       "danmuSkipped": 0,
       "totalSent": 1579,
       "lastSeenAt": "2026-07-26T11:06:53.404920"
-    },
-    {
-      "weiboNickname": "却雀",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 1509,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 1509,
-      "lastSeenAt": "2026-07-26T06:52:54.996667"
     },
     {
       "weiboNickname": "狸小翎",
@@ -135,12 +135,12 @@
       "weiboNickname": "可以吃de青苹果",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 780,
+      "discussionSent": 880,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 780,
-      "lastSeenAt": "2026-07-26T11:24:25.599275"
+      "totalSent": 880,
+      "lastSeenAt": "2026-07-26T11:57:31.723594"
     },
     {
       "weiboNickname": "多多阿酸多多",
