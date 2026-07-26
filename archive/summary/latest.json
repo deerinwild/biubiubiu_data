@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-26",
   "month": "2026-07",
-  "updatedAt": "2026-07-26T07:11:47.517Z",
+  "updatedAt": "2026-07-26T07:17:25.683Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-26.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -13,12 +13,12 @@
     "activeUsers": 27,
     "activeDevices": 33,
     "danmuSent": 16382,
-    "discussionSent": 14785,
+    "discussionSent": 15213,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-26T15:10:08.752860",
-    "updatedAt": "2026-07-26T07:11:45.996Z"
+    "lastSeenAt": "2026-07-26T15:16:20.453797",
+    "updatedAt": "2026-07-26T07:17:24.110Z"
   },
   "users": [
     {
@@ -55,6 +55,17 @@
       "lastSeenAt": "2026-07-26T15:06:42.858747"
     },
     {
+      "weiboNickname": "檀檀颜颜",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 2187,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 2187,
+      "lastSeenAt": "2026-07-26T15:12:47.114614"
+    },
+    {
       "weiboNickname": "苍离不语",
       "activeDevices": 3,
       "danmuSent": 0,
@@ -64,17 +75,6 @@
       "danmuSkipped": 0,
       "totalSent": 2104,
       "lastSeenAt": "2026-07-26T15:03:16.919488"
-    },
-    {
-      "weiboNickname": "檀檀颜颜",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 2087,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 2087,
-      "lastSeenAt": "2026-07-26T14:48:04.024430"
     },
     {
       "weiboNickname": "檀郎好联句",
@@ -157,12 +157,12 @@
       "weiboNickname": "桃之夭腰2023",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 954,
+      "discussionSent": 1054,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 954,
-      "lastSeenAt": "2026-07-26T14:49:59.225923"
+      "totalSent": 1054,
+      "lastSeenAt": "2026-07-26T15:14:42.633018"
     },
     {
       "weiboNickname": "甜豆的T-hoohoo",
@@ -179,12 +179,12 @@
       "weiboNickname": "欧神附体＿",
       "activeDevices": 2,
       "danmuSent": 0,
-      "discussionSent": 305,
+      "discussionSent": 505,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 305,
-      "lastSeenAt": "2026-07-26T14:51:04.978202"
+      "totalSent": 505,
+      "lastSeenAt": "2026-07-26T15:16:20.453797"
     },
     {
       "weiboNickname": "半翅蝴蝶",
@@ -240,6 +240,17 @@
       "danmuSkipped": 0,
       "totalSent": 72,
       "lastSeenAt": "2026-07-26T00:21:41.663389"
+    },
+    {
+      "weiboNickname": "岁月如檀-J15",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 28,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 28,
+      "lastSeenAt": "2026-07-26T15:13:36.807436"
     },
     {
       "weiboNickname": "不开车会死星人",
@@ -306,17 +317,6 @@
       "danmuSkipped": 0,
       "totalSent": 0,
       "lastSeenAt": "2026-07-26T00:00:07.485400"
-    },
-    {
-      "weiboNickname": "岁月如檀-J15",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 0,
-      "lastSeenAt": "2026-07-26T15:09:04.839578"
     }
   ]
 }
