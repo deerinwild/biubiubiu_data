@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-26",
   "month": "2026-07",
-  "updatedAt": "2026-07-26T07:17:25.683Z",
+  "updatedAt": "2026-07-26T07:23:00.419Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-26.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -12,13 +12,13 @@
     "date": "2026-07-26",
     "activeUsers": 27,
     "activeDevices": 33,
-    "danmuSent": 16382,
+    "danmuSent": 16454,
     "discussionSent": 15213,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-26T15:16:20.453797",
-    "updatedAt": "2026-07-26T07:17:24.110Z"
+    "lastSeenAt": "2026-07-26T15:21:47.545435",
+    "updatedAt": "2026-07-26T07:22:58.743Z"
   },
   "users": [
     {
@@ -187,6 +187,17 @@
       "lastSeenAt": "2026-07-26T15:16:20.453797"
     },
     {
+      "weiboNickname": "猫猫次客",
+      "activeDevices": 1,
+      "danmuSent": 372,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 372,
+      "lastSeenAt": "2026-07-26T15:21:47.545435"
+    },
+    {
       "weiboNickname": "半翅蝴蝶",
       "activeDevices": 1,
       "danmuSent": 300,
@@ -196,17 +207,6 @@
       "danmuSkipped": 0,
       "totalSent": 300,
       "lastSeenAt": "2026-07-26T12:56:51.417987"
-    },
-    {
-      "weiboNickname": "猫猫次客",
-      "activeDevices": 1,
-      "danmuSent": 300,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 300,
-      "lastSeenAt": "2026-07-26T12:09:37.286913"
     },
     {
       "weiboNickname": "檀了颗糖",
