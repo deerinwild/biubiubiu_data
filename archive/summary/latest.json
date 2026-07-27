@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-28",
   "month": "2026-07",
-  "updatedAt": "2026-07-27T17:06:22.111Z",
+  "updatedAt": "2026-07-27T17:12:02.447Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-28.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -12,36 +12,47 @@
     "date": "2026-07-28",
     "activeUsers": 11,
     "activeDevices": 12,
-    "danmuSent": 848,
-    "discussionSent": 999,
+    "danmuSent": 1048,
+    "discussionSent": 1099,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-28T01:01:33.345644",
-    "updatedAt": "2026-07-27T17:06:20.240Z"
+    "lastSeenAt": "2026-07-28T01:06:54.696097",
+    "updatedAt": "2026-07-27T17:12:00.588Z"
   },
   "users": [
     {
       "weiboNickname": "平檀一生",
       "activeDevices": 2,
-      "danmuSent": 448,
+      "danmuSent": 548,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 448,
-      "lastSeenAt": "2026-07-28T00:58:21.553786"
+      "totalSent": 548,
+      "lastSeenAt": "2026-07-28T01:06:48.937356"
     },
     {
       "weiboNickname": "多多又man又healthy",
       "activeDevices": 1,
-      "danmuSent": 200,
+      "danmuSent": 300,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 200,
-      "lastSeenAt": "2026-07-28T00:50:14.616573"
+      "totalSent": 300,
+      "lastSeenAt": "2026-07-28T01:06:54.696097"
+    },
+    {
+      "weiboNickname": "呆呆的可爱多_",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 202,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 202,
+      "lastSeenAt": "2026-07-28T01:06:42.697080"
     },
     {
       "weiboNickname": "檀郎好联句",
@@ -86,17 +97,6 @@
       "danmuSkipped": 0,
       "totalSent": 128,
       "lastSeenAt": "2026-07-28T00:34:08.964463"
-    },
-    {
-      "weiboNickname": "呆呆的可爱多_",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 102,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 102,
-      "lastSeenAt": "2026-07-28T00:42:13.238742"
     },
     {
       "weiboNickname": "猫猫次客",
