@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "updatedAt": "2026-07-27T07:30:21.907Z",
+  "updatedAt": "2026-07-27T07:36:02.569Z",
   "users": {
     "忻忻年年大吉祥": {
       "weiboNickname": "忻忻年年大吉祥",
@@ -105,12 +105,12 @@
       "devices": {
         "81dfd9e37f80c732594fb44dac70a64e7f4312da803b591ac82ab3ccc13ae05e": {
           "deviceHash": "81dfd9e37f80",
-          "danmuSent": 3909,
+          "danmuSent": 4007,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-27T15:12:45.869361",
+          "lastSeenAt": "2026-07-27T15:32:42.378325",
           "appVersion": "biubiubiu1.1"
         },
         "d6aceed9a1b0011859a56a3384419f8458786191ea699d6c646ebce977b490d9": {
@@ -125,12 +125,12 @@
         }
       },
       "activeDevices": 2,
-      "danmuSent": 6612,
+      "danmuSent": 6710,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-27T15:12:45.869361"
+      "lastSeenAt": "2026-07-27T15:32:42.378325"
     },
     "DREAM S_Yy": {
       "weiboNickname": "DREAM S_Yy",
@@ -410,21 +410,21 @@
         "9606e82ca02844c80fd48a65b13827faf780948f0bbe0cc3170199369e7ee981": {
           "deviceHash": "9606e82ca028",
           "danmuSent": 0,
-          "discussionSent": 446,
+          "discussionSent": 546,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-27T15:03:09.574837",
+          "lastSeenAt": "2026-07-27T15:32:51.500221",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 2,
       "danmuSent": 0,
-      "discussionSent": 1973,
+      "discussionSent": 2073,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-27T15:03:09.574837"
+      "lastSeenAt": "2026-07-27T15:32:51.500221"
     },
     "海伦202301": {
       "weiboNickname": "海伦202301",
@@ -773,6 +773,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-07-27T14:50:34.761335"
+    },
+    "猫猫次客": {
+      "weiboNickname": "猫猫次客",
+      "devices": {
+        "015ff0ca602aaf55dfca0466b389a8c04bc179ffff5148b3537f9485bc450364": {
+          "deviceHash": "015ff0ca602a",
+          "danmuSent": 0,
+          "discussionSent": 60,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-27T00:15:55.101032",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 60,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-07-27T00:15:55.101032"
     }
   }
 }
