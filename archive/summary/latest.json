@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-27",
   "month": "2026-07",
-  "updatedAt": "2026-07-27T08:31:05.465Z",
+  "updatedAt": "2026-07-27T08:36:44.926Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-27.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -12,13 +12,13 @@
     "date": "2026-07-27",
     "activeUsers": 32,
     "activeDevices": 41,
-    "danmuSent": 22475,
-    "discussionSent": 19735,
+    "danmuSent": 22608,
+    "discussionSent": 19757,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-27T16:28:35.367130",
-    "updatedAt": "2026-07-27T08:31:03.708Z"
+    "lastSeenAt": "2026-07-27T16:35:37.867736",
+    "updatedAt": "2026-07-27T08:36:43.172Z"
   },
   "users": [
     {
@@ -69,12 +69,23 @@
       "weiboNickname": "狸小翎",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 2434,
+      "discussionSent": 2456,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 2434,
-      "lastSeenAt": "2026-07-27T16:28:35.367130"
+      "totalSent": 2456,
+      "lastSeenAt": "2026-07-27T16:35:37.867736"
+    },
+    {
+      "weiboNickname": "次甜柿子_一巡全勤",
+      "activeDevices": 1,
+      "danmuSent": 2408,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 2408,
+      "lastSeenAt": "2026-07-27T16:34:07.091962"
     },
     {
       "weiboNickname": "DREAM S_Yy",
@@ -86,17 +97,6 @@
       "danmuSkipped": 0,
       "totalSent": 2314,
       "lastSeenAt": "2026-07-27T15:37:41.090524"
-    },
-    {
-      "weiboNickname": "次甜柿子_一巡全勤",
-      "activeDevices": 1,
-      "danmuSent": 2308,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 2308,
-      "lastSeenAt": "2026-07-27T16:21:27.190355"
     },
     {
       "weiboNickname": "檀檀颜颜",
@@ -211,12 +211,12 @@
     {
       "weiboNickname": "把太阳装进枕头里",
       "activeDevices": 2,
-      "danmuSent": 649,
+      "danmuSent": 682,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 649,
+      "totalSent": 682,
       "lastSeenAt": "2026-07-27T16:23:36.568636"
     },
     {
