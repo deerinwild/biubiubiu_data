@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "updatedAt": "2026-07-27T19:01:23.821Z",
+  "updatedAt": "2026-07-27T19:09:15.603Z",
   "users": {
     "忻忻年年大吉祥": {
       "weiboNickname": "忻忻年年大吉祥",
@@ -34,17 +34,27 @@
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-28T00:17:52.068097",
+          "lastSeenAt": "2026-07-28T03:07:28.372156",
+          "appVersion": "biubiubiu1.1"
+        },
+        "cc945d76babbdf8db7e708a7563ee0fc423a1e7fb5c40458c63451a584ad5ba3": {
+          "deviceHash": "cc945d76babb",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-28T03:07:28.970348",
           "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
+      "activeDevices": 2,
       "danmuSent": 0,
       "discussionSent": 73,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-28T00:17:52.068097"
+      "lastSeenAt": "2026-07-28T03:07:28.970348"
     },
     "平檀一生": {
       "weiboNickname": "平檀一生",
@@ -260,21 +270,21 @@
         "331828785dd05146f4412c8bdf90450ee6bee5fbdfa7fe3582e234a77c25ea09": {
           "deviceHash": "331828785dd0",
           "danmuSent": 0,
-          "discussionSent": 312,
+          "discussionSent": 412,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-28T02:40:34.911200",
+          "lastSeenAt": "2026-07-28T03:05:06.433405",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 312,
+      "discussionSent": 412,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-28T02:40:34.911200"
+      "lastSeenAt": "2026-07-28T03:05:06.433405"
     },
     "幸运小羔羊": {
       "weiboNickname": "幸运小羔羊",
@@ -363,6 +373,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-07-28T02:40:52.614076"
+    },
+    "三五共yingying": {
+      "weiboNickname": "三五共yingying",
+      "devices": {
+        "4152f955311d5af2a27d015fc3fb10f02c8dd33427ef73aa73bf1b5bef178779": {
+          "deviceHash": "4152f955311d",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-28T03:04:14.698698",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-07-28T03:04:14.698698"
     }
   }
 }
