@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-28",
   "month": "2026-07",
-  "updatedAt": "2026-07-28T07:31:09.882Z",
+  "updatedAt": "2026-07-28T07:36:48.369Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-28.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -12,13 +12,13 @@
     "date": "2026-07-28",
     "activeUsers": 33,
     "activeDevices": 41,
-    "danmuSent": 25706,
-    "discussionSent": 15126,
+    "danmuSent": 25806,
+    "discussionSent": 15152,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-28T15:31:04.855997",
-    "updatedAt": "2026-07-28T07:31:07.839Z"
+    "lastSeenAt": "2026-07-28T15:33:26.672191",
+    "updatedAt": "2026-07-28T07:36:46.620Z"
   },
   "users": [
     {
@@ -189,13 +189,24 @@
     {
       "weiboNickname": "-TL檀小吉JC-",
       "activeDevices": 1,
-      "danmuSent": 756,
+      "danmuSent": 856,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 756,
-      "lastSeenAt": "2026-07-28T15:08:26.684706"
+      "totalSent": 856,
+      "lastSeenAt": "2026-07-28T15:33:26.672191"
+    },
+    {
+      "weiboNickname": "岁月如檀-J15",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 716,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 716,
+      "lastSeenAt": "2026-07-28T15:30:22.291748"
     },
     {
       "weiboNickname": "半翅蝴蝶",
@@ -218,17 +229,6 @@
       "danmuSkipped": 0,
       "totalSent": 700,
       "lastSeenAt": "2026-07-28T03:11:50.959452"
-    },
-    {
-      "weiboNickname": "岁月如檀-J15",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 690,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 690,
-      "lastSeenAt": "2026-07-28T15:26:32.520847"
     },
     {
       "weiboNickname": "三五共yingying",
