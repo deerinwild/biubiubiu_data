@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-29",
   "month": "2026-07",
-  "updatedAt": "2026-07-28T22:58:50.778Z",
+  "updatedAt": "2026-07-28T23:04:16.375Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-29.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -12,13 +12,13 @@
     "date": "2026-07-29",
     "activeUsers": 16,
     "activeDevices": 18,
-    "danmuSent": 8375,
-    "discussionSent": 4241,
+    "danmuSent": 8567,
+    "discussionSent": 4288,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-29T06:48:53.871354",
-    "updatedAt": "2026-07-28T22:58:49.209Z"
+    "lastSeenAt": "2026-07-29T06:59:16.473903",
+    "updatedAt": "2026-07-28T23:04:14.713Z"
   },
   "users": [
     {
@@ -33,6 +33,17 @@
       "lastSeenAt": "2026-07-29T06:39:09.112712"
     },
     {
+      "weiboNickname": "呆呆的可爱多_",
+      "activeDevices": 2,
+      "danmuSent": 937,
+      "discussionSent": 1436,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 2373,
+      "lastSeenAt": "2026-07-29T06:59:16.473903"
+    },
+    {
       "weiboNickname": "甜豆的T-hoohoo",
       "activeDevices": 1,
       "danmuSent": 2300,
@@ -42,17 +53,6 @@
       "danmuSkipped": 0,
       "totalSent": 2300,
       "lastSeenAt": "2026-07-29T06:48:32.754299"
-    },
-    {
-      "weiboNickname": "呆呆的可爱多_",
-      "activeDevices": 2,
-      "danmuSent": 845,
-      "discussionSent": 1389,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 2234,
-      "lastSeenAt": "2026-07-29T06:48:00.512669"
     },
     {
       "weiboNickname": "DREAM S_Yy",
@@ -79,13 +79,13 @@
     {
       "weiboNickname": "世界如此美好1988",
       "activeDevices": 1,
-      "danmuSent": 765,
+      "danmuSent": 865,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 765,
-      "lastSeenAt": "2026-07-29T06:10:46.667222"
+      "totalSent": 865,
+      "lastSeenAt": "2026-07-29T06:58:54.458225"
     },
     {
       "weiboNickname": "檀多多给我做饭",
