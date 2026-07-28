@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "updatedAt": "2026-07-28T16:58:31.897Z",
+  "updatedAt": "2026-07-28T17:09:21.129Z",
   "users": {
     "忻忻年年大吉祥": {
       "weiboNickname": "忻忻年年大吉祥",
@@ -102,15 +102,25 @@
           "danmuSkipped": 0,
           "lastSeenAt": "2026-07-29T00:24:57.027369",
           "appVersion": "biubiubiu1.1"
+        },
+        "b7337e357f67abfc95cd1da48a8c2224c62f6f66a487066801ee41ecd14267be": {
+          "deviceHash": "b7337e357f67",
+          "danmuSent": 0,
+          "discussionSent": 100,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-07-29T01:08:50.906204",
+          "appVersion": "biubiubiu1.1"
         }
       },
-      "activeDevices": 1,
+      "activeDevices": 2,
       "danmuSent": 100,
-      "discussionSent": 0,
+      "discussionSent": 100,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-29T00:24:57.027369"
+      "lastSeenAt": "2026-07-29T01:08:50.906204"
     },
     "DREAM S_Yy": {
       "weiboNickname": "DREAM S_Yy",
@@ -205,32 +215,32 @@
       "devices": {
         "d6aceed9a1b0011859a56a3384419f8458786191ea699d6c646ebce977b490d9": {
           "deviceHash": "d6aceed9a1b0",
-          "danmuSent": 100,
+          "danmuSent": 200,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-29T00:33:20.772641",
+          "lastSeenAt": "2026-07-29T01:07:08.844047",
           "appVersion": "biubiubiu1.1"
         },
         "81dfd9e37f80c732594fb44dac70a64e7f4312da803b591ac82ab3ccc13ae05e": {
           "deviceHash": "81dfd9e37f80",
-          "danmuSent": 85,
+          "danmuSent": 185,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-07-29T00:16:25.735516",
+          "lastSeenAt": "2026-07-29T01:04:19.022186",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 2,
-      "danmuSent": 185,
+      "danmuSent": 385,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-07-29T00:33:20.772641"
+      "lastSeenAt": "2026-07-29T01:07:08.844047"
     },
     "仙女Pink爱种草": {
       "weiboNickname": "仙女Pink爱种草",
