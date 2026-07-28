@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-29",
   "month": "2026-07",
-  "updatedAt": "2026-07-28T18:48:58.117Z",
+  "updatedAt": "2026-07-28T18:54:37.110Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-29.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -12,13 +12,13 @@
     "date": "2026-07-29",
     "activeUsers": 15,
     "activeDevices": 17,
-    "danmuSent": 2906,
-    "discussionSent": 1752,
+    "danmuSent": 3006,
+    "discussionSent": 1852,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-29T02:47:52.365811",
-    "updatedAt": "2026-07-28T18:48:56.494Z"
+    "lastSeenAt": "2026-07-29T02:52:48.350506",
+    "updatedAt": "2026-07-28T18:54:35.231Z"
   },
   "users": [
     {
@@ -44,6 +44,17 @@
       "lastSeenAt": "2026-07-29T02:38:27.961145"
     },
     {
+      "weiboNickname": "呆呆的可爱多_",
+      "activeDevices": 2,
+      "danmuSent": 100,
+      "discussionSent": 500,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 600,
+      "lastSeenAt": "2026-07-29T02:51:51.316137"
+    },
+    {
       "weiboNickname": "DREAM S_Yy",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -55,15 +66,15 @@
       "lastSeenAt": "2026-07-29T02:41:23.741283"
     },
     {
-      "weiboNickname": "呆呆的可爱多_",
-      "activeDevices": 2,
-      "danmuSent": 100,
-      "discussionSent": 400,
+      "weiboNickname": "Sarah猫小咪",
+      "activeDevices": 1,
+      "danmuSent": 300,
+      "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 500,
-      "lastSeenAt": "2026-07-29T02:27:12.327925"
+      "totalSent": 300,
+      "lastSeenAt": "2026-07-29T02:52:48.350506"
     },
     {
       "weiboNickname": "世界如此美好1988",
@@ -86,17 +97,6 @@
       "danmuSkipped": 0,
       "totalSent": 200,
       "lastSeenAt": "2026-07-29T00:55:08.534279"
-    },
-    {
-      "weiboNickname": "Sarah猫小咪",
-      "activeDevices": 1,
-      "danmuSent": 200,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 200,
-      "lastSeenAt": "2026-07-29T02:20:21.353011"
     },
     {
       "weiboNickname": "檀多多给我做饭",
