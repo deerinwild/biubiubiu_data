@@ -3,34 +3,34 @@
   "app": "biubiubiu_android",
   "date": "2026-07-29",
   "month": "2026-07",
-  "updatedAt": "2026-07-29T11:44:20.829Z",
+  "updatedAt": "2026-07-29T11:49:56.069Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-29.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-29",
-    "activeUsers": 36,
-    "activeDevices": 42,
-    "danmuSent": 22814,
-    "discussionSent": 24296,
+    "activeUsers": 37,
+    "activeDevices": 43,
+    "danmuSent": 22914,
+    "discussionSent": 24323,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
     "lastSeenAt": "2026-07-29T21:30:20.833438",
-    "updatedAt": "2026-07-29T11:44:19.202Z"
+    "updatedAt": "2026-07-29T11:49:54.489Z"
   },
   "users": [
     {
       "weiboNickname": "平檀一生",
       "activeDevices": 2,
-      "danmuSent": 7055,
+      "danmuSent": 7155,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 7055,
-      "lastSeenAt": "2026-07-29T19:30:52.989005"
+      "totalSent": 7155,
+      "lastSeenAt": "2026-07-29T19:44:43.322772"
     },
     {
       "weiboNickname": "甜豆的T-hoohoo",
@@ -300,12 +300,12 @@
       "weiboNickname": "海伦202301",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 202,
+      "discussionSent": 229,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 202,
-      "lastSeenAt": "2026-07-29T19:39:59.334208"
+      "totalSent": 229,
+      "lastSeenAt": "2026-07-29T19:43:23.346118"
     },
     {
       "weiboNickname": "沁芳520",
@@ -416,6 +416,17 @@
       "danmuSkipped": 0,
       "totalSent": 52,
       "lastSeenAt": "2026-07-29T21:30:20.833438"
+    },
+    {
+      "weiboNickname": "檀檀18变",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 0,
+      "lastSeenAt": "2026-07-29T19:46:06.726178"
     }
   ]
 }
