@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-07-29",
   "month": "2026-07",
-  "updatedAt": "2026-07-29T10:08:46.679Z",
+  "updatedAt": "2026-07-29T10:14:26.559Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-29.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-29",
-    "activeUsers": 28,
-    "activeDevices": 34,
+    "activeUsers": 29,
+    "activeDevices": 35,
     "danmuSent": 21412,
     "discussionSent": 20690,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-29T18:05:00.905063",
-    "updatedAt": "2026-07-29T10:08:45.082Z"
+    "lastSeenAt": "2026-07-29T18:10:34.905999",
+    "updatedAt": "2026-07-29T10:14:24.401Z"
   },
   "users": [
     {
@@ -317,6 +317,17 @@
       "danmuSkipped": 0,
       "totalSent": 63,
       "lastSeenAt": "2026-07-29T00:33:23.954861"
+    },
+    {
+      "weiboNickname": "檀诺_1005",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 0,
+      "lastSeenAt": "2026-07-29T18:10:34.905999"
     },
     {
       "weiboNickname": "忻忻年年大吉祥",
