@@ -3,45 +3,45 @@
   "app": "biubiubiu_android",
   "date": "2026-07-30",
   "month": "2026-07",
-  "updatedAt": "2026-07-30T09:00:27.279Z",
+  "updatedAt": "2026-07-30T09:06:04.091Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-30.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-30",
-    "activeUsers": 34,
-    "activeDevices": 42,
-    "danmuSent": 23243,
-    "discussionSent": 19897,
+    "activeUsers": 35,
+    "activeDevices": 43,
+    "danmuSent": 23416,
+    "discussionSent": 19997,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-30T16:59:33.824706",
-    "updatedAt": "2026-07-30T09:00:25.602Z"
+    "lastSeenAt": "2026-07-30T17:04:26.961136",
+    "updatedAt": "2026-07-30T09:06:02.342Z"
   },
   "users": [
     {
       "weiboNickname": "平檀一生",
       "activeDevices": 2,
-      "danmuSent": 6446,
+      "danmuSent": 6519,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 6446,
-      "lastSeenAt": "2026-07-30T16:55:24.757020"
+      "totalSent": 6519,
+      "lastSeenAt": "2026-07-30T17:01:51.445549"
     },
     {
       "weiboNickname": "苍离不语",
       "activeDevices": 4,
       "danmuSent": 0,
-      "discussionSent": 4875,
+      "discussionSent": 4975,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 4875,
-      "lastSeenAt": "2026-07-30T16:47:04.292364"
+      "totalSent": 4975,
+      "lastSeenAt": "2026-07-30T17:00:44.775064"
     },
     {
       "weiboNickname": "狸小翎",
@@ -195,7 +195,7 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "totalSent": 948,
-      "lastSeenAt": "2026-07-30T06:09:55.927869"
+      "lastSeenAt": "2026-07-30T17:04:26.961136"
     },
     {
       "weiboNickname": "甜豆的T-hoohoo",
@@ -350,6 +350,17 @@
       "danmuSkipped": 0,
       "totalSent": 100,
       "lastSeenAt": "2026-07-30T15:23:23.743003"
+    },
+    {
+      "weiboNickname": "小耳朵梦中梦",
+      "activeDevices": 1,
+      "danmuSent": 100,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 100,
+      "lastSeenAt": "2026-07-30T17:02:17.141815"
     },
     {
       "weiboNickname": "HooHoo桃儿",
