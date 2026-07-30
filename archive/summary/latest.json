@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-30",
   "month": "2026-07",
-  "updatedAt": "2026-07-30T00:28:09.291Z",
+  "updatedAt": "2026-07-30T00:41:06.889Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-30.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -13,12 +13,12 @@
     "activeUsers": 20,
     "activeDevices": 25,
     "danmuSent": 13000,
-    "discussionSent": 5495,
+    "discussionSent": 5695,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-30T08:25:52.528112",
-    "updatedAt": "2026-07-30T00:28:07.599Z"
+    "lastSeenAt": "2026-07-30T08:39:36.010998",
+    "updatedAt": "2026-07-30T00:41:05.281Z"
   },
   "users": [
     {
@@ -143,6 +143,17 @@
       "lastSeenAt": "2026-07-30T06:26:00.794833"
     },
     {
+      "weiboNickname": "苍离不语",
+      "activeDevices": 2,
+      "danmuSent": 0,
+      "discussionSent": 400,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 400,
+      "lastSeenAt": "2026-07-30T08:39:36.010998"
+    },
+    {
       "weiboNickname": "忻忻年年大吉祥",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -152,17 +163,6 @@
       "danmuSkipped": 0,
       "totalSent": 240,
       "lastSeenAt": "2026-07-30T01:27:01.033800"
-    },
-    {
-      "weiboNickname": "苍离不语",
-      "activeDevices": 2,
-      "danmuSent": 0,
-      "discussionSent": 200,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 200,
-      "lastSeenAt": "2026-07-30T08:08:04.824561"
     },
     {
       "weiboNickname": "Glory-JCT",
