@@ -3,24 +3,35 @@
   "app": "biubiubiu_android",
   "date": "2026-07-31",
   "month": "2026-07",
-  "updatedAt": "2026-07-30T16:25:33.037Z",
+  "updatedAt": "2026-07-30T16:31:40.042Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-31.json",
     "summary": "archive/summary/2026/2026-07.json"
   },
   "totals": {
     "date": "2026-07-31",
-    "activeUsers": 2,
-    "activeDevices": 2,
+    "activeUsers": 6,
+    "activeDevices": 7,
     "danmuSent": 16,
-    "discussionSent": 125,
+    "discussionSent": 525,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
     "lastSeenAt": "2026-07-31T00:31:57.676410",
-    "updatedAt": "2026-07-30T16:25:31.289Z"
+    "updatedAt": "2026-07-30T16:31:38.434Z"
   },
   "users": [
+    {
+      "weiboNickname": "呆呆的可爱多_",
+      "activeDevices": 2,
+      "danmuSent": 0,
+      "discussionSent": 200,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 200,
+      "lastSeenAt": "2026-07-31T00:28:54.656275"
+    },
     {
       "weiboNickname": "忻忻年年大吉祥",
       "activeDevices": 1,
@@ -33,6 +44,28 @@
       "lastSeenAt": "2026-07-31T00:31:57.676410"
     },
     {
+      "weiboNickname": "檀多多给我做饭",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 100,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 100,
+      "lastSeenAt": "2026-07-31T00:30:11.329625"
+    },
+    {
+      "weiboNickname": "bare3013",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 100,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 100,
+      "lastSeenAt": "2026-07-31T00:29:58.610134"
+    },
+    {
       "weiboNickname": "沁芳520",
       "activeDevices": 1,
       "danmuSent": 16,
@@ -42,6 +75,17 @@
       "danmuSkipped": 0,
       "totalSent": 16,
       "lastSeenAt": "2026-07-31T00:20:01.823527"
+    },
+    {
+      "weiboNickname": "环环灬小炭火JC-T",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 0,
+      "lastSeenAt": "2026-07-31T00:26:38.226607"
     }
   ]
 }
