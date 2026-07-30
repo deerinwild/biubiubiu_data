@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-31",
   "month": "2026-07",
-  "updatedAt": "2026-07-30T22:02:37.532Z",
+  "updatedAt": "2026-07-30T22:08:11.429Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-31.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -12,13 +12,13 @@
     "date": "2026-07-31",
     "activeUsers": 16,
     "activeDevices": 18,
-    "danmuSent": 8248,
-    "discussionSent": 6703,
+    "danmuSent": 8348,
+    "discussionSent": 6803,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-31T06:00:47.363588",
-    "updatedAt": "2026-07-30T22:02:35.904Z"
+    "lastSeenAt": "2026-07-31T06:04:47.469340",
+    "updatedAt": "2026-07-30T22:08:09.566Z"
   },
   "users": [
     {
@@ -132,6 +132,17 @@
       "lastSeenAt": "2026-07-31T04:52:56.553445"
     },
     {
+      "weiboNickname": "沁芳520",
+      "activeDevices": 1,
+      "danmuSent": 548,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 548,
+      "lastSeenAt": "2026-07-31T06:04:47.469340"
+    },
+    {
       "weiboNickname": "狸小翎",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -154,26 +165,15 @@
       "lastSeenAt": "2026-07-31T05:56:00.921152"
     },
     {
-      "weiboNickname": "沁芳520",
-      "activeDevices": 1,
-      "danmuSent": 448,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 448,
-      "lastSeenAt": "2026-07-31T05:15:35.454112"
-    },
-    {
       "weiboNickname": "海伦202301",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 179,
+      "discussionSent": 279,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 179,
-      "lastSeenAt": "2026-07-31T05:39:14.627307"
+      "totalSent": 279,
+      "lastSeenAt": "2026-07-31T06:04:31.974687"
     },
     {
       "weiboNickname": "忻忻年年大吉祥",
