@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-30",
   "month": "2026-07",
-  "updatedAt": "2026-07-30T05:12:05.512Z",
+  "updatedAt": "2026-07-30T05:17:41.691Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-30.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -12,13 +12,13 @@
     "date": "2026-07-30",
     "activeUsers": 30,
     "activeDevices": 38,
-    "danmuSent": 17526,
-    "discussionSent": 12902,
+    "danmuSent": 17626,
+    "discussionSent": 13002,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-30T13:09:41.742546",
-    "updatedAt": "2026-07-30T05:12:03.875Z"
+    "lastSeenAt": "2026-07-30T13:14:54.112150",
+    "updatedAt": "2026-07-30T05:17:39.946Z"
   },
   "users": [
     {
@@ -143,6 +143,17 @@
       "lastSeenAt": "2026-07-30T04:26:58.230322"
     },
     {
+      "weiboNickname": "苦b不额外加糖",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 850,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 850,
+      "lastSeenAt": "2026-07-30T13:14:54.112150"
+    },
+    {
       "weiboNickname": "欧神附体＿",
       "activeDevices": 2,
       "danmuSent": 0,
@@ -154,26 +165,15 @@
       "lastSeenAt": "2026-07-30T01:48:03.144514"
     },
     {
-      "weiboNickname": "苦b不额外加糖",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 750,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 750,
-      "lastSeenAt": "2026-07-30T12:45:28.734852"
-    },
-    {
       "weiboNickname": "樊福檀跳",
       "activeDevices": 1,
-      "danmuSent": 702,
+      "danmuSent": 802,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 702,
-      "lastSeenAt": "2026-07-30T12:56:50.227267"
+      "totalSent": 802,
+      "lastSeenAt": "2026-07-30T13:14:07.603761"
     },
     {
       "weiboNickname": "檀多多给我做饭",
