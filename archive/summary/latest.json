@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-07-31",
   "month": "2026-07",
-  "updatedAt": "2026-07-30T17:28:24.291Z",
+  "updatedAt": "2026-07-30T17:34:02.261Z",
   "paths": {
     "counter": "archive/counters/2026/07/2026-07-31.json",
     "summary": "archive/summary/2026/2026-07.json"
@@ -12,13 +12,13 @@
     "date": "2026-07-31",
     "activeUsers": 12,
     "activeDevices": 14,
-    "danmuSent": 1048,
-    "discussionSent": 1292,
+    "danmuSent": 1148,
+    "discussionSent": 1392,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-07-31T01:28:13.174845",
-    "updatedAt": "2026-07-30T17:28:22.548Z"
+    "lastSeenAt": "2026-07-31T01:32:03.572126",
+    "updatedAt": "2026-07-30T17:34:00.507Z"
   },
   "users": [
     {
@@ -44,6 +44,17 @@
       "lastSeenAt": "2026-07-31T01:18:47.372957"
     },
     {
+      "weiboNickname": "檀多多给我做饭",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 300,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 300,
+      "lastSeenAt": "2026-07-31T01:31:59.991583"
+    },
+    {
       "weiboNickname": "bare3013",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -55,15 +66,15 @@
       "lastSeenAt": "2026-07-31T01:23:11.253721"
     },
     {
-      "weiboNickname": "檀多多给我做饭",
+      "weiboNickname": "樊福檀跳",
       "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 200,
+      "danmuSent": 200,
+      "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "totalSent": 200,
-      "lastSeenAt": "2026-07-31T01:01:19.690594"
+      "lastSeenAt": "2026-07-31T01:32:03.572126"
     },
     {
       "weiboNickname": "忻忻年年大吉祥",
@@ -75,17 +86,6 @@
       "danmuSkipped": 0,
       "totalSent": 125,
       "lastSeenAt": "2026-07-31T00:31:57.676410"
-    },
-    {
-      "weiboNickname": "樊福檀跳",
-      "activeDevices": 1,
-      "danmuSent": 100,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 100,
-      "lastSeenAt": "2026-07-31T01:15:39.063001"
     },
     {
       "weiboNickname": "可以吃de青苹果",
