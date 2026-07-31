@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "updatedAt": "2026-07-31T15:58:42.569Z",
+  "updatedAt": "2026-07-31T16:15:28.282Z",
   "users": {
     "忻忻年年大吉祥": {
       "weiboNickname": "忻忻年年大吉祥",
@@ -23,6 +23,50 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-08-01T01:57:29.231888"
+    },
+    "檀檀18变": {
+      "weiboNickname": "檀檀18变",
+      "devices": {
+        "3dd38aad4f14ceb8c098b350177aebae993283bf35bbddcc0cc3019d3bd37ec3": {
+          "deviceHash": "3dd38aad4f14",
+          "danmuSent": 0,
+          "discussionSent": 30,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-08-01T00:10:35.067940",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 30,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-08-01T00:10:35.067940"
+    },
+    "环环灬小炭火JC-T": {
+      "weiboNickname": "环环灬小炭火JC-T",
+      "devices": {
+        "29880a18a2efca9d570f9be3b60f01e1d159f9f70e1ac3333bb85860ba6d0261": {
+          "deviceHash": "29880a18a2ef",
+          "danmuSent": 3,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-08-01T00:01:49.360066",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 3,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-08-01T00:01:49.360066"
     }
   }
 }
