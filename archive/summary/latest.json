@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-08-01",
   "month": "2026-08",
-  "updatedAt": "2026-08-01T01:59:06.397Z",
+  "updatedAt": "2026-08-01T02:04:38.832Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-01.json",
     "summary": "archive/summary/2026/2026-08.json"
@@ -13,12 +13,12 @@
     "activeUsers": 20,
     "activeDevices": 24,
     "danmuSent": 2849,
-    "discussionSent": 10209,
+    "discussionSent": 10405,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-01T09:57:16.989656",
-    "updatedAt": "2026-08-01T01:59:04.921Z"
+    "lastSeenAt": "2026-08-01T10:01:32.081521",
+    "updatedAt": "2026-08-01T02:04:37.409Z"
   },
   "users": [
     {
@@ -55,6 +55,17 @@
       "lastSeenAt": "2026-08-01T06:27:57.466435"
     },
     {
+      "weiboNickname": "檀檀颜颜",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 1045,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1045,
+      "lastSeenAt": "2026-08-01T10:01:32.081521"
+    },
+    {
       "weiboNickname": "檀多多给我做饭",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -64,17 +75,6 @@
       "danmuSkipped": 0,
       "totalSent": 1024,
       "lastSeenAt": "2026-08-01T08:20:54.613174"
-    },
-    {
-      "weiboNickname": "檀檀颜颜",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 949,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 949,
-      "lastSeenAt": "2026-08-01T09:37:09.044125"
     },
     {
       "weiboNickname": "檀了颗糖",
@@ -113,12 +113,12 @@
       "weiboNickname": "苍离不语",
       "activeDevices": 4,
       "danmuSent": 0,
-      "discussionSent": 431,
+      "discussionSent": 531,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 431,
-      "lastSeenAt": "2026-08-01T09:54:46.080660"
+      "totalSent": 531,
+      "lastSeenAt": "2026-08-01T09:59:35.617108"
     },
     {
       "weiboNickname": "狸小翎",
