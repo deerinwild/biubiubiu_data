@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-08-02",
   "month": "2026-08",
-  "updatedAt": "2026-08-01T22:37:05.179Z",
+  "updatedAt": "2026-08-01T22:42:37.466Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-02.json",
     "summary": "archive/summary/2026/2026-08.json"
@@ -11,14 +11,14 @@
   "totals": {
     "date": "2026-08-02",
     "activeUsers": 19,
-    "activeDevices": 22,
-    "danmuSent": 4693,
-    "discussionSent": 6573,
+    "activeDevices": 23,
+    "danmuSent": 4729,
+    "discussionSent": 6673,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-02T06:35:29.359971",
-    "updatedAt": "2026-08-01T22:37:03.610Z"
+    "lastSeenAt": "2026-08-02T06:38:46.343487",
+    "updatedAt": "2026-08-01T22:42:35.906Z"
   },
   "users": [
     {
@@ -36,12 +36,12 @@
       "weiboNickname": "环环灬小炭火JC-T",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 1257,
+      "discussionSent": 1357,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 1257,
-      "lastSeenAt": "2026-08-02T06:08:36.186063"
+      "totalSent": 1357,
+      "lastSeenAt": "2026-08-02T06:37:31.536635"
     },
     {
       "weiboNickname": "苦b不额外加糖",
@@ -221,14 +221,14 @@
     },
     {
       "weiboNickname": "多多阿酸多多",
-      "activeDevices": 1,
-      "danmuSent": 0,
+      "activeDevices": 2,
+      "danmuSent": 36,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 0,
-      "lastSeenAt": "2026-08-02T06:33:49.529095"
+      "totalSent": 36,
+      "lastSeenAt": "2026-08-02T06:38:46.343487"
     }
   ]
 }
