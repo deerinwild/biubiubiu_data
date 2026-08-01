@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-08-01",
   "month": "2026-08",
-  "updatedAt": "2026-08-01T06:04:06.460Z",
+  "updatedAt": "2026-08-01T06:09:38.281Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-01.json",
     "summary": "archive/summary/2026/2026-08.json"
@@ -13,12 +13,12 @@
     "activeUsers": 24,
     "activeDevices": 28,
     "danmuSent": 5272,
-    "discussionSent": 15960,
+    "discussionSent": 16062,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-01T14:03:50.085755",
-    "updatedAt": "2026-08-01T06:04:04.877Z"
+    "lastSeenAt": "2026-08-01T14:07:30.906345",
+    "updatedAt": "2026-08-01T06:09:36.791Z"
   },
   "users": [
     {
@@ -69,12 +69,12 @@
       "weiboNickname": "檀檀颜颜",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 1677,
+      "discussionSent": 1740,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 1677,
-      "lastSeenAt": "2026-08-01T13:37:02.705563"
+      "totalSent": 1740,
+      "lastSeenAt": "2026-08-01T13:53:24.057707"
     },
     {
       "weiboNickname": "檀郎好联句",
@@ -179,12 +179,12 @@
       "weiboNickname": "钸町",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 383,
+      "discussionSent": 393,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 383,
-      "lastSeenAt": "2026-08-01T14:03:50.085755"
+      "totalSent": 393,
+      "lastSeenAt": "2026-08-01T14:04:56.855374"
     },
     {
       "weiboNickname": "千结旋律控_rsw",
@@ -264,6 +264,17 @@
       "lastSeenAt": "2026-08-01T00:54:49.235880"
     },
     {
+      "weiboNickname": "檀来财运",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 58,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 58,
+      "lastSeenAt": "2026-08-01T14:07:30.906345"
+    },
+    {
       "weiboNickname": "檀檀18变",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -273,17 +284,6 @@
       "danmuSkipped": 0,
       "totalSent": 30,
       "lastSeenAt": "2026-08-01T00:10:35.067940"
-    },
-    {
-      "weiboNickname": "檀来财运",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 29,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 29,
-      "lastSeenAt": "2026-08-01T14:02:31.599304"
     }
   ]
 }
