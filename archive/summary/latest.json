@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-08-01",
   "month": "2026-08",
-  "updatedAt": "2026-08-01T07:23:59.813Z",
+  "updatedAt": "2026-08-01T07:29:32.764Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-01.json",
     "summary": "archive/summary/2026/2026-08.json"
@@ -12,13 +12,13 @@
     "date": "2026-08-01",
     "activeUsers": 26,
     "activeDevices": 30,
-    "danmuSent": 6244,
-    "discussionSent": 18049,
+    "danmuSent": 6245,
+    "discussionSent": 18079,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-01T15:23:00.524377",
-    "updatedAt": "2026-08-01T07:23:58.333Z"
+    "lastSeenAt": "2026-08-01T15:28:21.081308",
+    "updatedAt": "2026-08-01T07:29:31.201Z"
   },
   "users": [
     {
@@ -47,12 +47,12 @@
       "weiboNickname": "海伦202301",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 2343,
+      "discussionSent": 2373,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 2343,
-      "lastSeenAt": "2026-08-01T15:20:29.750585"
+      "totalSent": 2373,
+      "lastSeenAt": "2026-08-01T15:28:21.081308"
     },
     {
       "weiboNickname": "檀多多给我做饭",
@@ -286,6 +286,17 @@
       "lastSeenAt": "2026-08-01T00:10:35.067940"
     },
     {
+      "weiboNickname": "HooHoo桃儿",
+      "activeDevices": 1,
+      "danmuSent": 1,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1,
+      "lastSeenAt": "2026-08-01T15:23:11.858911"
+    },
+    {
       "weiboNickname": "azurejx123",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -295,17 +306,6 @@
       "danmuSkipped": 0,
       "totalSent": 0,
       "lastSeenAt": "2026-08-01T15:18:25.615900"
-    },
-    {
-      "weiboNickname": "HooHoo桃儿",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 0,
-      "lastSeenAt": "2026-08-01T15:22:12.686781"
     }
   ]
 }
