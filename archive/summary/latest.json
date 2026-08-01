@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-08-02",
   "month": "2026-08",
-  "updatedAt": "2026-08-01T17:38:46.921Z",
+  "updatedAt": "2026-08-01T17:44:18.321Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-02.json",
     "summary": "archive/summary/2026/2026-08.json"
   },
   "totals": {
     "date": "2026-08-02",
-    "activeUsers": 13,
-    "activeDevices": 16,
-    "danmuSent": 1265,
-    "discussionSent": 1829,
+    "activeUsers": 14,
+    "activeDevices": 17,
+    "danmuSent": 1348,
+    "discussionSent": 1831,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-02T01:38:23.990595",
-    "updatedAt": "2026-08-01T17:38:45.502Z"
+    "lastSeenAt": "2026-08-02T01:43:24.474189",
+    "updatedAt": "2026-08-01T17:44:16.547Z"
   },
   "users": [
     {
@@ -66,6 +66,17 @@
       "lastSeenAt": "2026-08-02T01:22:48.543767"
     },
     {
+      "weiboNickname": "世界如此美好1988",
+      "activeDevices": 2,
+      "danmuSent": 283,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 283,
+      "lastSeenAt": "2026-08-02T01:43:24.474189"
+    },
+    {
       "weiboNickname": "忻忻年年大吉祥",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -86,17 +97,6 @@
       "danmuSkipped": 0,
       "totalSent": 220,
       "lastSeenAt": "2026-08-02T00:31:39.731851"
-    },
-    {
-      "weiboNickname": "世界如此美好1988",
-      "activeDevices": 2,
-      "danmuSent": 200,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 200,
-      "lastSeenAt": "2026-08-02T01:36:02.940151"
     },
     {
       "weiboNickname": "檀郎好联句",
@@ -163,6 +163,17 @@
       "danmuSkipped": 0,
       "totalSent": 12,
       "lastSeenAt": "2026-08-02T01:33:42.977549"
+    },
+    {
+      "weiboNickname": "海伦202301",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 2,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 2,
+      "lastSeenAt": "2026-08-02T01:38:45.240637"
     }
   ]
 }
