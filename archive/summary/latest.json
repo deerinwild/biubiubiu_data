@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-08-01",
   "month": "2026-08",
-  "updatedAt": "2026-08-01T04:02:30.014Z",
+  "updatedAt": "2026-08-01T04:08:01.935Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-01.json",
     "summary": "archive/summary/2026/2026-08.json"
   },
   "totals": {
     "date": "2026-08-01",
-    "activeUsers": 22,
-    "activeDevices": 26,
-    "danmuSent": 3495,
-    "discussionSent": 13320,
+    "activeUsers": 23,
+    "activeDevices": 27,
+    "danmuSent": 3496,
+    "discussionSent": 13402,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-01T12:02:20.096964",
-    "updatedAt": "2026-08-01T04:02:28.564Z"
+    "lastSeenAt": "2026-08-01T12:06:16.076409",
+    "updatedAt": "2026-08-01T04:08:00.503Z"
   },
   "users": [
     {
@@ -36,23 +36,23 @@
       "weiboNickname": "海伦202301",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 2110,
+      "discussionSent": 2164,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 2110,
-      "lastSeenAt": "2026-08-01T11:56:05.610245"
+      "totalSent": 2164,
+      "lastSeenAt": "2026-08-01T12:06:16.076409"
     },
     {
       "weiboNickname": "苍离不语",
       "activeDevices": 4,
       "danmuSent": 0,
-      "discussionSent": 1526,
+      "discussionSent": 1554,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 1526,
-      "lastSeenAt": "2026-08-01T12:02:20.096964"
+      "totalSent": 1554,
+      "lastSeenAt": "2026-08-01T12:05:01.330244"
     },
     {
       "weiboNickname": "檀多多给我做饭",
@@ -262,6 +262,17 @@
       "danmuSkipped": 0,
       "totalSent": 4,
       "lastSeenAt": "2026-08-01T11:58:10.551544"
+    },
+    {
+      "weiboNickname": "-TL檀小吉JC-",
+      "activeDevices": 1,
+      "danmuSent": 1,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1,
+      "lastSeenAt": "2026-08-01T12:04:39.045390"
     }
   ]
 }
