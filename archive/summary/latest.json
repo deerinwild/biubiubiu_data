@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-08-01",
   "month": "2026-08",
-  "updatedAt": "2026-08-01T04:41:20.826Z",
+  "updatedAt": "2026-08-01T04:46:54.906Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-01.json",
     "summary": "archive/summary/2026/2026-08.json"
@@ -12,13 +12,13 @@
     "date": "2026-08-01",
     "activeUsers": 23,
     "activeDevices": 27,
-    "danmuSent": 4018,
+    "danmuSent": 4218,
     "discussionSent": 14246,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-01T12:38:18.435235",
-    "updatedAt": "2026-08-01T04:41:19.290Z"
+    "lastSeenAt": "2026-08-01T12:44:10.715772",
+    "updatedAt": "2026-08-01T04:46:53.522Z"
   },
   "users": [
     {
@@ -110,6 +110,17 @@
       "lastSeenAt": "2026-08-01T04:40:07.481951"
     },
     {
+      "weiboNickname": "桃之夭腰2023",
+      "activeDevices": 1,
+      "danmuSent": 300,
+      "discussionSent": 509,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 809,
+      "lastSeenAt": "2026-08-01T12:42:36.003813"
+    },
+    {
       "weiboNickname": "世界如此美好1988",
       "activeDevices": 1,
       "danmuSent": 801,
@@ -119,17 +130,6 @@
       "danmuSkipped": 0,
       "totalSent": 801,
       "lastSeenAt": "2026-08-01T06:33:58.267809"
-    },
-    {
-      "weiboNickname": "桃之夭腰2023",
-      "activeDevices": 1,
-      "danmuSent": 200,
-      "discussionSent": 509,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 709,
-      "lastSeenAt": "2026-08-01T12:25:44.670371"
     },
     {
       "weiboNickname": "Sarah猫小咪",
@@ -156,13 +156,13 @@
     {
       "weiboNickname": "猫猫次客",
       "activeDevices": 1,
-      "danmuSent": 400,
+      "danmuSent": 500,
       "discussionSent": 32,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 432,
-      "lastSeenAt": "2026-08-01T12:17:32.323269"
+      "totalSent": 532,
+      "lastSeenAt": "2026-08-01T12:42:32.324403"
     },
     {
       "weiboNickname": "千结旋律控_rsw",
@@ -261,7 +261,7 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "totalSent": 95,
-      "lastSeenAt": "2026-08-01T12:32:06.794847"
+      "lastSeenAt": "2026-08-01T12:44:10.715772"
     },
     {
       "weiboNickname": "檀檀18变",
