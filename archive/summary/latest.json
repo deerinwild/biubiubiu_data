@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-08-01",
   "month": "2026-08",
-  "updatedAt": "2026-08-01T05:03:30.694Z",
+  "updatedAt": "2026-08-01T05:09:03.121Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-01.json",
     "summary": "archive/summary/2026/2026-08.json"
@@ -13,12 +13,12 @@
     "activeUsers": 23,
     "activeDevices": 27,
     "danmuSent": 4614,
-    "discussionSent": 14503,
+    "discussionSent": 14657,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-01T13:03:21.849266",
-    "updatedAt": "2026-08-01T05:03:29.265Z"
+    "lastSeenAt": "2026-08-01T13:08:29.239394",
+    "updatedAt": "2026-08-01T05:09:01.564Z"
   },
   "users": [
     {
@@ -55,6 +55,17 @@
       "lastSeenAt": "2026-08-01T12:15:18.907242"
     },
     {
+      "weiboNickname": "檀多多给我做饭",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 1635,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1635,
+      "lastSeenAt": "2026-08-01T13:07:43.839643"
+    },
+    {
       "weiboNickname": "檀檀颜颜",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -64,17 +75,6 @@
       "danmuSkipped": 0,
       "totalSent": 1541,
       "lastSeenAt": "2026-08-01T13:03:21.849266"
-    },
-    {
-      "weiboNickname": "檀多多给我做饭",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 1535,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 1535,
-      "lastSeenAt": "2026-08-01T12:38:05.895561"
     },
     {
       "weiboNickname": "檀郎好联句",
@@ -256,12 +256,12 @@
       "weiboNickname": "钸町",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 109,
+      "discussionSent": 163,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 109,
-      "lastSeenAt": "2026-08-01T12:52:37.253236"
+      "totalSent": 163,
+      "lastSeenAt": "2026-08-01T13:08:29.239394"
     },
     {
       "weiboNickname": "檀檀18变",
