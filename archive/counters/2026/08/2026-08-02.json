@@ -1,6 +1,6 @@
 {
   "date": "2026-08-02",
-  "updatedAt": "2026-08-01T17:38:45.502Z",
+  "updatedAt": "2026-08-01T17:44:16.547Z",
   "users": {
     "忻忻年年大吉祥": {
       "weiboNickname": "忻忻年年大吉祥",
@@ -159,12 +159,12 @@
       "devices": {
         "4eaf9987696707e26431edcadf2948e07d8666acd53aef76b983b1fe7794106b": {
           "deviceHash": "4eaf99876967",
-          "danmuSent": 0,
+          "danmuSent": 83,
           "discussionSent": 0,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-08-02T00:24:19.438959",
+          "lastSeenAt": "2026-08-02T01:43:24.474189",
           "appVersion": "biubiubiu1.1"
         },
         "5b5f5fbe5a965be00ecd6725fe5bbda3e061daf8c2462ff10b34d887d0cecfc4": {
@@ -179,12 +179,12 @@
         }
       },
       "activeDevices": 2,
-      "danmuSent": 200,
+      "danmuSent": 283,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-08-02T01:36:02.940151"
+      "lastSeenAt": "2026-08-02T01:43:24.474189"
     },
     "Glory-JCT": {
       "weiboNickname": "Glory-JCT",
@@ -317,6 +317,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-08-02T01:38:23.990595"
+    },
+    "海伦202301": {
+      "weiboNickname": "海伦202301",
+      "devices": {
+        "6f18a436e17ab38b4fcd31c649f388782602661091e3b548d18bc9f745140887": {
+          "deviceHash": "6f18a436e17a",
+          "danmuSent": 0,
+          "discussionSent": 2,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-08-02T01:38:45.240637",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 2,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-08-02T01:38:45.240637"
     }
   }
 }
