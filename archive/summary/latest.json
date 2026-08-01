@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-08-01",
   "month": "2026-08",
-  "updatedAt": "2026-08-01T00:22:54.947Z",
+  "updatedAt": "2026-08-01T00:31:39.561Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-01.json",
     "summary": "archive/summary/2026/2026-08.json"
   },
   "totals": {
     "date": "2026-08-01",
-    "activeUsers": 16,
-    "activeDevices": 17,
+    "activeUsers": 17,
+    "activeDevices": 19,
     "danmuSent": 2480,
-    "discussionSent": 8759,
+    "discussionSent": 8859,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-01T08:20:54.613174",
-    "updatedAt": "2026-08-01T00:22:53.432Z"
+    "lastSeenAt": "2026-08-01T08:29:34.374573",
+    "updatedAt": "2026-08-01T00:31:37.981Z"
   },
   "users": [
     {
@@ -36,12 +36,12 @@
       "weiboNickname": "海伦202301",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 1446,
+      "discussionSent": 1546,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 1446,
-      "lastSeenAt": "2026-08-01T08:05:09.021206"
+      "totalSent": 1546,
+      "lastSeenAt": "2026-08-01T08:29:34.374573"
     },
     {
       "weiboNickname": "檀郎好联句",
@@ -196,6 +196,17 @@
       "danmuSkipped": 0,
       "totalSent": 30,
       "lastSeenAt": "2026-08-01T00:10:35.067940"
+    },
+    {
+      "weiboNickname": "苍离不语",
+      "activeDevices": 2,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 0,
+      "lastSeenAt": "2026-08-01T08:27:32.244635"
     }
   ]
 }
