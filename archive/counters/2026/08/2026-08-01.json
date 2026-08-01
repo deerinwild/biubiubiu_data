@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "updatedAt": "2026-08-01T04:02:28.564Z",
+  "updatedAt": "2026-08-01T04:08:00.503Z",
   "users": {
     "忻忻年年大吉祥": {
       "weiboNickname": "忻忻年年大吉祥",
@@ -106,21 +106,21 @@
         "6f18a436e17ab38b4fcd31c649f388782602661091e3b548d18bc9f745140887": {
           "deviceHash": "6f18a436e17a",
           "danmuSent": 0,
-          "discussionSent": 2110,
+          "discussionSent": 2164,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-08-01T11:56:05.610245",
+          "lastSeenAt": "2026-08-01T12:06:16.076409",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 2110,
+      "discussionSent": 2164,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-08-01T11:56:05.610245"
+      "lastSeenAt": "2026-08-01T12:06:16.076409"
     },
     "檀多多给我做饭": {
       "weiboNickname": "檀多多给我做饭",
@@ -400,21 +400,21 @@
         "7d8f3cd65652f2796850c4d7857bfcac8b51ee5289c5093e05d905e93cda8098": {
           "deviceHash": "7d8f3cd65652",
           "danmuSent": 0,
-          "discussionSent": 202,
+          "discussionSent": 230,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-08-01T12:02:20.096964",
+          "lastSeenAt": "2026-08-01T12:05:01.330244",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 4,
       "danmuSent": 0,
-      "discussionSent": 1526,
+      "discussionSent": 1554,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-08-01T12:02:20.096964"
+      "lastSeenAt": "2026-08-01T12:05:01.330244"
     },
     "钸町": {
       "weiboNickname": "钸町",
@@ -525,6 +525,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-08-01T11:58:10.551544"
+    },
+    "-TL檀小吉JC-": {
+      "weiboNickname": "-TL檀小吉JC-",
+      "devices": {
+        "d447ac0506f49d9f7a182c6f0cf4da3512784d488420d8b754aa17e25d5df9e8": {
+          "deviceHash": "d447ac0506f4",
+          "danmuSent": 1,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-08-01T12:04:39.045390",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 1,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-08-01T12:04:39.045390"
     }
   }
 }
