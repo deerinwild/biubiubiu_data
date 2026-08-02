@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-08-02",
   "month": "2026-08",
-  "updatedAt": "2026-08-02T01:58:11.065Z",
+  "updatedAt": "2026-08-02T02:03:42.824Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-02.json",
     "summary": "archive/summary/2026/2026-08.json"
   },
   "totals": {
     "date": "2026-08-02",
-    "activeUsers": 21,
-    "activeDevices": 26,
+    "activeUsers": 22,
+    "activeDevices": 27,
     "danmuSent": 7847,
-    "discussionSent": 9141,
+    "discussionSent": 9200,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-02T09:57:33.710710",
-    "updatedAt": "2026-08-02T01:58:09.494Z"
+    "lastSeenAt": "2026-08-02T10:00:51.655965",
+    "updatedAt": "2026-08-02T02:03:41.351Z"
   },
   "users": [
     {
@@ -201,12 +201,12 @@
       "weiboNickname": "千结旋律控_rsw",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 189,
+      "discussionSent": 218,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 189,
-      "lastSeenAt": "2026-08-02T09:57:33.710710"
+      "totalSent": 218,
+      "lastSeenAt": "2026-08-02T10:00:51.655965"
     },
     {
       "weiboNickname": "檀檀18变",
@@ -251,6 +251,17 @@
       "danmuSkipped": 0,
       "totalSent": 58,
       "lastSeenAt": "2026-08-02T07:31:30.298325"
+    },
+    {
+      "weiboNickname": "檀檀颜颜",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 30,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 30,
+      "lastSeenAt": "2026-08-02T00:04:34.584223"
     }
   ]
 }
