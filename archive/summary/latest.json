@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-08-02",
   "month": "2026-08",
-  "updatedAt": "2026-08-02T03:13:19.105Z",
+  "updatedAt": "2026-08-02T03:19:12.690Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-02.json",
     "summary": "archive/summary/2026/2026-08.json"
@@ -11,14 +11,14 @@
   "totals": {
     "date": "2026-08-02",
     "activeUsers": 23,
-    "activeDevices": 28,
+    "activeDevices": 29,
     "danmuSent": 8547,
-    "discussionSent": 10881,
+    "discussionSent": 11181,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-02T11:11:18.890078",
-    "updatedAt": "2026-08-02T03:13:17.716Z"
+    "lastSeenAt": "2026-08-02T11:17:35.289252",
+    "updatedAt": "2026-08-02T03:19:11.221Z"
   },
   "users": [
     {
@@ -99,6 +99,17 @@
       "lastSeenAt": "2026-08-02T11:11:01.132618"
     },
     {
+      "weiboNickname": "檀多多给我做饭",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 1173,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1173,
+      "lastSeenAt": "2026-08-02T11:16:00.704400"
+    },
+    {
       "weiboNickname": "海伦202301",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -110,26 +121,15 @@
       "lastSeenAt": "2026-08-02T06:31:00.883264"
     },
     {
-      "weiboNickname": "檀多多给我做饭",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 1073,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 1073,
-      "lastSeenAt": "2026-08-02T10:49:30.073096"
-    },
-    {
       "weiboNickname": "苍离不语",
-      "activeDevices": 2,
+      "activeDevices": 3,
       "danmuSent": 0,
-      "discussionSent": 843,
+      "discussionSent": 1043,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 843,
-      "lastSeenAt": "2026-08-02T10:31:27.620977"
+      "totalSent": 1043,
+      "lastSeenAt": "2026-08-02T11:17:35.289252"
     },
     {
       "weiboNickname": "欧神附体＿",
