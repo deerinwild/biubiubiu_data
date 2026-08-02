@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-08-02",
   "month": "2026-08",
-  "updatedAt": "2026-08-02T02:18:20.703Z",
+  "updatedAt": "2026-08-02T02:23:46.365Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-02.json",
     "summary": "archive/summary/2026/2026-08.json"
   },
   "totals": {
     "date": "2026-08-02",
-    "activeUsers": 22,
-    "activeDevices": 27,
+    "activeUsers": 23,
+    "activeDevices": 28,
     "danmuSent": 8047,
-    "discussionSent": 9372,
+    "discussionSent": 9672,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-02T10:18:04.323851",
-    "updatedAt": "2026-08-02T02:18:19.070Z"
+    "lastSeenAt": "2026-08-02T10:20:54.300526",
+    "updatedAt": "2026-08-02T02:23:44.845Z"
   },
   "users": [
     {
@@ -36,12 +36,12 @@
       "weiboNickname": "苦b不额外加糖",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 1914,
+      "discussionSent": 2014,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 1914,
-      "lastSeenAt": "2026-08-02T09:49:03.958552"
+      "totalSent": 2014,
+      "lastSeenAt": "2026-08-02T10:18:32.037486"
     },
     {
       "weiboNickname": "环环灬小炭火JC-T",
@@ -113,12 +113,12 @@
       "weiboNickname": "檀多多给我做饭",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 873,
+      "discussionSent": 973,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 873,
-      "lastSeenAt": "2026-08-02T09:54:52.219834"
+      "totalSent": 973,
+      "lastSeenAt": "2026-08-02T10:20:54.300526"
     },
     {
       "weiboNickname": "欧神附体＿",
@@ -179,12 +179,12 @@
       "weiboNickname": "桃之夭腰2023",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 300,
+      "discussionSent": 400,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 300,
-      "lastSeenAt": "2026-08-02T09:55:46.066447"
+      "totalSent": 400,
+      "lastSeenAt": "2026-08-02T10:20:40.100869"
     },
     {
       "weiboNickname": "忻忻年年大吉祥",
@@ -262,6 +262,17 @@
       "danmuSkipped": 0,
       "totalSent": 30,
       "lastSeenAt": "2026-08-02T00:04:34.584223"
+    },
+    {
+      "weiboNickname": "檀来财运",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 0,
+      "lastSeenAt": "2026-08-02T00:01:40.216498"
     }
   ]
 }
