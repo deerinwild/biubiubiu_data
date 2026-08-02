@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-08-02",
   "month": "2026-08",
-  "updatedAt": "2026-08-02T00:56:48.940Z",
+  "updatedAt": "2026-08-02T01:02:21.093Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-02.json",
     "summary": "archive/summary/2026/2026-08.json"
@@ -12,13 +12,13 @@
     "date": "2026-08-02",
     "activeUsers": 21,
     "activeDevices": 26,
-    "danmuSent": 6979,
-    "discussionSent": 7741,
+    "danmuSent": 7079,
+    "discussionSent": 7941,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-02T08:53:19.909364",
-    "updatedAt": "2026-08-02T00:56:47.491Z"
+    "lastSeenAt": "2026-08-02T09:00:55.236727",
+    "updatedAt": "2026-08-02T01:02:19.516Z"
   },
   "users": [
     {
@@ -135,23 +135,23 @@
       "weiboNickname": "狸小翎",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 601,
+      "discussionSent": 701,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 601,
-      "lastSeenAt": "2026-08-02T08:33:44.404186"
+      "totalSent": 701,
+      "lastSeenAt": "2026-08-02T08:58:06.138917"
     },
     {
       "weiboNickname": "沁芳520",
       "activeDevices": 1,
-      "danmuSent": 600,
+      "danmuSent": 700,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 600,
-      "lastSeenAt": "2026-08-02T08:11:52.811918"
+      "totalSent": 700,
+      "lastSeenAt": "2026-08-02T09:00:34.288528"
     },
     {
       "weiboNickname": "糖千晗",
@@ -209,6 +209,17 @@
       "lastSeenAt": "2026-08-02T01:46:18.067220"
     },
     {
+      "weiboNickname": "桃之夭腰2023",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 100,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 100,
+      "lastSeenAt": "2026-08-02T09:00:55.236727"
+    },
+    {
       "weiboNickname": "小宇宙真厉害",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -240,17 +251,6 @@
       "danmuSkipped": 0,
       "totalSent": 58,
       "lastSeenAt": "2026-08-02T07:31:30.298325"
-    },
-    {
-      "weiboNickname": "桃之夭腰2023",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 0,
-      "lastSeenAt": "2026-08-02T08:34:43.003084"
     }
   ]
 }
