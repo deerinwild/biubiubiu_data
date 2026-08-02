@@ -1,6 +1,6 @@
 {
   "date": "2026-08-02",
-  "updatedAt": "2026-08-02T06:58:08.043Z",
+  "updatedAt": "2026-08-02T07:03:39.874Z",
   "users": {
     "忻忻年年大吉祥": {
       "weiboNickname": "忻忻年年大吉祥",
@@ -517,22 +517,22 @@
       "devices": {
         "5013a1147ac53592d25334ef0fb4c499dd83980ffbf9ea40781be67a89ec770e": {
           "deviceHash": "5013a1147ac5",
-          "danmuSent": 1219,
+          "danmuSent": 1319,
           "discussionSent": 449,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-08-02T14:45:51.154092",
+          "lastSeenAt": "2026-08-02T15:02:31.135715",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
-      "danmuSent": 1219,
+      "danmuSent": 1319,
       "discussionSent": 449,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-08-02T14:45:51.154092"
+      "lastSeenAt": "2026-08-02T15:02:31.135715"
     },
     "檀檀颜颜": {
       "weiboNickname": "檀檀颜颜",
@@ -584,21 +584,21 @@
         "c1a52322d2a3d503d284132a0f1a7daea048cf495f50589d3167c4593171eb17": {
           "deviceHash": "c1a52322d2a3",
           "danmuSent": 0,
-          "discussionSent": 552,
+          "discussionSent": 612,
           "danmuFailed": 0,
           "discussionFailed": 0,
           "danmuSkipped": 0,
-          "lastSeenAt": "2026-08-02T14:40:38.894013",
+          "lastSeenAt": "2026-08-02T14:57:55.460069",
           "appVersion": "biubiubiu1.1"
         }
       },
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 552,
+      "discussionSent": 612,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "lastSeenAt": "2026-08-02T14:40:38.894013"
+      "lastSeenAt": "2026-08-02T14:57:55.460069"
     },
     "连绵的不止雨": {
       "weiboNickname": "连绵的不止雨",
@@ -687,6 +687,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-08-02T14:44:27.101081"
+    },
+    "甜豆的T-hoohoo": {
+      "weiboNickname": "甜豆的T-hoohoo",
+      "devices": {
+        "9c8d07f5482e369da0c15ceca29e3ddbeddea9fd008a806ea92c89d55f8b0c30": {
+          "deviceHash": "9c8d07f5482e",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-08-02T15:02:53.996949",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-08-02T15:02:53.996949"
     }
   }
 }
