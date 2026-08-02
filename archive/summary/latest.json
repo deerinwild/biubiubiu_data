@@ -3,34 +3,34 @@
   "app": "biubiubiu_android",
   "date": "2026-08-02",
   "month": "2026-08",
-  "updatedAt": "2026-08-02T08:44:27.622Z",
+  "updatedAt": "2026-08-02T08:50:00.400Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-02.json",
     "summary": "archive/summary/2026/2026-08.json"
   },
   "totals": {
     "date": "2026-08-02",
-    "activeUsers": 30,
-    "activeDevices": 37,
-    "danmuSent": 12212,
-    "discussionSent": 21589,
+    "activeUsers": 31,
+    "activeDevices": 38,
+    "danmuSent": 12312,
+    "discussionSent": 21638,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-02T16:42:39.115305",
-    "updatedAt": "2026-08-02T08:44:26.185Z"
+    "lastSeenAt": "2026-08-02T16:49:02.264382",
+    "updatedAt": "2026-08-02T08:49:58.951Z"
   },
   "users": [
     {
       "weiboNickname": "苍离不语",
       "activeDevices": 4,
       "danmuSent": 0,
-      "discussionSent": 4164,
+      "discussionSent": 4213,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 4164,
-      "lastSeenAt": "2026-08-02T16:32:19.665121"
+      "totalSent": 4213,
+      "lastSeenAt": "2026-08-02T16:45:06.336745"
     },
     {
       "weiboNickname": "呆呆的可爱多_",
@@ -328,6 +328,17 @@
       "danmuSkipped": 0,
       "totalSent": 102,
       "lastSeenAt": "2026-08-02T16:36:03.243798"
+    },
+    {
+      "weiboNickname": "小耳朵梦中梦",
+      "activeDevices": 1,
+      "danmuSent": 100,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 100,
+      "lastSeenAt": "2026-08-02T16:49:02.264382"
     },
     {
       "weiboNickname": "小宇宙真厉害",
