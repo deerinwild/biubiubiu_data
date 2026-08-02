@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "updatedAt": "2026-08-01T17:02:05.772Z",
+  "updatedAt": "2026-08-02T03:40:50.902Z",
   "users": {
     "2281381197": {
       "weiboNickname": "2281381197",
@@ -3769,6 +3769,28 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "lastSeenAt": "2026-06-26T23:59:59.847200"
+    },
+    "连绵的不止雨": {
+      "weiboNickname": "连绵的不止雨",
+      "devices": {
+        "2bbbe03b299c62c77312f59f43b9e1aa18d91735bcab52e6862c4ffa44f5e66b": {
+          "deviceHash": "2bbbe03b299c",
+          "danmuSent": 0,
+          "discussionSent": 0,
+          "danmuFailed": 0,
+          "discussionFailed": 0,
+          "danmuSkipped": 0,
+          "lastSeenAt": "2026-06-26T19:03:24.245680",
+          "appVersion": "biubiubiu1.1"
+        }
+      },
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "lastSeenAt": "2026-06-26T19:03:24.245680"
     }
   }
 }
