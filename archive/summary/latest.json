@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-08-03",
   "month": "2026-08",
-  "updatedAt": "2026-08-03T00:52:15.644Z",
+  "updatedAt": "2026-08-03T01:00:33.217Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-03.json",
     "summary": "archive/summary/2026/2026-08.json"
@@ -11,14 +11,14 @@
   "totals": {
     "date": "2026-08-03",
     "activeUsers": 16,
-    "activeDevices": 17,
+    "activeDevices": 18,
     "danmuSent": 4034,
-    "discussionSent": 7095,
+    "discussionSent": 7207,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-03T08:51:21.083153",
-    "updatedAt": "2026-08-03T00:52:14.095Z"
+    "lastSeenAt": "2026-08-03T08:59:57.908766",
+    "updatedAt": "2026-08-03T01:00:31.514Z"
   },
   "users": [
     {
@@ -36,12 +36,12 @@
       "weiboNickname": "狸小翎",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 1716,
+      "discussionSent": 1728,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 1716,
-      "lastSeenAt": "2026-08-03T08:13:28.532902"
+      "totalSent": 1728,
+      "lastSeenAt": "2026-08-03T08:59:57.908766"
     },
     {
       "weiboNickname": "Sarah猫小咪",
@@ -143,6 +143,17 @@
       "lastSeenAt": "2026-08-03T00:46:57.995701"
     },
     {
+      "weiboNickname": "苍离不语",
+      "activeDevices": 2,
+      "danmuSent": 0,
+      "discussionSent": 136,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 136,
+      "lastSeenAt": "2026-08-03T08:58:15.192357"
+    },
+    {
       "weiboNickname": "檀檀18变",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -163,17 +174,6 @@
       "danmuSkipped": 0,
       "totalSent": 71,
       "lastSeenAt": "2026-08-03T00:22:56.021856"
-    },
-    {
-      "weiboNickname": "苍离不语",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 36,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 36,
-      "lastSeenAt": "2026-08-03T08:39:20.787752"
     },
     {
       "weiboNickname": "猫猫次客",
