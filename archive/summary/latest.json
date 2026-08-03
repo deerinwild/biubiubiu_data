@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-08-04",
   "month": "2026-08",
-  "updatedAt": "2026-08-03T17:05:32.602Z",
+  "updatedAt": "2026-08-03T17:11:10.270Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-04.json",
     "summary": "archive/summary/2026/2026-08.json"
@@ -13,12 +13,12 @@
     "activeUsers": 11,
     "activeDevices": 11,
     "danmuSent": 937,
-    "discussionSent": 554,
+    "discussionSent": 754,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
     "lastSeenAt": "2026-08-04T01:51:44.654057",
-    "updatedAt": "2026-08-03T17:05:30.813Z"
+    "updatedAt": "2026-08-03T17:11:08.180Z"
   },
   "users": [
     {
@@ -31,6 +31,28 @@
       "danmuSkipped": 0,
       "totalSent": 323,
       "lastSeenAt": "2026-08-04T01:51:44.654057"
+    },
+    {
+      "weiboNickname": "环环灬小炭火JC-T",
+      "activeDevices": 1,
+      "danmuSent": 113,
+      "discussionSent": 100,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 213,
+      "lastSeenAt": "2026-08-04T01:07:49.862208"
+    },
+    {
+      "weiboNickname": "呆呆的可爱多_",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 200,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 200,
+      "lastSeenAt": "2026-08-04T01:07:40.314458"
     },
     {
       "weiboNickname": "多多阿酸多多",
@@ -55,17 +77,6 @@
       "lastSeenAt": "2026-08-04T00:51:05.339747"
     },
     {
-      "weiboNickname": "环环灬小炭火JC-T",
-      "activeDevices": 1,
-      "danmuSent": 113,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 113,
-      "lastSeenAt": "2026-08-04T00:42:40.612477"
-    },
-    {
       "weiboNickname": "檀多多给我做饭",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -86,17 +97,6 @@
       "danmuSkipped": 0,
       "totalSent": 101,
       "lastSeenAt": "2026-08-04T01:03:36.009681"
-    },
-    {
-      "weiboNickname": "呆呆的可爱多_",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 100,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 100,
-      "lastSeenAt": "2026-08-04T00:43:11.407269"
     },
     {
       "weiboNickname": "路兮法尔HooHoo-T",
