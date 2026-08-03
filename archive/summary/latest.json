@@ -3,24 +3,35 @@
   "app": "biubiubiu_android",
   "date": "2026-08-03",
   "month": "2026-08",
-  "updatedAt": "2026-08-03T03:10:02.227Z",
+  "updatedAt": "2026-08-03T03:15:37.509Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-03.json",
     "summary": "archive/summary/2026/2026-08.json"
   },
   "totals": {
     "date": "2026-08-03",
-    "activeUsers": 21,
-    "activeDevices": 23,
-    "danmuSent": 5518,
-    "discussionSent": 9518,
+    "activeUsers": 22,
+    "activeDevices": 24,
+    "danmuSent": 5579,
+    "discussionSent": 9748,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-03T11:09:35.738435",
-    "updatedAt": "2026-08-03T03:10:00.755Z"
+    "lastSeenAt": "2026-08-03T11:14:29.424011",
+    "updatedAt": "2026-08-03T03:15:35.950Z"
   },
   "users": [
+    {
+      "weiboNickname": "狸小翎",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 2252,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 2252,
+      "lastSeenAt": "2026-08-03T11:14:01.223589"
+    },
     {
       "weiboNickname": "呆呆的可爱多_",
       "activeDevices": 2,
@@ -33,26 +44,26 @@
       "lastSeenAt": "2026-08-03T10:29:42.548909"
     },
     {
-      "weiboNickname": "狸小翎",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 2152,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 2152,
-      "lastSeenAt": "2026-08-03T10:49:38.255187"
-    },
-    {
       "weiboNickname": "Sarah猫小咪",
       "activeDevices": 1,
-      "danmuSent": 1684,
+      "danmuSent": 1742,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 1684,
-      "lastSeenAt": "2026-08-03T10:40:07.097378"
+      "totalSent": 1742,
+      "lastSeenAt": "2026-08-03T10:59:19.080419"
+    },
+    {
+      "weiboNickname": "檀多多给我做饭",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 1300,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1300,
+      "lastSeenAt": "2026-08-03T11:10:50.350792"
     },
     {
       "weiboNickname": "海伦202301",
@@ -64,17 +75,6 @@
       "danmuSkipped": 0,
       "totalSent": 1260,
       "lastSeenAt": "2026-08-03T06:21:47.501290"
-    },
-    {
-      "weiboNickname": "檀多多给我做饭",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 1200,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 1200,
-      "lastSeenAt": "2026-08-03T10:39:44.380332"
     },
     {
       "weiboNickname": "檀郎好联句",
@@ -198,6 +198,17 @@
       "lastSeenAt": "2026-08-03T00:46:57.995701"
     },
     {
+      "weiboNickname": "岁月如檀-J15",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 118,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 118,
+      "lastSeenAt": "2026-08-03T11:08:20.069313"
+    },
+    {
       "weiboNickname": "檀檀18变",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -207,17 +218,6 @@
       "danmuSkipped": 0,
       "totalSent": 97,
       "lastSeenAt": "2026-08-03T01:10:16.060945"
-    },
-    {
-      "weiboNickname": "岁月如檀-J15",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 88,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 88,
-      "lastSeenAt": "2026-08-03T10:57:17.410282"
     },
     {
       "weiboNickname": "忻忻年年大吉祥",
@@ -240,6 +240,17 @@
       "danmuSkipped": 0,
       "totalSent": 26,
       "lastSeenAt": "2026-08-03T00:11:46.453808"
+    },
+    {
+      "weiboNickname": "苦b不额外加糖",
+      "activeDevices": 1,
+      "danmuSent": 3,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 3,
+      "lastSeenAt": "2026-08-03T11:14:29.424011"
     },
     {
       "weiboNickname": "世界如此美好1988",
