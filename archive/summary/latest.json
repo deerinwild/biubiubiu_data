@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-08-03",
   "month": "2026-08",
-  "updatedAt": "2026-08-03T04:34:12.130Z",
+  "updatedAt": "2026-08-03T04:39:45.760Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-03.json",
     "summary": "archive/summary/2026/2026-08.json"
@@ -12,13 +12,13 @@
     "date": "2026-08-03",
     "activeUsers": 23,
     "activeDevices": 27,
-    "danmuSent": 6659,
-    "discussionSent": 10930,
+    "danmuSent": 6759,
+    "discussionSent": 10960,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-03T12:33:45.716330",
-    "updatedAt": "2026-08-03T04:34:10.245Z"
+    "lastSeenAt": "2026-08-03T12:38:52.065406",
+    "updatedAt": "2026-08-03T04:39:44.317Z"
   },
   "users": [
     {
@@ -77,6 +77,17 @@
       "lastSeenAt": "2026-08-03T12:26:10.630174"
     },
     {
+      "weiboNickname": "次甜柿子_一巡全勤",
+      "activeDevices": 1,
+      "danmuSent": 1304,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1304,
+      "lastSeenAt": "2026-08-03T12:38:11.273681"
+    },
+    {
       "weiboNickname": "海伦202301",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -86,17 +97,6 @@
       "danmuSkipped": 0,
       "totalSent": 1260,
       "lastSeenAt": "2026-08-03T06:21:47.501290"
-    },
-    {
-      "weiboNickname": "次甜柿子_一巡全勤",
-      "activeDevices": 1,
-      "danmuSent": 1204,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 1204,
-      "lastSeenAt": "2026-08-03T12:25:48.714021"
     },
     {
       "weiboNickname": "檀郎好联句",
@@ -245,12 +245,12 @@
       "weiboNickname": "钸町",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 30,
+      "discussionSent": 60,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 30,
-      "lastSeenAt": "2026-08-03T12:31:02.719482"
+      "totalSent": 60,
+      "lastSeenAt": "2026-08-03T12:38:52.065406"
     },
     {
       "weiboNickname": "猫猫次客",
