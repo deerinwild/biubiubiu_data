@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-08-04",
   "month": "2026-08",
-  "updatedAt": "2026-08-03T23:07:28.949Z",
+  "updatedAt": "2026-08-03T23:13:10.482Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-04.json",
     "summary": "archive/summary/2026/2026-08.json"
@@ -12,13 +12,13 @@
     "date": "2026-08-04",
     "activeUsers": 13,
     "activeDevices": 13,
-    "danmuSent": 3482,
-    "discussionSent": 5458,
+    "danmuSent": 3582,
+    "discussionSent": 5558,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-04T07:02:26.075294",
-    "updatedAt": "2026-08-03T23:07:27.138Z"
+    "lastSeenAt": "2026-08-04T07:08:34.821539",
+    "updatedAt": "2026-08-03T23:13:08.460Z"
   },
   "users": [
     {
@@ -44,6 +44,17 @@
       "lastSeenAt": "2026-08-04T06:55:04.479646"
     },
     {
+      "weiboNickname": "多多阿酸多多",
+      "activeDevices": 1,
+      "danmuSent": 1300,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1300,
+      "lastSeenAt": "2026-08-04T07:08:34.821539"
+    },
+    {
       "weiboNickname": "狸小翎",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -53,17 +64,6 @@
       "danmuSkipped": 0,
       "totalSent": 1230,
       "lastSeenAt": "2026-08-04T05:18:17.838330"
-    },
-    {
-      "weiboNickname": "多多阿酸多多",
-      "activeDevices": 1,
-      "danmuSent": 1200,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 1200,
-      "lastSeenAt": "2026-08-04T06:35:20.609237"
     },
     {
       "weiboNickname": "檀多多给我做饭",
@@ -102,12 +102,12 @@
       "weiboNickname": "檀郎好联句",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 500,
+      "discussionSent": 600,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 500,
-      "lastSeenAt": "2026-08-04T06:36:56.416510"
+      "totalSent": 600,
+      "lastSeenAt": "2026-08-04T07:08:08.094727"
     },
     {
       "weiboNickname": "忻忻年年大吉祥",
