@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-08-04",
   "month": "2026-08",
-  "updatedAt": "2026-08-03T18:20:06.811Z",
+  "updatedAt": "2026-08-03T18:28:53.794Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-04.json",
     "summary": "archive/summary/2026/2026-08.json"
@@ -12,13 +12,13 @@
     "date": "2026-08-04",
     "activeUsers": 12,
     "activeDevices": 12,
-    "danmuSent": 1247,
-    "discussionSent": 1804,
+    "danmuSent": 1347,
+    "discussionSent": 1904,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-04T02:20:00.912484",
-    "updatedAt": "2026-08-03T18:20:05.284Z"
+    "lastSeenAt": "2026-08-04T02:26:11.577503",
+    "updatedAt": "2026-08-03T18:28:52.188Z"
   },
   "users": [
     {
@@ -31,6 +31,17 @@
       "danmuSkipped": 0,
       "totalSent": 530,
       "lastSeenAt": "2026-08-04T02:17:53.685365"
+    },
+    {
+      "weiboNickname": "呆呆的可爱多_",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 500,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 500,
+      "lastSeenAt": "2026-08-04T02:26:11.577503"
     },
     {
       "weiboNickname": "环环灬小炭火JC-T",
@@ -53,17 +64,6 @@
       "danmuSkipped": 0,
       "totalSent": 412,
       "lastSeenAt": "2026-08-04T02:20:00.912484"
-    },
-    {
-      "weiboNickname": "呆呆的可爱多_",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 400,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 400,
-      "lastSeenAt": "2026-08-04T02:01:33.070983"
     },
     {
       "weiboNickname": "多多阿酸多多",
@@ -90,13 +90,13 @@
     {
       "weiboNickname": "路兮法尔HooHoo-T",
       "activeDevices": 1,
-      "danmuSent": 200,
+      "danmuSent": 300,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 200,
-      "lastSeenAt": "2026-08-04T01:34:01.262529"
+      "totalSent": 300,
+      "lastSeenAt": "2026-08-04T02:23:49.987764"
     },
     {
       "weiboNickname": "多多鱼hoohoo-T",
