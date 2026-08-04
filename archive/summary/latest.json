@@ -3,24 +3,35 @@
   "app": "biubiubiu_android",
   "date": "2026-08-05",
   "month": "2026-08",
-  "updatedAt": "2026-08-04T14:07:55.669Z",
+  "updatedAt": "2026-08-04T16:15:36.679Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-05.json",
     "summary": "archive/summary/2026/2026-08.json"
   },
   "totals": {
     "date": "2026-08-05",
-    "activeUsers": 1,
-    "activeDevices": 1,
+    "activeUsers": 2,
+    "activeDevices": 2,
     "danmuSent": 0,
-    "discussionSent": 24,
+    "discussionSent": 66,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-05T00:04:57.935844",
-    "updatedAt": "2026-08-04T14:07:53.512Z"
+    "lastSeenAt": "2026-08-05T00:09:14.856115",
+    "updatedAt": "2026-08-04T16:15:34.290Z"
   },
   "users": [
+    {
+      "weiboNickname": "呆呆的可爱多_",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 42,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 42,
+      "lastSeenAt": "2026-08-05T00:09:14.856115"
+    },
     {
       "weiboNickname": "忻忻年年大吉祥",
       "activeDevices": 1,
