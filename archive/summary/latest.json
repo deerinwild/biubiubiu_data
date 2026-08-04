@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-08-05",
   "month": "2026-08",
-  "updatedAt": "2026-08-04T17:17:57.207Z",
+  "updatedAt": "2026-08-04T17:23:37.974Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-05.json",
     "summary": "archive/summary/2026/2026-08.json"
@@ -12,15 +12,26 @@
     "date": "2026-08-05",
     "activeUsers": 15,
     "activeDevices": 16,
-    "danmuSent": 1143,
-    "discussionSent": 1531,
+    "danmuSent": 1382,
+    "discussionSent": 1931,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-05T01:14:34.965425",
-    "updatedAt": "2026-08-04T17:17:55.265Z"
+    "lastSeenAt": "2026-08-05T01:23:18.860771",
+    "updatedAt": "2026-08-04T17:23:36.324Z"
   },
   "users": [
+    {
+      "weiboNickname": "樊福檀跳",
+      "activeDevices": 1,
+      "danmuSent": 500,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 500,
+      "lastSeenAt": "2026-08-05T01:23:18.860771"
+    },
     {
       "weiboNickname": "呆呆的可爱多_",
       "activeDevices": 2,
@@ -35,35 +46,57 @@
     {
       "weiboNickname": "幸运小羔羊",
       "activeDevices": 1,
-      "danmuSent": 302,
+      "danmuSent": 341,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 302,
-      "lastSeenAt": "2026-08-05T01:12:46.874496"
-    },
-    {
-      "weiboNickname": "樊福檀跳",
-      "activeDevices": 1,
-      "danmuSent": 300,
-      "discussionSent": 0,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 300,
-      "lastSeenAt": "2026-08-05T00:49:51.191236"
+      "totalSent": 341,
+      "lastSeenAt": "2026-08-05T01:22:31.935758"
     },
     {
       "weiboNickname": "钸町",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 206,
+      "discussionSent": 306,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 206,
-      "lastSeenAt": "2026-08-05T00:49:35.750755"
+      "totalSent": 306,
+      "lastSeenAt": "2026-08-05T01:19:01.397996"
+    },
+    {
+      "weiboNickname": "檀多多给我做饭",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 300,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 300,
+      "lastSeenAt": "2026-08-05T01:18:24.568687"
+    },
+    {
+      "weiboNickname": "檀郎好联句",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 300,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 300,
+      "lastSeenAt": "2026-08-05T01:19:30.487893"
+    },
+    {
+      "weiboNickname": "檀檀颜颜",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 300,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 300,
+      "lastSeenAt": "2026-08-05T01:19:10.744982"
     },
     {
       "weiboNickname": "苦b不额外加糖",
@@ -75,39 +108,6 @@
       "danmuSkipped": 0,
       "totalSent": 200,
       "lastSeenAt": "2026-08-05T01:03:23.315323"
-    },
-    {
-      "weiboNickname": "檀多多给我做饭",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 200,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 200,
-      "lastSeenAt": "2026-08-05T00:53:38.320169"
-    },
-    {
-      "weiboNickname": "檀郎好联句",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 200,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 200,
-      "lastSeenAt": "2026-08-05T00:52:50.695368"
-    },
-    {
-      "weiboNickname": "檀檀颜颜",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 200,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 200,
-      "lastSeenAt": "2026-08-05T00:54:20.503606"
     },
     {
       "weiboNickname": "Sarah猫小咪",
