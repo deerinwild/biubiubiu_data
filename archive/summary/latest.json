@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-08-04",
   "month": "2026-08",
-  "updatedAt": "2026-08-04T00:31:28.489Z",
+  "updatedAt": "2026-08-04T00:38:49.563Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-04.json",
     "summary": "archive/summary/2026/2026-08.json"
@@ -13,12 +13,12 @@
     "activeUsers": 15,
     "activeDevices": 16,
     "danmuSent": 4015,
-    "discussionSent": 6134,
+    "discussionSent": 6334,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-04T08:15:17.208751",
-    "updatedAt": "2026-08-04T00:31:26.997Z"
+    "lastSeenAt": "2026-08-04T08:38:33.868351",
+    "updatedAt": "2026-08-04T00:38:47.965Z"
   },
   "users": [
     {
@@ -77,6 +77,17 @@
       "lastSeenAt": "2026-08-04T08:03:08.725980"
     },
     {
+      "weiboNickname": "檀郎好联句",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 863,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 863,
+      "lastSeenAt": "2026-08-04T08:33:47.579850"
+    },
+    {
       "weiboNickname": "路兮法尔HooHoo-T",
       "activeDevices": 1,
       "danmuSent": 827,
@@ -86,17 +97,6 @@
       "danmuSkipped": 0,
       "totalSent": 827,
       "lastSeenAt": "2026-08-04T06:55:01.006571"
-    },
-    {
-      "weiboNickname": "檀郎好联句",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 763,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 763,
-      "lastSeenAt": "2026-08-04T08:09:18.909577"
     },
     {
       "weiboNickname": "沁芳520",
@@ -124,12 +124,12 @@
       "weiboNickname": "苍离不语",
       "activeDevices": 2,
       "danmuSent": 0,
-      "discussionSent": 200,
+      "discussionSent": 300,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 200,
-      "lastSeenAt": "2026-08-04T08:09:54.175696"
+      "totalSent": 300,
+      "lastSeenAt": "2026-08-04T08:38:33.868351"
     },
     {
       "weiboNickname": "HooHoo桃儿",
