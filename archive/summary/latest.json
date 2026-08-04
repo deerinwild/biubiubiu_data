@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-08-04",
   "month": "2026-08",
-  "updatedAt": "2026-08-04T01:22:36.522Z",
+  "updatedAt": "2026-08-04T01:28:10.413Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-04.json",
     "summary": "archive/summary/2026/2026-08.json"
@@ -13,12 +13,12 @@
     "activeUsers": 16,
     "activeDevices": 19,
     "danmuSent": 4115,
-    "discussionSent": 7033,
+    "discussionSent": 7338,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-04T11:02:49.741291",
-    "updatedAt": "2026-08-04T01:22:34.899Z"
+    "lastSeenAt": "2026-08-04T11:28:04.270182",
+    "updatedAt": "2026-08-04T01:28:09.004Z"
   },
   "users": [
     {
@@ -66,6 +66,17 @@
       "lastSeenAt": "2026-08-04T09:19:38.046647"
     },
     {
+      "weiboNickname": "檀郎好联句",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 1063,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1063,
+      "lastSeenAt": "2026-08-04T09:27:41.045471"
+    },
+    {
       "weiboNickname": "檀多多给我做饭",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -75,17 +86,6 @@
       "danmuSkipped": 0,
       "totalSent": 1045,
       "lastSeenAt": "2026-08-04T08:03:08.725980"
-    },
-    {
-      "weiboNickname": "檀郎好联句",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 963,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 963,
-      "lastSeenAt": "2026-08-04T08:58:16.913871"
     },
     {
       "weiboNickname": "路兮法尔HooHoo-T",
@@ -113,23 +113,23 @@
       "weiboNickname": "苍离不语",
       "activeDevices": 4,
       "danmuSent": 0,
-      "discussionSent": 501,
+      "discussionSent": 606,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 501,
-      "lastSeenAt": "2026-08-04T09:22:23.601260"
+      "totalSent": 606,
+      "lastSeenAt": "2026-08-04T09:24:55.311325"
     },
     {
       "weiboNickname": "忻忻年年大吉祥",
       "activeDevices": 1,
       "danmuSent": 323,
-      "discussionSent": 0,
+      "discussionSent": 100,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 323,
-      "lastSeenAt": "2026-08-04T11:02:49.741291"
+      "totalSent": 423,
+      "lastSeenAt": "2026-08-04T11:28:04.270182"
     },
     {
       "weiboNickname": "HooHoo桃儿",
