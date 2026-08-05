@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-08-05",
   "month": "2026-08",
-  "updatedAt": "2026-08-05T02:25:50.406Z",
+  "updatedAt": "2026-08-05T02:31:24.534Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-05.json",
     "summary": "archive/summary/2026/2026-08.json"
   },
   "totals": {
     "date": "2026-08-05",
-    "activeUsers": 22,
-    "activeDevices": 26,
-    "danmuSent": 5408,
-    "discussionSent": 11092,
+    "activeUsers": 23,
+    "activeDevices": 27,
+    "danmuSent": 5508,
+    "discussionSent": 11122,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-05T10:24:26.396233",
-    "updatedAt": "2026-08-05T02:25:48.908Z"
+    "lastSeenAt": "2026-08-05T10:30:50.462712",
+    "updatedAt": "2026-08-05T02:31:23.099Z"
   },
   "users": [
     {
@@ -52,7 +52,7 @@
       "discussionFailed": 0,
       "danmuSkipped": 0,
       "totalSent": 1435,
-      "lastSeenAt": "2026-08-05T10:21:04.167421"
+      "lastSeenAt": "2026-08-05T10:22:31.121126"
     },
     {
       "weiboNickname": "环环灬小炭火JC-T",
@@ -124,23 +124,23 @@
       "weiboNickname": "沁芳520",
       "activeDevices": 1,
       "danmuSent": 734,
-      "discussionSent": 30,
+      "discussionSent": 60,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 764,
-      "lastSeenAt": "2026-08-05T09:18:54.663241"
+      "totalSent": 794,
+      "lastSeenAt": "2026-08-05T10:26:04.493416"
     },
     {
       "weiboNickname": "世界如此美好1988",
       "activeDevices": 1,
-      "danmuSent": 654,
+      "danmuSent": 754,
       "discussionSent": 0,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 654,
-      "lastSeenAt": "2026-08-05T09:42:42.014106"
+      "totalSent": 754,
+      "lastSeenAt": "2026-08-05T10:30:50.462712"
     },
     {
       "weiboNickname": "钸町",
@@ -262,6 +262,17 @@
       "danmuSkipped": 0,
       "totalSent": 24,
       "lastSeenAt": "2026-08-05T00:04:57.935844"
+    },
+    {
+      "weiboNickname": "SICI_D",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 0,
+      "lastSeenAt": "2026-08-05T10:25:51.664347"
     }
   ]
 }
