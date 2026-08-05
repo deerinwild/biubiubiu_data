@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-08-05",
   "month": "2026-08",
-  "updatedAt": "2026-08-05T05:13:18.590Z",
+  "updatedAt": "2026-08-05T05:18:55.119Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-05.json",
     "summary": "archive/summary/2026/2026-08.json"
@@ -13,12 +13,12 @@
     "activeUsers": 27,
     "activeDevices": 32,
     "danmuSent": 8090,
-    "discussionSent": 16703,
+    "discussionSent": 16819,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
     "lastSeenAt": "2026-08-05T14:57:55.268498",
-    "updatedAt": "2026-08-05T05:13:16.926Z"
+    "updatedAt": "2026-08-05T05:18:53.257Z"
   },
   "users": [
     {
@@ -132,6 +132,17 @@
       "lastSeenAt": "2026-08-05T12:48:53.769065"
     },
     {
+      "weiboNickname": "多多阿酸多多",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 1125,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1125,
+      "lastSeenAt": "2026-08-05T13:15:54.415811"
+    },
+    {
       "weiboNickname": "世界如此美好1988",
       "activeDevices": 1,
       "danmuSent": 1054,
@@ -141,17 +152,6 @@
       "danmuSkipped": 0,
       "totalSent": 1054,
       "lastSeenAt": "2026-08-05T12:55:43.050541"
-    },
-    {
-      "weiboNickname": "多多阿酸多多",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 1025,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 1025,
-      "lastSeenAt": "2026-08-05T12:46:16.750463"
     },
     {
       "weiboNickname": "檀郎好联句",
@@ -245,12 +245,12 @@
       "weiboNickname": "狸小翎",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 256,
+      "discussionSent": 272,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 256,
-      "lastSeenAt": "2026-08-05T13:11:20.365165"
+      "totalSent": 272,
+      "lastSeenAt": "2026-08-05T13:17:47.650597"
     },
     {
       "weiboNickname": "海伦202301",
