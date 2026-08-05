@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-08-05",
   "month": "2026-08",
-  "updatedAt": "2026-08-05T11:08:27.066Z",
+  "updatedAt": "2026-08-05T11:14:04.883Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-05.json",
     "summary": "archive/summary/2026/2026-08.json"
   },
   "totals": {
     "date": "2026-08-05",
-    "activeUsers": 36,
-    "activeDevices": 43,
+    "activeUsers": 37,
+    "activeDevices": 44,
     "danmuSent": 16766,
-    "discussionSent": 27189,
+    "discussionSent": 27288,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
     "lastSeenAt": "2026-08-05T20:21:41.918518",
-    "updatedAt": "2026-08-05T11:08:24.895Z"
+    "updatedAt": "2026-08-05T11:14:03.164Z"
   },
   "users": [
     {
@@ -165,6 +165,17 @@
       "lastSeenAt": "2026-08-05T19:07:19.208324"
     },
     {
+      "weiboNickname": "狸小翎",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 1310,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1310,
+      "lastSeenAt": "2026-08-05T19:10:36.892344"
+    },
+    {
       "weiboNickname": "却雀",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -185,17 +196,6 @@
       "danmuSkipped": 0,
       "totalSent": 1229,
       "lastSeenAt": "2026-08-05T12:48:53.769065"
-    },
-    {
-      "weiboNickname": "狸小翎",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 1212,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 1212,
-      "lastSeenAt": "2026-08-05T17:34:51.297233"
     },
     {
       "weiboNickname": "沁芳520",
@@ -394,6 +394,17 @@
       "danmuSkipped": 0,
       "totalSent": 1,
       "lastSeenAt": "2026-08-05T18:50:50.839660"
+    },
+    {
+      "weiboNickname": "眠眠觉得不妥hoo",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 1,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1,
+      "lastSeenAt": "2026-08-05T19:09:04.263026"
     },
     {
       "weiboNickname": "慕檀",
