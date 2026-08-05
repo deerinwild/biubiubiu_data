@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-08-06",
   "month": "2026-08",
-  "updatedAt": "2026-08-05T15:54:17.533Z",
+  "updatedAt": "2026-08-05T16:05:42.093Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-06.json",
     "summary": "archive/summary/2026/2026-08.json"
   },
   "totals": {
     "date": "2026-08-06",
-    "activeUsers": 1,
-    "activeDevices": 1,
-    "danmuSent": 0,
-    "discussionSent": 421,
+    "activeUsers": 3,
+    "activeDevices": 3,
+    "danmuSent": 7,
+    "discussionSent": 445,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
     "lastSeenAt": "2026-08-06T01:50:13.446470",
-    "updatedAt": "2026-08-05T15:54:15.754Z"
+    "updatedAt": "2026-08-05T16:05:40.015Z"
   },
   "users": [
     {
@@ -31,6 +31,28 @@
       "danmuSkipped": 0,
       "totalSent": 421,
       "lastSeenAt": "2026-08-06T01:50:13.446470"
+    },
+    {
+      "weiboNickname": "檀檀18变",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 24,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 24,
+      "lastSeenAt": "2026-08-06T00:04:02.180445"
+    },
+    {
+      "weiboNickname": "樊福檀跳",
+      "activeDevices": 1,
+      "danmuSent": 7,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 7,
+      "lastSeenAt": "2026-08-06T00:01:01.062307"
     }
   ]
 }
