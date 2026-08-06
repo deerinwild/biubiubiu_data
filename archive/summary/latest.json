@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-08-06",
   "month": "2026-08",
-  "updatedAt": "2026-08-06T05:23:21.008Z",
+  "updatedAt": "2026-08-06T05:39:31.116Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-06.json",
     "summary": "archive/summary/2026/2026-08.json"
@@ -12,15 +12,26 @@
     "date": "2026-08-06",
     "activeUsers": 16,
     "activeDevices": 20,
-    "danmuSent": 1918,
-    "discussionSent": 7652,
+    "danmuSent": 2018,
+    "discussionSent": 7749,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-06T13:19:05.904684",
-    "updatedAt": "2026-08-06T05:23:19.365Z"
+    "lastSeenAt": "2026-08-06T13:38:53.285350",
+    "updatedAt": "2026-08-06T05:39:29.575Z"
   },
   "users": [
+    {
+      "weiboNickname": "狸小翎",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 1958,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 1958,
+      "lastSeenAt": "2026-08-06T13:38:53.285350"
+    },
     {
       "weiboNickname": "呆呆的可爱多_",
       "activeDevices": 2,
@@ -31,17 +42,6 @@
       "danmuSkipped": 0,
       "totalSent": 1896,
       "lastSeenAt": "2026-08-06T11:35:48.849207"
-    },
-    {
-      "weiboNickname": "狸小翎",
-      "activeDevices": 1,
-      "danmuSent": 0,
-      "discussionSent": 1861,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 1861,
-      "lastSeenAt": "2026-08-06T13:09:52.626118"
     },
     {
       "weiboNickname": "环环灬小炭火JC-T",
@@ -57,13 +57,13 @@
     {
       "weiboNickname": "糖千晗",
       "activeDevices": 2,
-      "danmuSent": 100,
+      "danmuSent": 200,
       "discussionSent": 783,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 883,
-      "lastSeenAt": "2026-08-06T13:18:17.953124"
+      "totalSent": 983,
+      "lastSeenAt": "2026-08-06T13:34:28.025590"
     },
     {
       "weiboNickname": "苍离不语",
