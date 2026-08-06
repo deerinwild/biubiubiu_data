@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-08-06",
   "month": "2026-08",
-  "updatedAt": "2026-08-06T05:14:09.462Z",
+  "updatedAt": "2026-08-06T05:23:21.008Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-06.json",
     "summary": "archive/summary/2026/2026-08.json"
@@ -12,13 +12,13 @@
     "date": "2026-08-06",
     "activeUsers": 16,
     "activeDevices": 20,
-    "danmuSent": 1818,
-    "discussionSent": 7552,
+    "danmuSent": 1918,
+    "discussionSent": 7652,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-06T13:09:52.626118",
-    "updatedAt": "2026-08-06T05:14:07.670Z"
+    "lastSeenAt": "2026-08-06T13:19:05.904684",
+    "updatedAt": "2026-08-06T05:23:19.365Z"
   },
   "users": [
     {
@@ -55,6 +55,17 @@
       "lastSeenAt": "2026-08-06T05:47:37.335478"
     },
     {
+      "weiboNickname": "糖千晗",
+      "activeDevices": 2,
+      "danmuSent": 100,
+      "discussionSent": 783,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 883,
+      "lastSeenAt": "2026-08-06T13:18:17.953124"
+    },
+    {
       "weiboNickname": "苍离不语",
       "activeDevices": 3,
       "danmuSent": 0,
@@ -66,26 +77,15 @@
       "lastSeenAt": "2026-08-06T12:42:40.976497"
     },
     {
-      "weiboNickname": "糖千晗",
-      "activeDevices": 2,
-      "danmuSent": 0,
-      "discussionSent": 783,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 783,
-      "lastSeenAt": "2026-08-06T13:03:40.295945"
-    },
-    {
       "weiboNickname": "Sarah猫小咪",
       "activeDevices": 1,
       "danmuSent": 0,
-      "discussionSent": 610,
+      "discussionSent": 710,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 610,
-      "lastSeenAt": "2026-08-06T12:54:30.995330"
+      "totalSent": 710,
+      "lastSeenAt": "2026-08-06T13:19:05.904684"
     },
     {
       "weiboNickname": "多多鱼hoohoo-T",
