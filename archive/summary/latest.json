@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-08-06",
   "month": "2026-08",
-  "updatedAt": "2026-08-06T01:04:49.206Z",
+  "updatedAt": "2026-08-06T01:18:14.313Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-06.json",
     "summary": "archive/summary/2026/2026-08.json"
@@ -13,12 +13,12 @@
     "activeUsers": 15,
     "activeDevices": 18,
     "danmuSent": 1717,
-    "discussionSent": 5889,
+    "discussionSent": 5989,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-06T08:53:33.115055",
-    "updatedAt": "2026-08-06T01:04:47.703Z"
+    "lastSeenAt": "2026-08-06T09:13:11.196018",
+    "updatedAt": "2026-08-06T01:18:12.762Z"
   },
   "users": [
     {
@@ -88,6 +88,17 @@
       "lastSeenAt": "2026-08-06T01:50:13.446470"
     },
     {
+      "weiboNickname": "苍离不语",
+      "activeDevices": 3,
+      "danmuSent": 0,
+      "discussionSent": 392,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 392,
+      "lastSeenAt": "2026-08-06T09:13:11.196018"
+    },
+    {
       "weiboNickname": "幸运小羔羊",
       "activeDevices": 1,
       "danmuSent": 327,
@@ -108,17 +119,6 @@
       "danmuSkipped": 0,
       "totalSent": 300,
       "lastSeenAt": "2026-08-06T02:25:36.068138"
-    },
-    {
-      "weiboNickname": "苍离不语",
-      "activeDevices": 3,
-      "danmuSent": 0,
-      "discussionSent": 292,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 292,
-      "lastSeenAt": "2026-08-06T08:53:33.115055"
     },
     {
       "weiboNickname": "YUZUJC_拼接裤拉链",
