@@ -3,7 +3,7 @@
   "app": "biubiubiu_android",
   "date": "2026-08-06",
   "month": "2026-08",
-  "updatedAt": "2026-08-06T00:47:09.087Z",
+  "updatedAt": "2026-08-06T00:58:39.654Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-06.json",
     "summary": "archive/summary/2026/2026-08.json"
@@ -11,14 +11,14 @@
   "totals": {
     "date": "2026-08-06",
     "activeUsers": 15,
-    "activeDevices": 17,
+    "activeDevices": 18,
     "danmuSent": 1717,
-    "discussionSent": 5826,
+    "discussionSent": 5889,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-06T08:40:55.070281",
-    "updatedAt": "2026-08-06T00:47:07.658Z"
+    "lastSeenAt": "2026-08-06T08:53:33.115055",
+    "updatedAt": "2026-08-06T00:58:38.029Z"
   },
   "users": [
     {
@@ -110,6 +110,17 @@
       "lastSeenAt": "2026-08-06T02:25:36.068138"
     },
     {
+      "weiboNickname": "苍离不语",
+      "activeDevices": 3,
+      "danmuSent": 0,
+      "discussionSent": 292,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 292,
+      "lastSeenAt": "2026-08-06T08:53:33.115055"
+    },
+    {
       "weiboNickname": "YUZUJC_拼接裤拉链",
       "activeDevices": 1,
       "danmuSent": 0,
@@ -119,17 +130,6 @@
       "danmuSkipped": 0,
       "totalSent": 239,
       "lastSeenAt": "2026-08-06T02:26:30.779010"
-    },
-    {
-      "weiboNickname": "苍离不语",
-      "activeDevices": 2,
-      "danmuSent": 0,
-      "discussionSent": 229,
-      "danmuFailed": 0,
-      "discussionFailed": 0,
-      "danmuSkipped": 0,
-      "totalSent": 229,
-      "lastSeenAt": "2026-08-06T08:40:55.070281"
     },
     {
       "weiboNickname": "多多阿酸多多",
