@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-08-07",
   "month": "2026-08",
-  "updatedAt": "2026-08-07T04:50:12.417Z",
+  "updatedAt": "2026-08-07T04:59:56.267Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-07.json",
     "summary": "archive/summary/2026/2026-08.json"
   },
   "totals": {
     "date": "2026-08-07",
-    "activeUsers": 3,
-    "activeDevices": 4,
+    "activeUsers": 4,
+    "activeDevices": 5,
     "danmuSent": 1005,
     "discussionSent": 1600,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
     "lastSeenAt": "2026-08-07T12:45:09.125108",
-    "updatedAt": "2026-08-07T04:50:10.896Z"
+    "updatedAt": "2026-08-07T04:59:54.729Z"
   },
   "users": [
     {
@@ -53,6 +53,17 @@
       "danmuSkipped": 0,
       "totalSent": 100,
       "lastSeenAt": "2026-08-07T12:45:09.125108"
+    },
+    {
+      "weiboNickname": "YUZUJC_拼接裤拉链",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 0,
+      "lastSeenAt": "2026-08-07T12:14:18.064686"
     }
   ]
 }
