@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-08-08",
   "month": "2026-08",
-  "updatedAt": "2026-08-08T09:59:09.499Z",
+  "updatedAt": "2026-08-08T10:15:38.671Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-08.json",
     "summary": "archive/summary/2026/2026-08.json"
   },
   "totals": {
     "date": "2026-08-08",
-    "activeUsers": 4,
-    "activeDevices": 6,
+    "activeUsers": 5,
+    "activeDevices": 7,
     "danmuSent": 1131,
     "discussionSent": 2400,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-08T17:33:16.196801",
-    "updatedAt": "2026-08-08T09:59:08.041Z"
+    "lastSeenAt": "2026-08-08T18:10:35.429161",
+    "updatedAt": "2026-08-08T10:15:37.261Z"
   },
   "users": [
     {
@@ -64,6 +64,17 @@
       "danmuSkipped": 0,
       "totalSent": 155,
       "lastSeenAt": "2026-08-08T14:24:18.339758"
+    },
+    {
+      "weiboNickname": "不会起昵称jc",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 0,
+      "lastSeenAt": "2026-08-08T18:10:35.429161"
     }
   ]
 }
