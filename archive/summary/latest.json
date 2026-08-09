@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-08-09",
   "month": "2026-08",
-  "updatedAt": "2026-08-09T06:03:47.499Z",
+  "updatedAt": "2026-08-09T06:34:49.045Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-09.json",
     "summary": "archive/summary/2026/2026-08.json"
   },
   "totals": {
     "date": "2026-08-09",
-    "activeUsers": 4,
-    "activeDevices": 4,
+    "activeUsers": 5,
+    "activeDevices": 5,
     "danmuSent": 1157,
-    "discussionSent": 0,
+    "discussionSent": 76,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-09T11:16:28.106508",
-    "updatedAt": "2026-08-09T06:03:46.041Z"
+    "lastSeenAt": "2026-08-09T14:29:47.237057",
+    "updatedAt": "2026-08-09T06:34:47.668Z"
   },
   "users": [
     {
@@ -42,6 +42,17 @@
       "danmuSkipped": 0,
       "totalSent": 184,
       "lastSeenAt": "2026-08-09T10:06:41.685318"
+    },
+    {
+      "weiboNickname": "檀来财运",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 76,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 76,
+      "lastSeenAt": "2026-08-09T14:29:47.237057"
     },
     {
       "weiboNickname": "呆呆的可爱多_",
