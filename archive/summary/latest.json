@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-08-11",
   "month": "2026-08",
-  "updatedAt": "2026-08-11T06:45:35.331Z",
+  "updatedAt": "2026-08-11T06:57:28.613Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-11.json",
     "summary": "archive/summary/2026/2026-08.json"
   },
   "totals": {
     "date": "2026-08-11",
-    "activeUsers": 4,
-    "activeDevices": 4,
+    "activeUsers": 5,
+    "activeDevices": 5,
     "danmuSent": 1122,
     "discussionSent": 1030,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-11T14:40:29.434437",
-    "updatedAt": "2026-08-11T06:45:33.656Z"
+    "lastSeenAt": "2026-08-11T14:52:27.077527",
+    "updatedAt": "2026-08-11T06:57:27.172Z"
   },
   "users": [
     {
@@ -53,6 +53,17 @@
       "danmuSkipped": 0,
       "totalSent": 30,
       "lastSeenAt": "2026-08-11T13:06:17.643444"
+    },
+    {
+      "weiboNickname": "檀来财运",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 0,
+      "lastSeenAt": "2026-08-11T14:52:27.077527"
     },
     {
       "weiboNickname": "糖千晗",
