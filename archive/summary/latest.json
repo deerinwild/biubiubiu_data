@@ -3,34 +3,34 @@
   "app": "biubiubiu_android",
   "date": "2026-08-12",
   "month": "2026-08",
-  "updatedAt": "2026-08-12T12:37:17.127Z",
+  "updatedAt": "2026-08-12T12:44:21.009Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-12.json",
     "summary": "archive/summary/2026/2026-08.json"
   },
   "totals": {
     "date": "2026-08-12",
-    "activeUsers": 4,
-    "activeDevices": 4,
+    "activeUsers": 5,
+    "activeDevices": 5,
     "danmuSent": 1739,
-    "discussionSent": 505,
+    "discussionSent": 635,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-12T20:32:50.973859",
-    "updatedAt": "2026-08-12T12:37:14.634Z"
+    "lastSeenAt": "2026-08-12T20:41:07.830786",
+    "updatedAt": "2026-08-12T12:44:18.649Z"
   },
   "users": [
     {
       "weiboNickname": "呆呆的可爱多_",
       "activeDevices": 1,
       "danmuSent": 1669,
-      "discussionSent": 414,
+      "discussionSent": 444,
       "danmuFailed": 0,
       "discussionFailed": 0,
       "danmuSkipped": 0,
-      "totalSent": 2083,
-      "lastSeenAt": "2026-08-12T20:32:50.973859"
+      "totalSent": 2113,
+      "lastSeenAt": "2026-08-12T20:41:07.830786"
     },
     {
       "weiboNickname": "见面吧丶HOOHOO",
@@ -42,6 +42,17 @@
       "danmuSkipped": 0,
       "totalSent": 161,
       "lastSeenAt": "2026-08-12T13:17:15.113001"
+    },
+    {
+      "weiboNickname": "檀来财运",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 100,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 100,
+      "lastSeenAt": "2026-08-12T20:39:37.227543"
     },
     {
       "weiboNickname": "檀檀桔子",
