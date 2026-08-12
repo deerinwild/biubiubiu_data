@@ -3,22 +3,22 @@
   "app": "biubiubiu_android",
   "date": "2026-08-12",
   "month": "2026-08",
-  "updatedAt": "2026-08-12T11:17:36.707Z",
+  "updatedAt": "2026-08-12T11:29:04.524Z",
   "paths": {
     "counter": "archive/counters/2026/08/2026-08-12.json",
     "summary": "archive/summary/2026/2026-08.json"
   },
   "totals": {
     "date": "2026-08-12",
-    "activeUsers": 3,
-    "activeDevices": 3,
+    "activeUsers": 4,
+    "activeDevices": 4,
     "danmuSent": 1739,
     "discussionSent": 194,
     "danmuFailed": 0,
     "discussionFailed": 0,
     "danmuSkipped": 0,
-    "lastSeenAt": "2026-08-12T19:12:38.541509",
-    "updatedAt": "2026-08-12T11:17:34.599Z"
+    "lastSeenAt": "2026-08-12T19:24:01.669048",
+    "updatedAt": "2026-08-12T11:29:02.673Z"
   },
   "users": [
     {
@@ -42,6 +42,17 @@
       "danmuSkipped": 0,
       "totalSent": 161,
       "lastSeenAt": "2026-08-12T13:17:15.113001"
+    },
+    {
+      "weiboNickname": "檀檀桔子",
+      "activeDevices": 1,
+      "danmuSent": 0,
+      "discussionSent": 0,
+      "danmuFailed": 0,
+      "discussionFailed": 0,
+      "danmuSkipped": 0,
+      "totalSent": 0,
+      "lastSeenAt": "2026-08-12T19:24:01.669048"
     },
     {
       "weiboNickname": "炭火妮妮",
